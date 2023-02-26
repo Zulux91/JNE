@@ -1,0 +1,3054 @@
+[
+  {
+    "id": "313b7f35-5c01-4d07-8a59-fa65ea29693b",
+    "name": "_Home_",
+    "packageName": "home",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "437481e8-b00d-4a74-a136-f02ca1592ec3",
+    "name": "2MD: VR Football Unleashed",
+    "packageName": "com.truantpixel.twomdquest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0fb12277-2d9f-4dd9-a0e3-2fd79cd12188",
+    "name": "A Fisherman’s Tale",
+    "packageName": "com.innerspacevr.afishermanstale",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f73ab3c5-8fb2-4601-bff1-c953f2338599",
+    "name": "A Township Tale",
+    "packageName": "com.Alta.ATownshipTale",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "99825d52-8c16-48d7-8c36-ce88d8939283",
+    "name": "Accounting+",
+    "packageName": "com.crowscrowscrows.AccountingPlus",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "405f354a-252e-4fbf-b62c-c8e822a783cb",
+    "name": "Acron: Attack of the Squirrels!",
+    "packageName": "com.resolutiongames.codenamelazarus",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "633c335a-9fd0-471e-b32d-163b696cc936",
+    "name": "AFFECTED The Manor (Re-Visited)",
+    "packageName": "com.fallen.manorquest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "e8f55231-fd1c-4fa5-8712-e9211d7aea9f",
+    "name": "After The Fall",
+    "packageName": "com.vertigogames.atf",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "772c6eaf-e374-4632-be83-2b5ec5a7241d",
+    "name": "Air Hockey VR",
+    "packageName": "com.Default.AirHockeyVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "01fdd48a-0b3d-47c9-a55a-201813c16c52",
+    "name": "All-In-One Sports",
+    "packageName": "com.Appnori.AllInOneSports",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "8a930615-bda1-47b4-bbc6-f2bee1f41ece",
+    "name": "AlpineAcceleration",
+    "packageName": "com.sai.AlpineAcceleration",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "6c23505c-aef7-4c9a-8a73-2f98c79d4e47",
+    "name": "Altdeus",
+    "packageName": "com.MyDearest.Altdeus",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "ebd20df1-ac1c-4307-a0fa-902036c4093d",
+    "name": "Among Us VR",
+    "packageName": "com.schellgames.amongusvr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "38d0cff3-6d61-4a73-8b23-a35bc024a9c5",
+    "name": "Ancient Dungeon",
+    "packageName": "de.erthu.ancientdungeonfull",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "ae5377c8-dcc6-4673-a786-1d3ce5a813fd",
+    "name": "Ancient Dungeon Beta",
+    "packageName": "de.erthu.ancientdungeon",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "ca9f3cde-7776-43d1-9ae3-f1f4d28c4625",
+    "name": "Angry Birds VR: Isle of Pigs",
+    "packageName": "com.resolutiongames.abvriop.santacruz",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "1dc01f7a-a169-431f-ae44-7a39d71375d4",
+    "name": "Anne Frank House VR",
+    "packageName": "com.forcefieldxr.annefrankhousevr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "2ffcad1b-ecbc-49f7-af7e-7ac367938b9c",
+    "name": "Anshar 2",
+    "packageName": "com.ozwe.aw2h",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "e89cf20d-13d0-4738-88d6-bbac14945156",
+    "name": "Antiprism",
+    "packageName": "com.ZeroFun.Antiprism",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "3c1ddfdb-0f41-4839-9630-c00f2193270a",
+    "name": "Apex Construct",
+    "packageName": "com.fasttravelgames.apexconstruct",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0dfdf959-8480-4ef0-8bab-dd80d2f92e75",
+    "name": "Apollo_11",
+    "packageName": "com.immersivevreducation.Apollo11QuestFinal",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "26fbe319-909e-4e71-bad9-df5d3a38b1b1",
+    "name": "Arcaxer",
+    "packageName": "com.Overrungames.Arcaxer",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "5a390016-4dd5-4145-86cd-ba72f714fd32",
+    "name": "Arcsmith",
+    "packageName": "com.BithellGames.Arcsmith",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "48468e81-ed4d-4bea-b083-6273c53c47d1",
+    "name": "Area Man Lives",
+    "packageName": "com.cyanventures.AreaManLives",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "c2508f4d-8864-4fd9-b08b-eaa856ee9003",
+    "name": "Arizona Sunshine",
+    "packageName": "com.vertigogames.azsq",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "a7179679-dd50-433a-81dc-c3552122702f",
+    "name": "ARK-ADE",
+    "packageName": "com.CASTELLOInc.ARK_ADE_full",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "754b47d0-b27b-43b1-8311-378dcebb3e33",
+    "name": "Arrowhead - Medieval Archery VR",
+    "packageName": "com.kilogrames.arrowheadmedievalarcheryvr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f9871089-2961-4a07-bd57-db3e2b65fbad",
+    "name": "Art Plunge",
+    "packageName": "com.spaceplunge.artplungeoq",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "5ce7e259-a24e-4d70-a324-b33b8d841b97",
+    "name": "AttackOnQuest",
+    "packageName": "com.AoQ.AttackOnQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "e416bb5d-1bd5-48a4-982d-2c60166f9dd2",
+    "name": "Audio Trip",
+    "packageName": "com.KinemotikStudios.AudioTripQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "5c5c364b-6590-46f3-b8f8-14b0d6064736",
+    "name": "Babayaga",
+    "packageName": "com.baobab.babayaga",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "5c3dab02-8566-4499-88a1-88112c7b1e1d",
+    "name": "Bacon Roll",
+    "packageName": "com.fieldofvision.baconroll",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "05d52c80-e3a9-4f1f-b6fc-72583e82366e",
+    "name": "Bait!",
+    "packageName": "com.resolutiongames.baitsantacruz",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "2ccc7c9a-43a8-4663-ae86-e101de2554f4",
+    "name": "Ballista",
+    "packageName": "com.HighVoltage.Crossbow",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "1a878692-4723-4e7c-b93e-55a424ede06d",
+    "name": "Bartender VR Simulator",
+    "packageName": "com.VRFactory.VRBartenderSymulator",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "3bba3bbf-37b8-4a68-a62c-aaba7683bb1f",
+    "name": "Beat Paber",
+    "packageName": "com.beatgames.beatpaber",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "a7fa724a-9abd-462d-a6f9-376a06afe187",
+    "name": "Beat Saber",
+    "packageName": "com.beatgames.beatsaber",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "3c791834-cd25-47a7-8134-e7f4d8b6ba5a",
+    "name": "Big Ballers Basketball VR",
+    "packageName": "com.dogelabs.bigballersbasketball",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "79e2a824-9580-4075-845b-d94ba79fe665",
+    "name": "Big Bat VR",
+    "packageName": "com.AVRspot.BigBatVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "64956281-282b-4764-8f4b-c993c8fb7f6f",
+    "name": "Black Hole Pool",
+    "packageName": "com.el.blackholepooldemo",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "239ea563-f207-4c80-a49d-6b34607ac97b",
+    "name": "Blade And Sorcery",
+    "packageName": "com.Warpfrog.BladeAndSorcery",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "7bb715a0-99d1-40e7-bd5f-c47e89b24c95",
+    "name": "Blair Witch: Oculus Quest Edition",
+    "packageName": "pl.bloober.blairwitch",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "fe636923-62be-4293-b271-c1ad8d8e3d5c",
+    "name": "Blaston",
+    "packageName": "com.resolutiongames.ignis",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "2ac5e337-1e0c-4978-8e35-5da53a72a299",
+    "name": "BlazeRush",
+    "packageName": "ru.targem.blazerush",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b21563d5-5977-49e5-a95e-aa8d7c7625bd",
+    "name": "Blokz",
+    "packageName": "com.Rezzil.Blokz",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "168f62b8-4957-417a-a81c-3cbae8d2faff",
+    "name": "Bocce Time !",
+    "packageName": "com.DeepDiveInteractive.BocceTime",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d13f27ba-18a8-4769-a03f-14f90ef53e8c",
+    "name": "Bogo",
+    "packageName": "com.oculus.MontereyNUX",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "cc672839-c435-472e-b4e3-61ab98f8306f",
+    "name": "Bonelab",
+    "packageName": "com.StressLevelZero.BONELAB",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "54d60d78-3510-4172-af29-29d8ecc50483",
+    "name": "Bonfire",
+    "packageName": "com.baobab.bonfire",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "5757daf4-11a6-4806-827d-9364ce09a585",
+    "name": "Boule Pétanque",
+    "packageName": "com.KaiKramhoeft.Boulepetanque",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d6183d4f-e343-4129-8efa-a4caf0e70126",
+    "name": "Bowman",
+    "packageName": "com.dmm.bowman",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "efaf8a48-8084-42b4-97e2-e50a28a9ceed",
+    "name": "Breachers",
+    "packageName": "com.TriangleFactory.Breachers",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "60ea5b6f-acee-4bea-8fac-6199de4878e1",
+    "name": "BricksVR",
+    "packageName": "com.BricksVR.BricksVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "9b5c8564-9592-4b71-8656-0db98209ab1d",
+    "name": "BRINK Traveler",
+    "packageName": "com.brink.vr.oculus.quest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "02eaf08a-5c10-4815-8ab7-b02cb61ffb61",
+    "name": "Broken Edge",
+    "packageName": "com.trebuchet.BrokenEdge",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "858adfce-f4e5-4db9-b3e4-7a785fed1d90",
+    "name": "Bubble Trip 2",
+    "packageName": "com.Pixihead.BubbleTripQ",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "05cafdb1-a58e-4cb3-8847-533df5f0f1ff",
+    "name": "Bullet Roulette",
+    "packageName": "com.fibrum.bulletroulette",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "e9d2c7d8-da3b-4969-8467-0bd7eb36bf3a",
+    "name": "Cactus Cowboy 3 - Fully Loaded",
+    "packageName": "com.CactusVRStudios.CactusCowboy3",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b0fbfb8c-5790-45eb-818a-4eaf03bcd872",
+    "name": "Cake Mouse",
+    "packageName": "com.StudioHORANG.CakeMouseQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "5bd44d1c-be2c-4830-9c50-b57372cc42fd",
+    "name": "Can You Do It ?",
+    "packageName": "com.tgs.vr.canyoudoit",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "3cd3d41a-231d-40a7-bf88-6e0d58bcbffd",
+    "name": "Captain ToonHead vs The Punks from Outer Space",
+    "packageName": "com.TeravisionGames.NeonFuryVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "44c2a48e-1363-4878-9430-50d74078ae72",
+    "name": "Car Mechanic Simulator",
+    "packageName": "com.GameFormatic.CMSVRQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "90b5b336-b3a8-4665-a4cb-c2278d51147b",
+    "name": "Car Parking Simulator",
+    "packageName": "com.sloppy.carparkingsimulator",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "2cd0708d-1fb8-4aa6-ae00-81512f542027",
+    "name": "Cards & Tanckards",
+    "packageName": "com.DivergentRealities.CardsTankards",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "35b1c8dc-566a-45a6-896f-8abdb5426034",
+    "name": "Carly And The Reaperman",
+    "packageName": "com.resolutiongames.catr.ovr.quest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "3012aa26-ce76-446c-a6c7-32c5c6a193ca",
+    "name": "Catan VR",
+    "packageName": "com.Experiment7.Aurora",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b05504b1-5661-4c15-9068-726f37db8487",
+    "name": "Chess Club",
+    "packageName": "com.odders.livechess",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d052ceb4-0b97-4dc3-b4ee-87045b13f524",
+    "name": "Chunky Orbits",
+    "packageName": "com.BrainBlinks.ChunkyOrbitsQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "2cd2290b-7556-463a-a1b9-b3e099677d21",
+    "name": "Chupa Chupa VR",
+    "packageName": "com.kan.kikuchi.ChupaChupaVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "6d05765c-20ff-4cfa-b044-db7125d06232",
+    "name": "Clash Of Chefs",
+    "packageName": "com.flathillgames.clashofchefsvr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "112a16c6-68a1-4823-b9b3-f243f83961f2",
+    "name": "Clay Hunt VR",
+    "packageName": "com.shotgungaming.clayhuntvr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0ddf5600-4c1c-49be-ad54-661fe3e55396",
+    "name": "Cleansheet",
+    "packageName": "com.INCISIV.CS_Oculus",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b18fb954-9531-4e3c-973c-c18c298e9820",
+    "name": "Climbey",
+    "packageName": "net.shadowbraingames.climbeydemo",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "5ebf7820-d3e6-4663-8640-d7dbc71255b9",
+    "name": "Coaster Combat",
+    "packageName": "com.forcefieldxr.coastercombatquest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "5e8be5d7-9857-4b68-b6a7-0bd86d0992b1",
+    "name": "Coffin Rot Brewing Co.",
+    "packageName": "com.NoonerBearStudio.CoffinRotBrewingCo",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d28c156c-cf3f-4280-8dc6-a89cef1246b8",
+    "name": "Color Space",
+    "packageName": "us.lighthaus.colorspace",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "e8a1e330-3e2b-4bc6-a8ad-979286283b68",
+    "name": "Colossal Cave 3D Adventure  ♡VR78.cn",
+    "packageName": "com.CygnusEntertainment.ColossalCave3DAdventure",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "94014a17-08c9-4340-a459-8344ee7c1fa6",
+    "name": "ColourConnectVR",
+    "packageName": "com.DevMattSanders.ColourConnectVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "07e1cf32-38a0-4736-b508-1902e5be56a2",
+    "name": "COMPOUND",
+    "packageName": "com.notdead.COMPOUNDQUEST",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "282689e3-7d21-4f4d-af05-9c37890d4a24",
+    "name": "Contractors",
+    "packageName": "com.CaveManStudio.ContractorsVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "7bc172a3-5143-4246-ad7c-996046bdab3c",
+    "name": "Cook-Out",
+    "packageName": "com.resolutiongames.cookinggame",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "ada82499-d2e4-45ec-a8a2-27ac2bb9afbd",
+    "name": "Cornhole",
+    "packageName": "com.forevr.corn_hole",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "8f8441dc-5ecc-4726-999f-55832dd7354a",
+    "name": "Cosmic Flow: A Relaxing VR Experience",
+    "packageName": "com.tiltkey.cosmic_flow_v1",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "3d81e703-07ea-42d1-986b-ab81bafef225",
+    "name": "Cosmodread",
+    "packageName": "com.WhiteDoorGames.Cosmodread",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "4f46cf0c-b852-4fc8-ace6-f416646230f7",
+    "name": "Cosmonious High",
+    "packageName": "com.OwlchemyLabs.CosmoniousHigh",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "9e7b3b3b-8b67-415f-9f73-1d760ef96792",
+    "name": "Crashland",
+    "packageName": "com.LACGames.Crashland",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "74bc6b4b-7645-4fc3-b842-97aaf1baa74a",
+    "name": "Crazy Croquet",
+    "packageName": "de.selfox.crazycroquet",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "fd644a3d-d016-4807-91d9-e9773597774a",
+    "name": "Crazy Kung Fu",
+    "packageName": "com.fieldofvision.crazykungfu",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "984d177b-84d0-44be-b2e8-ebff47716c79",
+    "name": "Creed: Rise to Glory",
+    "packageName": "com.survios.Creed",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "e953e7b2-6f5f-484c-990b-e1818ee75518",
+    "name": "Crisis Brigade 2 Reloaded",
+    "packageName": "com.sumalab.CrisisBrigade2reloaded",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b9592c1a-4cc7-40e1-924e-d97b54da52de",
+    "name": "Crisis VRigade",
+    "packageName": "com.sumalab.CrisisVRigade",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "4602b3a7-9c84-45f9-b3f5-c3bf6dd145e7",
+    "name": "Crisis VRigade 2",
+    "packageName": "com.sumalab.CrisisVRigade2",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "edd2990c-d530-4761-8a22-7e8ab7b33b52",
+    "name": "CubeHook",
+    "packageName": "com.ArcarveStudio.CubeHook",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d9fced85-6c5b-446c-b248-243e759980ae",
+    "name": "Cubism",
+    "packageName": "com.tvb.cubism",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "af0d586d-f3eb-4857-ae2f-6ec187f341cb",
+    "name": "Cueist 2",
+    "packageName": "com.Saitarasoft.new2021poolgame",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d50c6f7f-2bc3-4bdb-ac87-7d0031167bdc",
+    "name": "Daedalus",
+    "packageName": "com.VerticalRobot.DaedalusQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "8664656c-5ce6-44f4-82f0-7207648148de",
+    "name": "Dance Central",
+    "packageName": "com.HarmonixMusic.DCVRQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "8b356f99-16fb-4017-be3d-22ef25b1c844",
+    "name": "Dash Dash World",
+    "packageName": "com.motionx.quest.xhart",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "a6b5b5d1-9e54-40af-84a3-8f241739feb6",
+    "name": "Dead Second",
+    "packageName": "com.spunge.projectshooter",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "51825cd6-34b4-45d9-afdd-b69807f9c935",
+    "name": "Death Horizon : Reloaded",
+    "packageName": "com.dreamdev.deathhorizon.quest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "85ea0c7a-c71c-4b27-9664-55511e44abb9",
+    "name": "Death Lap",
+    "packageName": "com.ozwe.deathlap",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "bba1bb7c-1b91-463d-8b62-0419fe9be8e0",
+    "name": "Defibrillator Simulator",
+    "packageName": "com.ChalkBites.DefibrillatorQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "424bacf4-35ac-4d56-9ab9-32e57d2e7af0",
+    "name": "Deism",
+    "packageName": "com.MyronSoftware.Deisim",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "23f874f4-32ac-4f1d-a221-471de5d06e9d",
+    "name": "Demeo",
+    "packageName": "com.resolutiongames.demeo",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "3e287d6e-7746-4c97-a479-fc0618891141",
+    "name": "Desperate: Vladivostok",
+    "packageName": "com.PM.Vladivostok",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "47891830-b117-4515-af81-96b04958f77c",
+    "name": "Directive Nine",
+    "packageName": "com.rooftoppanda.directivenine",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "fe75f3af-f5e5-46d6-a830-1cc6c59df121",
+    "name": "Disc Benders : Ace Run",
+    "packageName": "com.FreeFallStudios.DiscBenders",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "8f9a2c28-d4f3-4096-a089-9d898ec0f295",
+    "name": "Disc Ninja",
+    "packageName": "com.Immersion.NinjaChallenge",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "bd2024b9-95c2-44c7-b24b-82216c5cb685",
+    "name": "Dissection Simulator: Frog Edition",
+    "packageName": "com.VictoryXR.FrogDissectionQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "fcd44f34-91e7-48f1-a5d9-e535155d841f",
+    "name": "Dissection Simulator: Invertibrate Edition",
+    "packageName": "com.VictoryXR.SquidDissection",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "6dd7be27-52ba-4a81-9329-b09388183cf2",
+    "name": "Doctor Who : The Edge of Time",
+    "packageName": "com.mazetheory.doctorwho",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "65832544-8d8b-4674-9f2d-c72954994598",
+    "name": "Doom 3 Quest",
+    "packageName": "com.drbeef.doom3quest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "432c8254-4691-409e-8d38-97f786f201b4",
+    "name": "Down The Rabbit Hole",
+    "packageName": "com.CortopiaStudios.DTRH",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "508fe6d8-c9fd-4d7e-8fb5-dad5358eb3b6",
+    "name": "Dreadhalls",
+    "packageName": "com.WhiteDoorGames.DreadhallsQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f6f39951-db89-4f0d-b407-896150d55c99",
+    "name": "Driven",
+    "packageName": "com.MK1.Driven",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "c0f96935-2a46-49cd-82e1-59241c0500ae",
+    "name": "Driven-Full",
+    "packageName": "com.MK1.DrivenFull",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "55cc2a28-6db6-4004-bd76-1fb5a387588d",
+    "name": "Drop Dead: Dual Strike",
+    "packageName": "com.PixelToys.DropDead",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "89a8b5a0-0a46-4d00-955b-f121de3c2f7c",
+    "name": "Drunkn Bar Fight",
+    "packageName": "com.themunky.drunknbarfightQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "21cfac03-db81-4b1f-9185-55e55f6a4863",
+    "name": "DvG : Conquering Giants",
+    "packageName": "com.Immersive.DVGQ",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "252030be-a385-4381-84fe-e125e44c454e",
+    "name": "Dyschronia : Chronos Alternate",
+    "packageName": "com.MyDearest.DyschroniaCA",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "05dbbf5c-22bb-4570-9836-75852beffd4d",
+    "name": "Echo VR",
+    "packageName": "com.readyatdawn.r15",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "29938f02-a289-4329-bbec-f999bde41fdd",
+    "name": "Electronauts",
+    "packageName": "com.survios.Electronauts",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "7ea107b9-3bcf-4f53-b880-6d0c21bc6000",
+    "name": "Eleven",
+    "packageName": "quest.elevenBeta.forfunlabs",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "2313f8ca-00ce-4be8-b160-47f45c45b531",
+    "name": "Eleven Table Tennis",
+    "packageName": "quest.eleven.forfunlabs",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "5423c534-6130-49e7-a406-33e81f20e8c7",
+    "name": "Elixir",
+    "packageName": "com.magnopus.ElixirStore",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "2688903b-319c-4ea8-b32f-60c22e5bec0a",
+    "name": "Elven Assassin",
+    "packageName": "com.WenklyStudio.ElvenAssassin",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "acf29e3f-3d7b-48d8-8f79-087751bd6e39",
+    "name": "Eolia",
+    "packageName": "com.ROTU.Eolia",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "dec06950-fbd0-41c5-a9c3-4148ec353426",
+    "name": "Epic Roller Coasters",
+    "packageName": "games.b4t.epicrollercoasters.oculus",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "ddadea16-c4c4-4d5d-bb14-6971818c6595",
+    "name": "Escape Room Bank Robbery Gone Wrong",
+    "packageName": "com.Vasil4N.EscapeRoomBankRobberyGoneWrong",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0dd31b0d-e2c1-40b8-b26c-1fb8d343a52c",
+    "name": "Espire 1 VR Operative",
+    "packageName": "com.DigitalLode.Espire1",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "afdad586-1fcc-4f4d-9f4d-400f2e6fff6f",
+    "name": "Espire 2",
+    "packageName": "com.DigitalLode.Espire2",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "3bafbb92-c4dd-47c3-9b27-29667f85b94d",
+    "name": "Eternal Starlight",
+    "packageName": "com.wnas.eternalstarlight",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "636c5eef-c261-471b-b291-56951210ca54",
+    "name": "Exorcist: LegionVR",
+    "packageName": "com.wolfandwood.exorcistlegionvr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0aa5279a-c0b8-459f-ba62-14ffd4c027f0",
+    "name": "Face Your Fears 2",
+    "packageName": "gg.trs.fyf2",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0ecc87df-fee8-42bc-8213-9466212d9e56",
+    "name": "Falcon Age",
+    "packageName": "com.OuterloopGames.FalconAge",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "ab6e4d1b-642a-4ac5-9617-21ef6ab4dd4a",
+    "name": "Finger Gun",
+    "packageName": "com.MiruStudio.FingerGun",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "77da3dae-8f67-424d-8b11-b883b5754f88",
+    "name": "Fingers: Mini Games",
+    "packageName": "com.dedm0zaj.FingersMiniGames",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "2f18b1b3-2429-4222-b2a9-b4a5cdd3193d",
+    "name": "Firefox Reality",
+    "packageName": "org.mozilla.vrbrowser",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "35963e3d-0aa9-4f7e-9d2a-d8d1900f143a",
+    "name": "First Contact",
+    "packageName": "com.Oculus.FirstContact",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d40b809a-c33c-4c37-88ff-6b487033a7cc",
+    "name": "First Person Tennis",
+    "packageName": "com.mikorigames.firstpersontennis",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "523b4c03-fcb8-4f54-a056-376f5990b674",
+    "name": "First Steps",
+    "packageName": "com.oculus.MiramarSetupRetail",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "64185159-2dc7-43aa-b758-bbe6d66b8136",
+    "name": "FitXR",
+    "packageName": "com.fitxr.boxvr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "2c8a3801-5882-4bdc-8867-e346a6b45304",
+    "name": "Five Nights at Freddy's VR",
+    "packageName": "com.SteelWoolGames.fnafhw",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "c40aa83d-1c0d-4487-bf0a-dfe589be348a",
+    "name": "Floor Plan 2",
+    "packageName": "com.turbobutton.fp2",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "4ffec06a-1e57-40e1-b864-92e9e2b5d9ec",
+    "name": "Flowborne - Breathing Meditation",
+    "packageName": "com.vunderwelten.flowbornevr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "95772edb-229d-4775-86c2-0ce91aa94fae",
+    "name": "ForeVR Bowl",
+    "packageName": "com.forevr.bowling",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "8250254c-1f8a-4c1a-95c8-c25597dedbae",
+    "name": "FREEDIVER : Triton Down",
+    "packageName": "com.Archiact.Freediver",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b05c539f-4d0d-4428-955e-8e858c7a64cb",
+    "name": "Fruit Ninja",
+    "packageName": "com.halfbrick.fruitninjavr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "cdde079e-6019-4a93-ac68-59527c0ac79b",
+    "name": "Fujii",
+    "packageName": "com.funktroniclabs.fuji",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "6ec89dd0-f546-4d2f-9c39-1b844954a3c6",
+    "name": "Fun House",
+    "packageName": "com.fairview.funhouse",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "a9daae4d-7f6b-4308-8470-43b6a8906ae9",
+    "name": "Futbolin Revolution VR",
+    "packageName": "com.Pixelfun.FutbolinRevolution",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f6e0c5f4-700c-4b35-936e-471f79c57242",
+    "name": "Gadgeteer",
+    "packageName": "com.metanaut.Gadgeteer",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "cf8be8a0-51db-4824-8bda-0c3094cd5f0d",
+    "name": "GAIM",
+    "packageName": "com.GAIM.GAIM_OS",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "5954291d-63c4-44ad-8f3c-47aad870c797",
+    "name": "GameBov",
+    "packageName": "com.GameBov.GameBov",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "385116ca-7f98-4778-bf76-cb7540181489",
+    "name": "Ghost Giant",
+    "packageName": "com.zoink.ghostgiant",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "15f7612b-5816-4386-b645-e0845aba1647",
+    "name": "Gladiatus",
+    "packageName": "com.varonia.gladiatus",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "45f5ec35-4b4a-40bd-a924-4a5799909577",
+    "name": "Gladius",
+    "packageName": "com.VirtualAge.GladiusQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "25bd97ce-bc01-4340-93f0-8bfbe69cd0c7",
+    "name": "Glider Sim",
+    "packageName": "com.FiveDRealities.GliderSim",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "2ca7cc8f-a2e5-4203-a789-aad88f8fde0e",
+    "name": "Gloomy Eyes",
+    "packageName": "com.arte.gloomy_eyes",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "98b8794c-bd95-4ecb-bf6a-716030b89292",
+    "name": "Golf +",
+    "packageName": "com.golfscope.proputt",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "e382b108-f0e1-47d6-b69e-d2cfe66f132d",
+    "name": "Golf 5 eClub",
+    "packageName": "com.aaagamestudios.golf5eclub",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "83510d8d-f1af-468c-ab7c-0f760a892605",
+    "name": "Gorilla Tag",
+    "packageName": "com.AnotherAxiom.GorillaTag",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "c5eb603e-5d32-4b47-9f44-b02de7b1c33e",
+    "name": "Gorn",
+    "packageName": "com.freelives.gorn",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "ca8de717-9e95-4042-8702-3554273e7383",
+    "name": "Gravity Lab",
+    "packageName": "com.markschramm.gravitylab",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "642f92a3-6049-427b-b57e-ce2f93e2a33d",
+    "name": "Green Hell VR",
+    "packageName": "com.Incuvo.GreenHellVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "8a27d73e-715a-4790-81ed-cf2c55e28eb9",
+    "name": "GRID Legends",
+    "packageName": "com.codemasters.gridlegends",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b3054c89-dd81-4c0a-8620-69bbd9c980c9",
+    "name": "Guided Meditation VR",
+    "packageName": "com.CubicleNinjas.GuidedMeditationVRQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "bc7b9c41-5ee7-4fe4-8eb2-66ba00cc99ae",
+    "name": "Guided Tai Chi",
+    "packageName": "com.CubicleNinjas.GuidedTaiChi",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "3b3db557-9004-41b9-898d-960836d29600",
+    "name": "Gun Club VR",
+    "packageName": "com.nextgenreality.GunClubVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d380f2d8-a979-4568-87b5-93f3fe9c0644",
+    "name": "Guns'N'Stories: Bulletproof",
+    "packageName": "com.MiroWin.OMT",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "472c5217-74cc-4f62-bfd6-18078e8650a8",
+    "name": "Gym Class - Basketball",
+    "packageName": "com.IRLStudios.GymClass",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "80087696-e03c-44dd-8e45-42a43dacfd66",
+    "name": "Half + Half",
+    "packageName": "com.normalvr.halfandhalf",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "2e007bb3-f0c2-4e01-8c26-3866fc1ed5ec",
+    "name": "Hand Physics Lab",
+    "packageName": "com.holonautic.HandPhysicsLab",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0f4b1f06-bb6f-4b3f-96bc-6cd426f8016b",
+    "name": "HandSpace",
+    "packageName": "com.pushmatrix.handspace",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f2972f7a-b858-4ff4-b968-8779b9fddba3",
+    "name": "Hatsune Miku",
+    "packageName": "jp.co.crypton.mikuvrq",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "98fdfc74-dbcc-46c9-b10e-ca6a45876f63",
+    "name": "Hitch Hiker",
+    "packageName": "com.madaboutpandas.hitchhikergame",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "4d86026f-e9e9-42a2-8be1-0e51aa047f57",
+    "name": "Home After War",
+    "packageName": "com.nowheremedia.homeafterwar",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0caf81ae-52b1-44ba-a0a7-a98d21b90e4a",
+    "name": "Horizon Worlds",
+    "packageName": "com.facebook.horizon",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "c6800181-e9fa-4235-8777-7809effd30a9",
+    "name": "House Flipper VR",
+    "packageName": "com.oculus.HouseFlipperVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "795cc1a6-3e23-4c49-a78b-ef0d942f7fbd",
+    "name": "Human Anatomy Puzzle",
+    "packageName": "com.mgdigital.AnatomyPuzzle",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "68860c67-dcf7-4fbf-9cc8-35f3d7f81519",
+    "name": "HyperDash",
+    "packageName": "com.TriangleFactory.HyperDash",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d1b995f1-68fa-49cf-8a07-a03363bbff95",
+    "name": "Hypnosis Reveries",
+    "packageName": "com.JesStudio.HypnosisReveries",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "3aff6db3-78d5-43b6-8b16-a11defb82836",
+    "name": "I Expect You To Die",
+    "packageName": "com.schellgames.ieytdquest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "53bc5e9a-9a0d-4cfe-8f79-10ca2ab49365",
+    "name": "I Expect You To Die 2",
+    "packageName": "com.schellgames.ieytd2",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "24713a54-e6b5-4c25-8232-4dc84a8fca1a",
+    "name": "Ice Cold Beer Quest",
+    "packageName": "com.BinaryPlayground.IceColdBeerQUEST",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "358fb438-5eb4-4ee0-b1b4-83e072a76647",
+    "name": "Immercyve : Living with intellectual disability",
+    "packageName": "com.VGH.ID",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f2a032ac-56df-4ad3-a20e-b2dfc71cb955",
+    "name": "In Death Unchained",
+    "packageName": "com.Solfar.InDeath",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "ed9a942e-c004-4bfd-b6cf-5c40215f922c",
+    "name": "Interkosmos 2000",
+    "packageName": "com.ovidworks.fallingstar",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0524d91d-8923-4a90-ac0a-4529217f9377",
+    "name": "IntoTheRadius",
+    "packageName": "com.CMGames.IntoTheRadius",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "cb12e24a-0ce3-487c-ae6e-0ace25350fb6",
+    "name": "Iron Guard",
+    "packageName": "com.XlabDigital.IronGuardVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d4d2cdf2-410a-4767-91a5-3218e9f53dba",
+    "name": "Ironlights",
+    "packageName": "com.emcneill.Ironlights",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "6c56b570-ed1b-4846-83c4-5de7cadc250a",
+    "name": "Izneo",
+    "packageName": "com.Izneo.VRReader",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "ad039498-f1aa-4953-ab67-75de6ebfddc7",
+    "name": "Jetbounce",
+    "packageName": "com.kastelsoft.jetbounce",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "75a7aed0-8c0f-4e64-b231-e85e51290f69",
+    "name": "Job Simulator",
+    "packageName": "com.owlchemylabs.jobsimulator",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "5934b4fe-11b7-4807-a98c-edb064812f99",
+    "name": "Journey of the Gods",
+    "packageName": "gg.trs.grappa",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b6cf2701-f7ba-4263-aa39-5f321a549947",
+    "name": "Jupiter and Mars",
+    "packageName": "com.AndreElijah.JupiterAndMars",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "85b714fd-942d-4e22-90e3-7638d4178c23",
+    "name": "Jurassic World",
+    "packageName": "com.felixandpaul.quest.jw_portal",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "5e6515ce-d764-48ee-a2fb-ae386ef71a63",
+    "name": "Jurassic World Aftermath",
+    "packageName": "com.coatsink.alone",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "422fe7c5-6b87-4305-8785-d028dabe082e",
+    "name": "Just Hoops",
+    "packageName": "io.rc.gba",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "9b3e4fee-fbb0-48d5-8bf9-d6e591ade36c",
+    "name": "Kartoffl",
+    "packageName": "com.breach.kartofflgame",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "517ce3da-e87d-4ef8-8e70-fb75f8692ac4",
+    "name": "Keep Talking and Nobody Explodes",
+    "packageName": "com.steelcrategames.keeptalkingandnobodyexplodes",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "c61fee93-5889-46e4-86c2-2836a5491c4e",
+    "name": "Kingspray Graffiti VR",
+    "packageName": "com.infectiousape.kingspray",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "da0143b5-84c5-46d0-8553-e26106f97f30",
+    "name": "Knockout League",
+    "packageName": "com.grab.knockout",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "78c20f5e-fee9-4cd7-b632-3a25924a19a7",
+    "name": "Lambda1VR",
+    "packageName": "com.drbeef.lambda1vr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d1a6441e-cc6c-4968-b20a-d2ddc3705ba7",
+    "name": "Larcenauts",
+    "packageName": "com.ImpulseGear.Firestorm",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "aacf1c13-8c8a-4ac5-916b-44120dfdc4c4",
+    "name": "Layers of Fear VR",
+    "packageName": "com.bloober.layersoffearvr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "3685e909-95fc-44ab-bd03-17423313b9b6",
+    "name": "Les Mills Bodycombat",
+    "packageName": "com.odders.shapeit",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "49242354-ae6e-4f2f-889e-4a948a9cec08",
+    "name": "Let's Create! Pottery VR",
+    "packageName": "com.idreams.potteryvrq",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "a4fe23fe-63ca-48e4-bf34-cdbc9ea63ce8",
+    "name": "Let's Play With Anna !",
+    "packageName": "com.vrjcc.AnnaU",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "1faf67cb-2a49-46fd-93b6-74da24eb425c",
+    "name": "Lies Beneath",
+    "packageName": "com.Drifter.Kodiak",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "4ebf785e-c34a-4c5a-80eb-f279ad234c10",
+    "name": "Linelight VR 你下载的全部来自VR魔趣网独家技术破解源头 VRmoo.cn",
+    "packageName": "com.mydogzorro.linelightvr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "c1be6082-3480-41ff-9900-1f25b133006e",
+    "name": "LittleCities",
+    "packageName": "com.purpleyonder.littlecities",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "4c8e1af5-1e57-43ed-afca-2cfbe5e10974",
+    "name": "Loco Dojo",
+    "packageName": "com.makereal.LocoDojoQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "6f80c023-d2a5-4d69-9154-7726ed79b56d",
+    "name": "Lost In Place",
+    "packageName": "com.brightcornerslls.lostinplace",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "fcdae64c-43ff-4e90-9df2-2ce9e26b78dc",
+    "name": "Lost Recipes",
+    "packageName": "com.SchellGames.LostRecipes",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "dd2c3a57-53e2-43cb-9e6f-beb63933c349",
+    "name": "Lucky Fish Bread",
+    "packageName": "com.VisualLight.LuckyFishBread",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "cb0c31f6-d316-4879-95f3-1be0b242794b",
+    "name": "Lucky's Tale",
+    "packageName": "com.playful.LuckysTale",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f468d6e1-6b54-4892-be4a-153dc9b5ce5d",
+    "name": "Luna",
+    "packageName": "com.funomena.luna",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f6f73cd7-e2a0-4893-879d-033e6f4ef349",
+    "name": "Madrid Noir",
+    "packageName": "com.noghost.madridnoirvr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "41851db9-38c1-48e8-8ab8-41c8110e4dfd",
+    "name": "Maestro: The Masterclass",
+    "packageName": "io.doublejack.maestro_tmc",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "324361c5-3009-42fb-afdf-2e2fbfc5b928",
+    "name": "Magic Puzzle: Dragon & Sword",
+    "packageName": "com.leafboatstudio.magicpuzzle",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "9e0d886c-febe-4b75-b919-e5efaf1fc05e",
+    "name": "Mare",
+    "packageName": "com.VisionTrick.Mare",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d02029f3-8d17-44bf-b2bc-dbff7e178664",
+    "name": "Maskmaker",
+    "packageName": "com.innerspacevr.maskmaker",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "4104cd9c-a6e5-44da-9a6b-3e84d4d33960",
+    "name": "Master Of The Tattooverse DEMO",
+    "packageName": "com.ROGStudios.MasterOfTheTattooverse",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "9e9ad28f-5523-4514-b041-02facb5be131",
+    "name": "Merry Snowballs",
+    "packageName": "se.hatrabbit.gvr.snow",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "3ac00d0b-4d61-48f9-a148-3580d58f8dba",
+    "name": "Metal Frog Solid Road to Revenge",
+    "packageName": "com.PerryGamesLLC.MetalFrogSolid",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "8378f039-db07-41ad-a0ff-23e41341c562",
+    "name": "Midway 1976",
+    "packageName": "com.IvanovichGames.game1976",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "4747a682-9d33-430e-919f-fee6bcd46724",
+    "name": "Mini Motor Racing X",
+    "packageName": "com.nextgenreality.mmrx",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d54523e0-09be-4663-91a4-3eb45f6d08fd",
+    "name": "Mission: ISS",
+    "packageName": "com.Magnopus.MissionISS",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "35ff9c1b-aaec-460b-9161-da62935fffdc",
+    "name": "Mondly: Learn Languages in VR",
+    "packageName": "com.ATiStudios.LearnLanguagesVRbyMondly",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "4933b400-5885-43a7-80bd-54733bdc16dd",
+    "name": "Moss",
+    "packageName": "com.polyarc.MossGame",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b8116678-29d2-40f5-8e6e-2e4168d940bb",
+    "name": "Moss: Book II",
+    "packageName": "com.polyarc.Moss2",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "fc74d2e6-d51b-44ae-a85b-9914ff41481e",
+    "name": "Mothergunship VR",
+    "packageName": "com.terribleposture.MGSVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "ffc5f66e-ad7f-4f2a-abc1-87dcc482db08",
+    "name": "Myst",
+    "packageName": "com.CyanWorlds.Myst",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "4142861b-4bcc-4bdf-b5b1-5aa24d9b65bd",
+    "name": "Myth : A Frozen Tale",
+    "packageName": "com.WaltDisney.MthAFrozenTale",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "4729f195-e663-42e6-b8ed-6596a7aa1a22",
+    "name": "Mythic Mage",
+    "packageName": "com.AndyGrutter.MythicMage",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d1e83fcd-231f-46fd-8341-7d2ee3201efb",
+    "name": "National Geographic Explore VR",
+    "packageName": "com.forcefieldxr.explorevr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f694ab2b-3645-4c1d-af59-3de3b52631ae",
+    "name": "Neon Blast",
+    "packageName": "com.Raptorsgames.NeonBlast",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "6d548017-1e20-41a1-b772-60e1e2ffb1b4",
+    "name": "NeonKite",
+    "packageName": "com.VirtualProjection.NeonKite",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "25ef2b3d-b513-4b3b-9a91-54646eba76be",
+    "name": "NERF Ultimate Championship",
+    "packageName": "com.SecretLocation.NerfUltimateChampionship",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "04da89bb-7926-4b2e-ad95-2f1ce0abe1b1",
+    "name": "Netflix VR",
+    "packageName": "com.netflix.ninja.vr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "21373f98-d8f1-47b1-84e4-ac803537cc42",
+    "name": "Ninja Legends",
+    "packageName": "com.coinflip.ninja",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "1ff9dde3-78d4-4184-9861-f11f76814725",
+    "name": "Notes On Blindness",
+    "packageName": "com.AudioGaming.nob5",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0c82e3f5-01eb-4e22-8a2e-8cb905d3a83e",
+    "name": "Ocean Craft",
+    "packageName": "com.FlodLab.OceanCraft",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "36515aaa-f8a5-4fb0-aecf-bedb6f0733a6",
+    "name": "Ocean Rift",
+    "packageName": "com.picselica.OceanRiftFullQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "614e124a-d60f-423f-af06-e1d3de93a7e6",
+    "name": "Office Escape Rooms",
+    "packageName": "com.vikdan.OfficeEscapeRooms",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0ab85626-4d4b-41f5-9fd7-f6a728810b23",
+    "name": "On Target VR Darts",
+    "packageName": "com.ColugoProductionsInc.OnTargetVRDarts",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "bb5ed259-62e0-4d2d-9b3a-54436b1c2396",
+    "name": "Onward",
+    "packageName": "com.downpourinteractive.onward",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "fde61cf5-8fb0-408c-ade3-c8b8d03b356e",
+    "name": "OPERATION SERPENS",
+    "packageName": "com.GINRATECH.OPERATIONSERPENS",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "511b559b-b14b-4cf0-a9dc-dd22402125b6",
+    "name": "OShape",
+    "packageName": "com.odders.ohshape",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "476fffcc-00ac-404f-afc3-946687d2eff9",
+    "name": "Painting VR",
+    "packageName": "com.Oisoi.PaintingVr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "bda4b40c-4d4d-4057-9ede-c56ca1f5dc9a",
+    "name": "Paranormal Activity: The Lost Soul",
+    "packageName": "com.vrwerx.paranormalactivity",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "653197f5-739b-4245-b623-129f841e9581",
+    "name": "Path of the Warrior",
+    "packageName": "com.twistedpixelgames.POTW_App",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "39847026-4653-42c3-8275-1f787af05f49",
+    "name": "Pavlov Shack Beta",
+    "packageName": "com.vankrupt.pavlovbeta",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "4efbd64a-3e69-4359-a337-cf9d8ae96e9e",
+    "name": "PecoPeco",
+    "packageName": "am.benth.pecopeco",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "10429897-91c2-4bbb-8e01-73e3335f6bfc",
+    "name": "PePiBo",
+    "packageName": "com.toritogames.pepibo",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "9e096b32-e002-44ff-9d3c-49b3acdfd8ba",
+    "name": "Percussive VR",
+    "packageName": "games.jamhack.PercussiveVR.Oculus",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "376a020b-c84a-46d9-9d7b-121d5278d72b",
+    "name": "Phantom: Covert Ops",
+    "packageName": "com.nDreams.PhantomQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "8e108894-bf0b-42cd-9b00-b70428ccca37",
+    "name": "Physics Playground",
+    "packageName": "com.PBVR.Playground",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "e834f98b-8067-4339-a681-b97b5adbaba7",
+    "name": "PianoVision",
+    "packageName": "com.ZarApps.PianoVision",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "019e5c4e-5a01-4fb7-a60b-3acccc9172de",
+    "name": "PianoVR",
+    "packageName": "com.hybridxreality.PianoVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "1e5a0ce0-c4b7-4c88-88f6-376af012ea6e",
+    "name": "Pierhead Arcade 2 ",
+    "packageName": "com.mechabit.quest.pierheadarcade2",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "fb5e266f-2176-43c8-8c90-f8310eaeda0b",
+    "name": "PinballFX2VR",
+    "packageName": "com.zenstudios.PinballFX2VRQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f5c2b455-7c01-4398-aa0d-4c5069143c20",
+    "name": "Pioneer: Endless Journey",
+    "packageName": "com.bhaptics.pioneer",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "60b72ce6-30cb-4ec4-accc-3671d5e80e04",
+    "name": "Pistol Whip",
+    "packageName": "com.cloudheadgames.pistolwhip",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "7be5edef-fde2-4e34-a96b-9049800da762",
+    "name": "Pixel Ripped 1995",
+    "packageName": "io.arvore.pixelripped1995",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "c731d229-874f-4061-9082-a47ae13b61cf",
+    "name": "Please Don't Touch Anything",
+    "packageName": "com.ForwardXP.nuke",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "13e3c0ae-aba9-44c8-983c-a78dfaf2fa49",
+    "name": "PokerStars VR",
+    "packageName": "com.LuckyVR.PokerStarsVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "28ffc56a-88eb-4c3e-b031-74fc7ca2fad2",
+    "name": "Polystar",
+    "packageName": "com.Newmatic.Polystar",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "472ab860-c513-4799-8028-cff285039784",
+    "name": "Pop Shot",
+    "packageName": "com.PixelBoogie.PopShotQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f1cd79f6-93bd-49cd-8e54-dc35aa370d6d",
+    "name": "Population: ONE",
+    "packageName": "com.BigBoxVR.PopulationONE",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d51fad4c-503b-4837-82b9-6c36586bd314",
+    "name": "Prime Video VR",
+    "packageName": "com.amazon.asxr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "61528ca2-155f-4cd7-8896-dff4dc4227f4",
+    "name": "Prison Boss VR",
+    "packageName": "com.Trebuchet.PrisonBossVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "e3d6f5a3-570e-4e75-9074-4d24dd6249bc",
+    "name": "Project Terminus VR",
+    "packageName": "com.cvr.terminus",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "580a2166-ac37-4113-ac61-01de7d39dac8",
+    "name": "Project Third Eye",
+    "packageName": "com.YueWorks.ThirdEye",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d1e6a82b-dc43-4888-9ce2-4e8d14814197",
+    "name": "Pub Darts",
+    "packageName": "com.Ardooly.PubDarts",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f69d5afd-0f40-4525-9cde-3ca1d9c7cb2b",
+    "name": "Puzzle Bobble : Vacation Odyssey",
+    "packageName": "com.survios.bam",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "c55e629d-67f7-43ee-9d30-a4e2a2263bf8",
+    "name": "Puzzling Places",
+    "packageName": "com.RealitiesIO.puzzlingPlaces",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "baf52fa0-fcb4-4d35-8ee6-3057eebe97ac",
+    "name": "Quake 3 Quest",
+    "packageName": "com.drbeef.ioq3quest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f76df3c5-263a-4e32-9192-f73e202ecf2e",
+    "name": "Raccoon Lagoon",
+    "packageName": "com.hiddenpath.phoenix",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "4b32e991-59e1-4bfa-977d-fcdc2773eb68",
+    "name": "Racket Fury: Table Tennis VR",
+    "packageName": "com.RacketFury.RF_GearVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f7eb90ed-5e81-4e62-8f56-16c286e688ea",
+    "name": "Racket NX",
+    "packageName": "com.onehamsa.RNXQ",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "c91f74c1-2800-4e72-938b-02fcbf314d73",
+    "name": "Ragnarock",
+    "packageName": "com.wanadev.ragnarockquest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b96621cf-d0b5-4688-8fef-4e7e1b2a86ff",
+    "name": "Range Day VR",
+    "packageName": "com.InvidiousStudios.RangedayVRQ",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "ca1be20c-0c06-46a7-8dc8-c55711a5c53e",
+    "name": "RealVR Fishing",
+    "packageName": "com.Miragesoft.RealVrFishingQ",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "a015ea52-ee44-4338-8cae-33c704006493",
+    "name": "Rec Room",
+    "packageName": "com.AgainstGravity.RecRoom",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "942a1c61-cf73-424e-bd13-b04c5cbde79e",
+    "name": "Red Matter",
+    "packageName": "com.VerticalRobot.RedMatter",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "ead0b4de-adc2-4305-b0e6-047097064090",
+    "name": "Red Matter 2",
+    "packageName": "com.VerticalRobot.RedMatter2",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "9835592c-f417-4828-9de5-169b072d97ed",
+    "name": "Republique VR",
+    "packageName": "com.camouflaj.republiquevr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "47ff262f-f4f9-4a94-9e6b-f0cf0e56e2db",
+    "name": "Resident Evil 4",
+    "packageName": "com.Armature.VR4",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "3c373035-17c6-407e-9271-02f677ef2b6e",
+    "name": "Resist",
+    "packageName": "com.nextgenreality.resist",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d4476454-002d-4bc2-9160-9e2a511b717f",
+    "name": "Return to Castle Wolfenstein",
+    "packageName": "com.DrBeef.RTCWQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "598bb620-e8be-4b5c-9c13-59a913a39808",
+    "name": "Revolver Widow",
+    "packageName": "com.StudioPoncho.Pinkertons",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "edbf6f36-5ee0-412a-aaca-c24d594d5a30",
+    "name": "Rez Infinite",
+    "packageName": "com.enhanceexperience.rezquest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "ac0df2b8-3fe9-4c24-aeb5-1cbc21a70465",
+    "name": "Richie's Plank Experience",
+    "packageName": "com.ToastVR.RichiesPlankExperience",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "de52c14e-fc8c-4b39-a647-90a0e10321e3",
+    "name": "Robo Recall",
+    "packageName": "com.YourCompany.RoboRecall",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "06ee3a26-2b51-4277-9721-9d86b34bb2fc",
+    "name": "Rogue Ascent VR",
+    "packageName": "com.NBS.RogueAscent",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b3cfc153-d816-40f4-a143-120c08ac1f3e",
+    "name": "RuinsMagus",
+    "packageName": "com.characterBank.ruinsmagus",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "8b120f09-ba37-4ff9-856d-3d012732d507",
+    "name": "Runner",
+    "packageName": "com.truantpixel.Runner",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "cb2658e9-d960-4ae7-89a7-50bfae67b883",
+    "name": "Rush",
+    "packageName": "com.nextgenreality.rush",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "71b09003-9a5d-48e1-bc06-a4a31612bb09",
+    "name": "Saber Thing",
+    "packageName": "com.DKSInteractiveLLC.saberThing",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d507c2d2-8e0a-4b62-b367-75ce0fe5631e",
+    "name": "Sairento VR : Untethered",
+    "packageName": "com.mixedrealms.sairentovruntethered",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f28f1dd2-f96e-48b4-afca-99dc62fdbc37",
+    "name": "Sam & Max : This Time It's Virtual !",
+    "packageName": "com.happygiant.sammaxvr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "ca40f997-a75e-4571-904a-467778ba3a63",
+    "name": "Scultptvr",
+    "packageName": "com.sculptrvrinc.sculptrvrapp",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "85d24a1d-0f04-433a-8fa9-12fa0cd626fa",
+    "name": "Sep's Diner",
+    "packageName": "com.scale1.sepsdinerSolo",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "333f4869-b28d-40e8-b427-6277f99a253d",
+    "name": "Shadow Point",
+    "packageName": "com.coatsink.nexus",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "a7f1666e-10fe-4c29-ba69-21cd6dd512e6",
+    "name": "ShadowGate VR : The Mines of Mythrock",
+    "packageName": "com.Zojoi.ShadowgateVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "e35f09ea-6fdd-4f43-b088-7caee26fc2e6",
+    "name": "Shock Troops",
+    "packageName": "com.garageCollective.ThetaLegion2HD",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "fda23b38-2ee8-4e96-a31a-366fb3e259ee",
+    "name": "Shooty Fruity",
+    "packageName": "com.ndreams.shootyfruity",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "cf2fdebb-95b1-4c90-a55b-32f8cece4368",
+    "name": "Shooty Skies Overdrive",
+    "packageName": "com.mightygamesgroup.shootyvr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "fc168023-27bd-405f-8205-9cc1988df759",
+    "name": "Shotwood",
+    "packageName": "com.concretebox.shotwood",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f7dcceba-2bb7-46e8-9605-b4dbfab143f3",
+    "name": "Shuttle Commander",
+    "packageName": "com.ivre.ssc",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "432e5251-748e-4e68-ad62-771bec7e3274",
+    "name": "ShuttleMaze",
+    "packageName": "com.AyayuGames.ShuttleMaze",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "651cd3c8-b03b-44a1-8a09-45e31e242c9c",
+    "name": "Silhouette",
+    "packageName": "com.TeamPanoptes.SilhouetteVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "331ee97e-9b39-4afc-9b99-a6cc1770eb47",
+    "name": "Silhouette",
+    "packageName": "com.TeamPanoptes.SilhouetteVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b2333a29-6191-4a66-9989-c3af083da184",
+    "name": "Sky Squadron",
+    "packageName": "com.trickshot.skysquadron",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "7f9ce074-ac71-430d-bdac-763e4e194fed",
+    "name": "SkyBinder",
+    "packageName": "com.MakuXR.SkyBinder",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "55d7e907-cb79-4091-8829-48b3da091030",
+    "name": "Skybox VR",
+    "packageName": "xyz.skybox.player.ovr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "77237afc-0be5-45a1-b154-d3aae14f0982",
+    "name": "Skyworld: Kingdom Brawl",
+    "packageName": "com.vertigogames.skyworldbrawl",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "7a597b0c-37d1-4990-9071-fb8344174b87",
+    "name": "Smash Drums",
+    "packageName": "com.PotamWorks.SmashDrums",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "082134cb-fd40-4e3d-9343-b0f79032ba54",
+    "name": "Sniper Elite",
+    "packageName": "com.JustAddWater.SniperEliteVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "444039dc-1da9-4bb1-b47c-e5f471cb3982",
+    "name": "SnowballVR",
+    "packageName": "io.PixelWorks.SnowballVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "003364d8-f519-4468-b123-81e15931bd48",
+    "name": "Snowman",
+    "packageName": "co.xocus.snowman",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "a69c7a82-5717-4d27-bd66-309785bffa78",
+    "name": "Solaris",
+    "packageName": "com.FirstContact.League",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "e052abbe-5ee0-4367-9161-c213b2018f0d",
+    "name": "Solve the Wall (Demo)",
+    "packageName": "com.SolveTheWall.SolveTheWallDemo",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "597f1ad6-3e0b-4a79-842a-5d27b5ac8fc7",
+    "name": "Song in the Smoke",
+    "packageName": "com.seventeenbit.songinthesmoke",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0a983aaa-1bf2-421a-a70e-3b9c3b80cf5b",
+    "name": "Space Channel Five VR",
+    "packageName": "com.grounding.ch5vrquest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0f6fc6f4-a83e-4328-ae4c-8c0e9b81bd77",
+    "name": "Space Docker VR",
+    "packageName": "com.CatCommandosLtd.SpaceDockerVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "cbc3a5a6-9b03-460b-bd1a-4a3dd8179766",
+    "name": "Space Folk City",
+    "packageName": "com.moonmode.spacefolkcity",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "40227e66-4c2a-48ec-b2b1-42e3835d360b",
+    "name": "Space Pirate Trainer DX",
+    "packageName": "com.iillusions.spacepiratetrainerquest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "35b0910b-a3c2-47bf-a9ad-037e238c54ff",
+    "name": "Spark Ball Pool",
+    "packageName": "com.SparkGame.EightBallPoolVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "58c41027-ea24-4f4f-b26a-c703df849899",
+    "name": "Speed Cube",
+    "packageName": "com.Aligator.SpeedCube",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "9b243e27-6c5b-486a-b797-002908f02513",
+    "name": "Spheres",
+    "packageName": "com.Novelab.Spheres",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "1207c2d3-29a2-4e7a-8e20-1b46c9a08f57",
+    "name": "Spice & Wolf VR",
+    "packageName": "com.SpicyTails.SaW",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "56ca715a-90f7-4a70-bdfa-75be5cf2b0c4",
+    "name": "Spice & Wolf VR2",
+    "packageName": "com.SpicyTails.SaW2ForQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "196dd269-7037-4ce6-9f67-9f6747d8e823",
+    "name": "Sport Mode",
+    "packageName": "com.Exo.Playground2",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "6689b01b-28f4-4902-904f-346d43a16aa9",
+    "name": "Sports Scramble",
+    "packageName": "com.Armature.SportsScramble",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f45510d1-3c59-4b40-962d-a70a3d35969f",
+    "name": "Squadron One",
+    "packageName": "com.unitedcommand.squadronone",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "a09dbcea-2920-42a5-b75d-ac0cd731f6da",
+    "name": "Squingle",
+    "packageName": "com.SquingleStudios.Squingle",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d432d382-1c8a-48e1-af22-df97ebec1f0c",
+    "name": "Star Chart",
+    "packageName": "com.escapistgames.starchartvr.quest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "7d2bcfb0-554a-4317-97c9-9b8d5f6508dd",
+    "name": "Star Shaman",
+    "packageName": "com.Ikimasho.StarShaman",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "a040a4ea-d6a3-4fb9-a728-f8a45918c738",
+    "name": "Star Trek™: Bridge Crew",
+    "packageName": "com.ubisoft.StarTrekTNG",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "2a28a4ea-a07d-4cde-b594-cfca4607b9f1",
+    "name": "Star Wars Jedi Knight II: Jedi Outcast",
+    "packageName": "com.drbeef.jkquest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "38e7067f-71b7-4c4b-8e9f-8b9741cfa91b",
+    "name": "Star Wars Pinball VR",
+    "packageName": "com.YourCompany.SWP_VR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b340c79a-60d4-44a4-b2fb-f0bb574d713d",
+    "name": "Star Wars: Tales from the Galaxy's Edge",
+    "packageName": "com.ilmxlab.tales",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "8e613915-3c02-4b91-b210-24afd4d6d514",
+    "name": "Startenders",
+    "packageName": "com.FoggyBox.Startenders",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "8364f671-fc94-4bf7-8e80-60c3437a3f2c",
+    "name": "Stride",
+    "packageName": "com.JoyWay.Stride",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "61f5afa6-487f-480b-8cca-de191597b974",
+    "name": "Stunt Track Builder",
+    "packageName": "com.LemonChihuahua.StuntTracksBuilder",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "cc6df7c4-1922-4be6-8921-0129528a24eb",
+    "name": "SUP Island",
+    "packageName": "com.ezone.sup",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "902d417e-5ae6-473f-ad94-91498a4b9a8a",
+    "name": "Superhot",
+    "packageName": "unity.SUPERHOT_Team.SUPERHOT_VR_QA",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "9d4167c3-8ccf-44e9-8bd3-1d8bfa37cf31",
+    "name": "Surgineer",
+    "packageName": "com.holonautic.Surgineer",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "7f0824f1-bfa0-4e4d-9f5d-b00757302456",
+    "name": "Swarm",
+    "packageName": "com.sketchbox.Grapple",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d10e7b28-746d-40e2-bec7-f74f1b393e28",
+    "name": "Sweet Surrender",
+    "packageName": "com.SalmiGmbH.SweetSurrenderVRTests",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b3ebc184-8fb7-4348-bb22-58e3b4f987ac",
+    "name": "Synth Riders",
+    "packageName": "com.kluge.SynthRiders",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "c95807b9-78c3-44f5-a22e-079088f4e74a",
+    "name": "Table of Tales : The Crooked Crown",
+    "packageName": "com.zeroonestudio.tinmangames.ttcc",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "e6aa9e6d-5e14-4efc-bf66-c8be339bb588",
+    "name": "Tarzan VR",
+    "packageName": "com.funtrain.tarzanvr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "715a4d7d-9634-47c4-8971-b989d12a65e4",
+    "name": "Tentacular",
+    "packageName": "com.firepunchd.tentacularvr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "cdeec83b-ca41-452d-88b9-369b188df4ce",
+    "name": "Tetris Effect",
+    "packageName": "com.enhanceexperience.tetriseffect",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f30748e5-97f3-4786-9174-46d06005e139",
+    "name": "The American Dream",
+    "packageName": "com.SamuraiPunk.TheAmericanDream",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "cb159ec4-117a-458a-9308-989e7e892b7a",
+    "name": "The Climb",
+    "packageName": "com.crytek.climb",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "98f566c2-225d-42c8-941e-a07a73ccef90",
+    "name": "The Climb 2",
+    "packageName": "com.crytek.climb2",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "ef6b113e-cf93-4575-9e00-8852f29251fc",
+    "name": "The Curious Tale of the Stolen Pets",
+    "packageName": "com.fasttravelgames.diorama",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "4e6a306b-a09f-47a6-a6ae-bd4ffc9b1c8f",
+    "name": "The Legend Of Zelda VR",
+    "packageName": "com.OwlstudioGames.ZeldaVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "357d57f0-74a2-4666-9278-e27f8c4354b5",
+    "name": "The Line",
+    "packageName": "io.arvore.theline",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "8ac93452-a833-42d0-92f9-7bf5146a5ad8",
+    "name": "The Master Club",
+    "packageName": "com.DefaultCompany.TheMasterClub",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f88ab854-11e4-48ac-b0d3-12dd7619c23c",
+    "name": "The Passage",
+    "packageName": "com.VReality.ThePassage",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d94b059b-91fb-4390-aaa0-78a44f7db94a",
+    "name": "The Rack",
+    "packageName": "io.pxlworks.therack",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "813639a9-8fb0-4a59-9877-e2f537eddbd1",
+    "name": "The Room VR: A Dark Matter",
+    "packageName": "com.FireproofStudios.TheRoomVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "70d75ca6-9a4d-4773-8b23-316566e30bec",
+    "name": "The Tale of Onogoro",
+    "packageName": "jp.co.amata.nvr",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "579469fa-98c8-4b95-81d1-b40dc0af1fc8",
+    "name": "The Thrill of the Fight",
+    "packageName": "com.fyian.TheThrillOfTheFight",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b69ad822-f2d2-4c0a-926b-546cbb1d94f0",
+    "name": "The Under Presents",
+    "packageName": "com.TenderClaws.TheUnderPresents.Quest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b6320cc0-0bfc-475d-9b2e-d0ea4397deb0",
+    "name": "The Virtual Traveller",
+    "packageName": "com.MBprod.TheVirtualTraveller",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "5a699ecf-b540-4ee9-aeb7-627f9b4626a0",
+    "name": "The Walking Dead: Saints & Sinners",
+    "packageName": "com.SDI.TWD",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "c3a2952b-058b-4c3e-ba48-21790c0532cc",
+    "name": "The Walking Dead: Saints & Sinners Chap.2",
+    "packageName": "com.SDI.TWDCH2",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0dcae456-a635-44dd-a647-90b4c8f50c39",
+    "name": "The Wizards - Dark Times",
+    "packageName": "com.CarbonStudio.DarkTimes",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "607e1333-0aa1-481d-b9f8-446b89d3c517",
+    "name": "Throw Anything",
+    "packageName": "com.VisualLight.ThrowAnything_Quest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0db4fb6e-29ce-4da8-a6e1-e0d167768e04",
+    "name": "Throwing Punches",
+    "packageName": "com.KrzysztofWrona.ThrowingPunches",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "a1d9b106-59ab-44c0-9553-5d4a2a4fa8bd",
+    "name": "Time Stall",
+    "packageName": "com.forcefieldxr.timestall",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "bb67f157-0bb6-4b18-bc68-5e1d06ce2f45",
+    "name": "Titan of Space Plus",
+    "packageName": "com.drashvr.titansofspacevr6dof",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "724273a7-41fb-46ad-aa69-a47eb8751991",
+    "name": "To The Top",
+    "packageName": "com.electrichatgames.tothetop_al",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "9bc5fc94-49fa-4e1a-8dd9-58aa61e4044d",
+    "name": "ToeToToePartyGames",
+    "packageName": "hu.phonesoftware.toetotoepartygames",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "1ce3ee3c-8bd8-4cb8-907f-09aca056b04e",
+    "name": "Tokyo Chronos",
+    "packageName": "com.MyDearest.ChronosQuest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "c1c8e494-aae7-4972-81cb-33a65dcb239c",
+    "name": "Totally Baseball",
+    "packageName": "com.viewerready.totallybaseball",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "c500217d-a468-482d-b01d-e1717a3d037d",
+    "name": "Touring Karts",
+    "packageName": "com.ivanovichgames.touringkarts",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "86fa2ff3-f180-4ded-ab05-876010d683ff",
+    "name": "Traffic Jams",
+    "packageName": "nl.littlechicken.trafficjams.quest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "12a53de9-52c8-4246-83cf-a6bfc42c3669",
+    "name": "TribeXR DJ",
+    "packageName": "com.TribeXR.TribeXR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "fd93fcc7-6365-4cd8-990a-38ce093d1036",
+    "name": "Trover : Save the Universe",
+    "packageName": "com.SquanchGames.Trover",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "837efd93-d5fc-4099-a6ab-54048aaeeab4",
+    "name": "Tsuro : The Game Of The Path",
+    "packageName": "com.Thunderbox.TsuroVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "bdbcdee2-dd4a-4c30-ad03-ea22ef674d86",
+    "name": "Ultimechs",
+    "packageName": "com.resolutiongames.ultimechs",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "4074b8e9-b13e-40ce-b974-c24bbad9ae44",
+    "name": "Ultrawings",
+    "packageName": "com.BitPlanet.Ultrawings.Quest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "a7b78eed-a6b2-4a20-ab63-06ae333badef",
+    "name": "Ultrawings 2",
+    "packageName": "com.BitPlanetGamesLLC.Ultrawings2",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "06143fc1-6a4d-4b1e-a73a-0c0e23d6d90f",
+    "name": "UNBINARY",
+    "packageName": "com.ludact.unbinary",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b79ade2a-cec3-4fc5-866d-f048fc47e057",
+    "name": "Unplugged : Air Guitar",
+    "packageName": "com.Anotherway.UnpluggedVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f2ba90d6-c0e3-4281-bf1f-d1df14f6b616",
+    "name": "Until You Fall",
+    "packageName": "com.schellgames.untilyoufall",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "386954e8-0a49-412b-bf71-e17ef77a341d",
+    "name": "V-Speedway",
+    "packageName": "com.commutergames.vspeedwayalpha",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "48439339-8311-470d-bed3-d6278d39c3f0",
+    "name": "Vacation Simulator",
+    "packageName": "com.owlchemylabs.vacationsimulator",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "39493000-0116-4daf-8a36-706935171bcd",
+    "name": "Vader Immortal: Episode 1",
+    "packageName": "com.ILMxLAB.VaderImmortal.ep1",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "2c5b2387-7012-4e45-ac53-9321734f21ef",
+    "name": "Vader Immortal: Episode 2",
+    "packageName": "com.ILMxLAB.VaderImmortal.ep2",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "35a4ce48-b6a5-4ce9-a55a-c994825a6296",
+    "name": "Vader Immortal: Episode 3",
+    "packageName": "com.ILMxLAB.VaderImmortal.ep3",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "bef5c3cb-4290-45b6-9ef5-b99e92d37fe2",
+    "name": "Vanishing Grace",
+    "packageName": "com.MontePerdido.VanishingGrace",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "e8930b49-359e-4333-851e-0ead149d1f29",
+    "name": "VenVRAdventure",
+    "packageName": "com.monologicgames.venvradventure",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "358f4f91-9596-4002-a529-72bd79977738",
+    "name": "Vermillion",
+    "packageName": "com.TheAviary.Vermillionbg2",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "1d9f0ec6-a575-4368-809a-d95c9ba0c36c",
+    "name": "Vetrix",
+    "packageName": "com.PixelRacers.Vetrix",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "c9a1a36e-ff9b-480a-ae34-4292675473da",
+    "name": "Virtual Virtual Reality",
+    "packageName": "com.TenderClaws.VVR.Quest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "401104f4-26dd-4b14-8684-1c1fff55e7f6",
+    "name": "Virus Blaster VR",
+    "packageName": "com.Jungeroemer.VirusBlasterVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "aa638a68-cf03-4587-b343-1540e526ccb1",
+    "name": "Void Racer : Extreme",
+    "packageName": "com.coplanar.vre",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "457be2fa-b0c8-4a8d-981e-6f2fea936a96",
+    "name": "Vox Machinae",
+    "packageName": "com.SpaceBulletDynamicsCorporation.VoxMachinae",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f7ea7370-f441-4fca-b8e1-cadfc4758c00",
+    "name": "VRtuos",
+    "packageName": "com.PavelMarceluch.VRtuos",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b8c38329-9ebb-40ff-ab15-16239b0d714a",
+    "name": "VRtuosPro",
+    "packageName": "com.PavelMarceluch.VRtuosPro",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "9cd8af94-cb28-4f2a-9bcc-7dfc968d7dcd",
+    "name": "VRZookeeperWorld",
+    "packageName": "jp.kiteretsu.vr.zookeeper.world",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "fdbd690d-abdc-46b8-ac2f-40f98491d4ce",
+    "name": "Walkabout Mini Golf",
+    "packageName": "com.MightyCoconut.WalkaboutMiniGolf",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "dcb0ddaa-ab14-4f71-a2fe-d4e2c338dee6",
+    "name": "Wander",
+    "packageName": "com.parkline.wander",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "a155bfa8-66be-4525-8776-e1a7a324057c",
+    "name": "Warhammer 40,000 Battle Sister",
+    "packageName": "com.PixelToys.BattleSisters",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "084ef98b-7b2a-4f39-af80-382931e2b09a",
+    "name": "Warplanes : Battles Over Pacific",
+    "packageName": "com.HomeNetGames.WW2VR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "2326bbac-ff95-445c-8e26-efa5902cb797",
+    "name": "Warplanes: WW1",
+    "packageName": "com.HomeNetGames.WW1oculus",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "f613a533-76ad-4846-8509-d11b9eecdf59",
+    "name": "We Are One",
+    "packageName": "com.FlatHeadStudio.HelpYourself",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b1127195-6f08-46aa-b2d2-0544d5639f61",
+    "name": "WHAT THE BAT",
+    "packageName": "net.triband.wtb",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "89dc2a15-f1f6-4b4e-a4e9-0886865c0f38",
+    "name": "Wind Wind",
+    "packageName": "com.ELIOT.WindWind",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "e47e6d4d-001a-48c7-adef-8f1e9103283e",
+    "name": "Windlands",
+    "packageName": "com.psytecgames.windlands.quest.applab",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0f028e0e-3d4a-4dee-ad0e-3dd4eb732bf5",
+    "name": "Wolves in the Walls",
+    "packageName": "com.fable.wolvesquest",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "a73b7b93-c2b8-45c4-9c35-6515829827e5",
+    "name": "Wonderglade",
+    "packageName": "com.resolutiongames.wondergladesantacruz",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0f35afcf-645e-4f37-b3bd-108838cf56c3",
+    "name": "Wooorld",
+    "packageName": "com.Wooorld.Wooorld",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "20a09375-2adc-425e-9f10-3304679459da",
+    "name": "Workrooms",
+    "packageName": "com.facebook.workrooms",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "324d34e1-fedd-48a5-bc38-335118e2ee12",
+    "name": "World Of Mechs",
+    "packageName": "com.Studio369.WorldOfMechs",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "507371ca-c781-4090-9b95-0b7d6eaa2633",
+    "name": "World War Toons: Tank Arena VR",
+    "packageName": "com.STOICEnt.WWT",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "d4775262-0816-423c-a7cd-f940289f94c4",
+    "name": "Wraith: The Oblivion - Afterlife",
+    "packageName": "com.fasttravelgames.jukebox",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "210349b0-625b-42f3-b5b2-670c24474ebc",
+    "name": "X-Fitness",
+    "packageName": "com.NiVision.XBOOSTER",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "551f55ad-83a3-4587-b6b7-21c4c3d46ed7",
+    "name": "X-Fitness Démo",
+    "packageName": "com.NiVision.XBOOSTER_DEMO",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "ce49f118-0f90-4a64-9743-a982b00c4b12",
+    "name": "You Calligrapher",
+    "packageName": "com.nuodengren.YouCalligrapher",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "710f2c07-725b-4b35-8b41-3420721b2f97",
+    "name": "YouTube VR",
+    "packageName": "com.google.android.apps.youtube.vr.oculus",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "4dbe17c8-43b7-493e-8103-f965795db566",
+    "name": "Yuki",
+    "packageName": "com.Arvore.Yuki",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "e5c3c243-6cc3-48d8-afed-34bff9b8f46f",
+    "name": "Yupitergrad",
+    "packageName": "com.Gamedust.Yupitergrad",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "33e452db-8920-4f2a-a320-a1e25bc99d7b",
+    "name": "Zenith",
+    "packageName": "com.ramenvr.zenith",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "bf8e9e2a-cecc-443d-8e2c-5f1b686a1fad",
+    "name": "Zero Caliber",
+    "packageName": "com.XrealGames.ZcReloaded",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "a868443e-f0f5-4710-8e24-dec15e68cfee",
+    "name": "Zombieland: Headshot Fever",
+    "packageName": "com.XRGames.ZombielandVR",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "0f1991cb-4e32-4923-a7db-8db0d089bc61",
+    "name": "Zooma",
+    "packageName": "com.GizmoVRLTD.Zooma",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  }
+]
