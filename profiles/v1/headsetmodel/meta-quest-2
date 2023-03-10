@@ -1065,6 +1065,21 @@
     "needToBeReviewed": false
   },
   {
+    "id": "87b1dc05-8875-463b-8a06-155d67e33e5e",
+    "applicationName": null,
+    "packageName": "com.pixeltoys.cabin",
+    "headsetModel": "meta-quest-2",
+    "type": 4,
+    "textureWidth": 1989,
+    "textureHeight": 2188,
+    "refreshRate": 72,
+    "cpuLevel": -1,
+    "gpuLevel": 5,
+    "frLevel": 3,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
     "id": "18ce8a37-43d9-44b8-aab4-15990faa59f0",
     "applicationName": null,
     "packageName": "com.baobab.babayaga",
@@ -1905,6 +1920,21 @@
     "needToBeReviewed": false
   },
   {
+    "id": "b2ab8e93-2252-4ac2-af1c-20d6722e2749",
+    "applicationName": null,
+    "packageName": "com.vector3up.BallooningAdventures",
+    "headsetModel": "meta-quest-2",
+    "type": 4,
+    "textureWidth": 2300,
+    "textureHeight": 2530,
+    "refreshRate": 68,
+    "cpuLevel": -1,
+    "gpuLevel": 5,
+    "frLevel": 4,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
     "id": "296f44d8-6df6-4ec8-a142-2109ba5f8e39",
     "applicationName": null,
     "packageName": "com.moonmode.spacefolkcity",
@@ -2606,6 +2636,21 @@
     "cpuLevel": -1,
     "gpuLevel": -1,
     "frLevel": 2,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
+    "id": "c0e2f3bd-af78-4ab1-88c6-2a8d7b89abed",
+    "applicationName": null,
+    "packageName": "com.HighVoltage.Crossbow",
+    "headsetModel": "meta-quest-2",
+    "type": 4,
+    "textureWidth": 2300,
+    "textureHeight": 2530,
+    "refreshRate": -1,
+    "cpuLevel": -1,
+    "gpuLevel": 5,
+    "frLevel": 4,
     "email": null,
     "needToBeReviewed": false
   },
@@ -3915,6 +3960,21 @@
     "needToBeReviewed": false
   },
   {
+    "id": "3492142e-f397-4bfb-8a58-469e53afc831",
+    "applicationName": null,
+    "packageName": "com.BarebowArchery.Project",
+    "headsetModel": "meta-quest-2",
+    "type": 4,
+    "textureWidth": 2048,
+    "textureHeight": 2253,
+    "refreshRate": 72,
+    "cpuLevel": -1,
+    "gpuLevel": 5,
+    "frLevel": 2,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
     "id": "4d69a4e0-bf80-47ce-886c-46b67e981cc8",
     "applicationName": null,
     "packageName": "com.CMGames.IntoTheRadius",
@@ -5025,6 +5085,21 @@
     "needToBeReviewed": false
   },
   {
+    "id": "5cb5b33f-e342-4a70-9595-5dd590e5ed56",
+    "applicationName": null,
+    "packageName": "com.BarebowArchery.Project",
+    "headsetModel": "meta-quest-2",
+    "type": 1,
+    "textureWidth": 1440,
+    "textureHeight": 1584,
+    "refreshRate": 68,
+    "cpuLevel": -1,
+    "gpuLevel": -1,
+    "frLevel": 2,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
     "id": "e0e155c7-13f7-4f45-9893-5e0cd5d44121",
     "applicationName": null,
     "packageName": "com.SamuraiPunk.TheAmericanDream",
@@ -5244,7 +5319,7 @@
     "textureHeight": 1584,
     "refreshRate": 72,
     "cpuLevel": -1,
-    "gpuLevel": 2,
+    "gpuLevel": -1,
     "frLevel": 4,
     "email": null,
     "needToBeReviewed": false
@@ -6885,21 +6960,6 @@
     "needToBeReviewed": false
   },
   {
-    "id": "6aaf2d26-3da0-471c-8de3-8293528038c2",
-    "applicationName": null,
-    "packageName": "home",
-    "headsetModel": "meta-quest-2",
-    "type": 2,
-    "textureWidth": 1440,
-    "textureHeight": 1584,
-    "refreshRate": 100,
-    "cpuLevel": -1,
-    "gpuLevel": -1,
-    "frLevel": 4,
-    "email": null,
-    "needToBeReviewed": false
-  },
-  {
     "id": "09b317de-1455-4725-ba2e-82b5370d198f",
     "applicationName": null,
     "packageName": "quest.elevenBeta.forfunlabs",
@@ -7357,9 +7417,9 @@
     "type": 3,
     "textureWidth": 1700,
     "textureHeight": 1870,
-    "refreshRate": -1,
+    "refreshRate": 72,
     "cpuLevel": -1,
-    "gpuLevel": -1,
+    "gpuLevel": 5,
     "frLevel": 4,
     "email": null,
     "needToBeReviewed": false
@@ -8295,6 +8355,21 @@
     "needToBeReviewed": false
   },
   {
+    "id": "2c302f90-ce37-48d6-8ea1-9ab3c3d5d6d5",
+    "applicationName": null,
+    "packageName": "com.vector3up.BallooningAdventures",
+    "headsetModel": "meta-quest-2",
+    "type": 1,
+    "textureWidth": 1440,
+    "textureHeight": 1584,
+    "refreshRate": 68,
+    "cpuLevel": 0,
+    "gpuLevel": 0,
+    "frLevel": 4,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
     "id": "8498f5e2-3eea-41a4-afb3-9ae889c47a04",
     "applicationName": null,
     "packageName": "com.mikorigames.firstpersontennis",
@@ -9125,10 +9200,10 @@
     "packageName": "com.HighVoltage.Crossbow",
     "headsetModel": "meta-quest-2",
     "type": 3,
-    "textureWidth": 2560,
-    "textureHeight": 2816,
+    "textureWidth": 2100,
+    "textureHeight": 2310,
     "refreshRate": -1,
-    "cpuLevel": 4,
+    "cpuLevel": -1,
     "gpuLevel": 4,
     "frLevel": 4,
     "email": null,
@@ -9410,12 +9485,12 @@
     "packageName": "com.Armature.VR4",
     "headsetModel": "meta-quest-2",
     "type": 3,
-    "textureWidth": 1536,
-    "textureHeight": 1690,
+    "textureWidth": 1750,
+    "textureHeight": 1925,
     "refreshRate": -1,
-    "cpuLevel": 3,
+    "cpuLevel": 4,
     "gpuLevel": 3,
-    "frLevel": 1,
+    "frLevel": 3,
     "email": null,
     "needToBeReviewed": false
   },
@@ -10800,6 +10875,21 @@
     "needToBeReviewed": false
   },
   {
+    "id": "e80a98cd-c4cf-49a1-b3aa-cc771c70ed4e",
+    "applicationName": null,
+    "packageName": "com.ChickenWaffle.BabyHands",
+    "headsetModel": "meta-quest-2",
+    "type": 1,
+    "textureWidth": 1440,
+    "textureHeight": 1584,
+    "refreshRate": 68,
+    "cpuLevel": 0,
+    "gpuLevel": 0,
+    "frLevel": 0,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
     "id": "3a5451b3-d183-454f-873d-ccb38d0afe0e",
     "applicationName": null,
     "packageName": "com.SpicyTails.SaW",
@@ -10840,6 +10930,21 @@
     "refreshRate": -1,
     "cpuLevel": -1,
     "gpuLevel": 5,
+    "frLevel": 4,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
+    "id": "c5a325ff-6eba-49e9-9963-cdc11069b32c",
+    "applicationName": null,
+    "packageName": "com.vector3up.BallooningAdventures",
+    "headsetModel": "meta-quest-2",
+    "type": 3,
+    "textureWidth": 2000,
+    "textureHeight": 2200,
+    "refreshRate": 72,
+    "cpuLevel": -1,
+    "gpuLevel": 4,
     "frLevel": 4,
     "email": null,
     "needToBeReviewed": false
@@ -11730,6 +11835,21 @@
     "needToBeReviewed": false
   },
   {
+    "id": "d96ffd1d-8a0b-4b4b-ab7c-db4b251d6b7f",
+    "applicationName": null,
+    "packageName": "com.ChickenWaffle.BabyHands",
+    "headsetModel": "meta-quest-2",
+    "type": 3,
+    "textureWidth": 2560,
+    "textureHeight": 2816,
+    "refreshRate": -1,
+    "cpuLevel": -1,
+    "gpuLevel": 4,
+    "frLevel": 0,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
     "id": "e2b26ac6-f440-4c24-87d4-db595a862a55",
     "applicationName": null,
     "packageName": "com.electrichatgames.tothetop_al",
@@ -11756,6 +11876,21 @@
     "cpuLevel": 5,
     "gpuLevel": 5,
     "frLevel": 1,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
+    "id": "47a55906-9d36-46f5-8253-dba878bc7a11",
+    "applicationName": null,
+    "packageName": "com.ChickenWaffle.BabyHands",
+    "headsetModel": "meta-quest-2",
+    "type": 4,
+    "textureWidth": 3072,
+    "textureHeight": 3379,
+    "refreshRate": -1,
+    "cpuLevel": -1,
+    "gpuLevel": 5,
+    "frLevel": 0,
     "email": null,
     "needToBeReviewed": false
   },
@@ -12720,21 +12855,6 @@
     "needToBeReviewed": false
   },
   {
-    "id": "9295ea70-b5fb-4c3b-8e84-f0fbe0d71926",
-    "applicationName": null,
-    "packageName": "home",
-    "headsetModel": "meta-quest-2",
-    "type": 4,
-    "textureWidth": 2048,
-    "textureHeight": 2253,
-    "refreshRate": 72,
-    "cpuLevel": -1,
-    "gpuLevel": -1,
-    "frLevel": 4,
-    "email": null,
-    "needToBeReviewed": false
-  },
-  {
     "id": "310ea884-256a-4de5-82f2-f13804a5359e",
     "applicationName": null,
     "packageName": "com.resolutiongames.catr.ovr.quest",
@@ -12863,7 +12983,7 @@
     "textureWidth": 2048,
     "textureHeight": 2253,
     "refreshRate": -1,
-    "cpuLevel": 5,
+    "cpuLevel": -1,
     "gpuLevel": 5,
     "frLevel": 3,
     "email": null,

@@ -217,6 +217,20 @@
     "isExcluded": false
   },
   {
+    "id": "ead8b03f-eec0-4d3d-bb04-4e3535053eca",
+    "name": "Baby Hands",
+    "packageName": "com.ChickenWaffle.BabyHands",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "b97db4df-dd7b-4bfa-beb5-16e0744abc77",
+    "name": "Backyard Archery VR",
+    "packageName": "com.BarebowArchery.Project",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
     "id": "5c3dab02-8566-4499-88a1-88112c7b1e1d",
     "name": "Bacon Roll",
     "packageName": "com.fieldofvision.baconroll",
@@ -234,6 +248,13 @@
     "id": "2ccc7c9a-43a8-4663-ae86-e101de2554f4",
     "name": "Ballista",
     "packageName": "com.HighVoltage.Crossbow",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "50cb7e01-6f57-4562-9342-c0427cece709",
+    "name": "Ballooning Adventures",
+    "packageName": "com.vector3up.BallooningAdventures",
     "headsetModel": "meta-quest-2",
     "isExcluded": false
   },
@@ -808,6 +829,13 @@
     "id": "c0f96935-2a46-49cd-82e1-59241c0500ae",
     "name": "Driven-Full",
     "packageName": "com.MK1.DrivenFull",
+    "headsetModel": "meta-quest-2",
+    "isExcluded": false
+  },
+  {
+    "id": "1adfa9a8-e020-43a1-928a-84369aef665f",
+    "name": "Drop Dead The Cabin",
+    "packageName": "com.pixeltoys.cabin",
     "headsetModel": "meta-quest-2",
     "isExcluded": false
   },
