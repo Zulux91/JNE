@@ -1350,6 +1350,21 @@
     "needToBeReviewed": false
   },
   {
+    "id": "e93c4ef8-58c6-4702-977c-192296435e3a",
+    "applicationName": null,
+    "packageName": "com.framesynthesis.VRSashimiTanpopo",
+    "headsetModel": "meta-quest-2",
+    "type": 4,
+    "textureWidth": 2850,
+    "textureHeight": 3135,
+    "refreshRate": 72,
+    "cpuLevel": -1,
+    "gpuLevel": 5,
+    "frLevel": 4,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
     "id": "757c5efa-ddde-490e-b837-192d2859832a",
     "applicationName": null,
     "packageName": "com.ndreams.shootyfruity",
@@ -3405,6 +3420,21 @@
     "needToBeReviewed": false
   },
   {
+    "id": "ebad87ac-febf-4acb-8a81-3b3c27c1afe7",
+    "applicationName": null,
+    "packageName": "com.xrsys.slam",
+    "headsetModel": "meta-quest-2",
+    "type": 4,
+    "textureWidth": 1950,
+    "textureHeight": 2145,
+    "refreshRate": -1,
+    "cpuLevel": -1,
+    "gpuLevel": 5,
+    "frLevel": 4,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
     "id": "9ac1c26d-c507-4a65-b2c7-3b4376b98669",
     "applicationName": null,
     "packageName": "com.forevr.corn_hole",
@@ -3686,6 +3716,21 @@
     "cpuLevel": -1,
     "gpuLevel": -1,
     "frLevel": 2,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
+    "id": "a27924e1-c836-4f0b-8cad-410c30242cd3",
+    "applicationName": null,
+    "packageName": "com.JumbliVR.Jigsaw360",
+    "headsetModel": "meta-quest-2",
+    "type": 4,
+    "textureWidth": 2300,
+    "textureHeight": 2530,
+    "refreshRate": -1,
+    "cpuLevel": -1,
+    "gpuLevel": 5,
+    "frLevel": 4,
     "email": null,
     "needToBeReviewed": false
   },
@@ -6225,6 +6270,21 @@
     "needToBeReviewed": false
   },
   {
+    "id": "47793a58-e070-458f-aca5-6fda7b7bc511",
+    "applicationName": null,
+    "packageName": "com.robosarugames.reflexunit2Lab",
+    "headsetModel": "meta-quest-2",
+    "type": 4,
+    "textureWidth": 2048,
+    "textureHeight": 2253,
+    "refreshRate": -1,
+    "cpuLevel": -1,
+    "gpuLevel": 5,
+    "frLevel": 3,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
     "id": "a0d1cf99-c83b-4183-ad99-6ffc4d56bf3d",
     "applicationName": null,
     "packageName": "com.BinaryPlayground.IceColdBeerQUEST",
@@ -7335,6 +7395,21 @@
     "needToBeReviewed": false
   },
   {
+    "id": "5da7abce-8717-4d1d-9322-84af679e4738",
+    "applicationName": null,
+    "packageName": "com.TinyBuild.killitwithfirevr",
+    "headsetModel": "meta-quest-2",
+    "type": 3,
+    "textureWidth": 1900,
+    "textureHeight": 2090,
+    "refreshRate": -1,
+    "cpuLevel": -1,
+    "gpuLevel": 3,
+    "frLevel": 2,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
     "id": "511731c0-fa5d-4fa8-b20d-84bef00b98fc",
     "applicationName": null,
     "packageName": "com.cyanventures.AreaManLives",
@@ -8201,6 +8276,21 @@
     "cpuLevel": -1,
     "gpuLevel": 4,
     "frLevel": 3,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
+    "id": "e70e4a83-b44d-41ef-9fff-935e29106ad9",
+    "applicationName": null,
+    "packageName": "com.TinyBuild.killitwithfirevr",
+    "headsetModel": "meta-quest-2",
+    "type": 1,
+    "textureWidth": 1440,
+    "textureHeight": 1584,
+    "refreshRate": -1,
+    "cpuLevel": 1,
+    "gpuLevel": 1,
+    "frLevel": 2,
     "email": null,
     "needToBeReviewed": false
   },
@@ -9870,6 +9960,21 @@
     "needToBeReviewed": false
   },
   {
+    "id": "91910a13-d418-44e7-ae2f-b62fb0ffef2b",
+    "applicationName": null,
+    "packageName": "com.xrsys.slam",
+    "headsetModel": "meta-quest-2",
+    "type": 2,
+    "textureWidth": 1440,
+    "textureHeight": 1584,
+    "refreshRate": 110,
+    "cpuLevel": -1,
+    "gpuLevel": 5,
+    "frLevel": 2,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
     "id": "5693b42a-4c46-4033-950b-b63b5f807a41",
     "applicationName": null,
     "packageName": "com.madaboutpandas.hitchhikergame",
@@ -10089,7 +10194,7 @@
     "textureHeight": 1839,
     "refreshRate": -1,
     "cpuLevel": 4,
-    "gpuLevel": 4,
+    "gpuLevel": 5,
     "frLevel": 3,
     "email": null,
     "needToBeReviewed": false
@@ -10375,6 +10480,21 @@
     "refreshRate": 68,
     "cpuLevel": -1,
     "gpuLevel": -1,
+    "frLevel": 4,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
+    "id": "d156cb9a-c90b-4048-b568-bdfdd1f47d74",
+    "applicationName": null,
+    "packageName": "com.YetUnknown.ToyMonsters",
+    "headsetModel": "meta-quest-2",
+    "type": 3,
+    "textureWidth": 1800,
+    "textureHeight": 1980,
+    "refreshRate": 68,
+    "cpuLevel": -1,
+    "gpuLevel": 5,
     "frLevel": 4,
     "email": null,
     "needToBeReviewed": false
@@ -11730,6 +11850,21 @@
     "needToBeReviewed": false
   },
   {
+    "id": "cfb9ef77-414c-4b23-994d-d34efd5ac05a",
+    "applicationName": null,
+    "packageName": "com.framesynthesis.VRSashimiTanpopo",
+    "headsetModel": "meta-quest-2",
+    "type": 3,
+    "textureWidth": 2048,
+    "textureHeight": 2253,
+    "refreshRate": 72,
+    "cpuLevel": -1,
+    "gpuLevel": 2,
+    "frLevel": 4,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
     "id": "d2da2244-a0bf-4a67-9a5d-d3c16d422fb1",
     "applicationName": null,
     "packageName": "com.hiddenpath.phoenix",
@@ -12420,6 +12555,21 @@
     "needToBeReviewed": false
   },
   {
+    "id": "1ae70043-6b52-40f3-b6de-dd8e929dd2c8",
+    "applicationName": null,
+    "packageName": "com.JumbliVR.Jigsaw360",
+    "headsetModel": "meta-quest-2",
+    "type": 1,
+    "textureWidth": 1440,
+    "textureHeight": 1584,
+    "refreshRate": 68,
+    "cpuLevel": 0,
+    "gpuLevel": 1,
+    "frLevel": 2,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
     "id": "fb167f85-bcea-43a2-ad93-de53fdaa90a2",
     "applicationName": null,
     "packageName": "com.polyarc.MossGame",
@@ -12521,6 +12671,21 @@
     "cpuLevel": -1,
     "gpuLevel": 5,
     "frLevel": 1,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
+    "id": "38a9ddf1-3d5e-4ef1-b198-dfab6aa58919",
+    "applicationName": null,
+    "packageName": "com.TinyBuild.killitwithfirevr",
+    "headsetModel": "meta-quest-2",
+    "type": 4,
+    "textureWidth": 2250,
+    "textureHeight": 2475,
+    "refreshRate": -1,
+    "cpuLevel": -1,
+    "gpuLevel": 5,
+    "frLevel": 2,
     "email": null,
     "needToBeReviewed": false
   },
@@ -13856,6 +14021,21 @@
     "cpuLevel": -1,
     "gpuLevel": 5,
     "frLevel": 1,
+    "email": null,
+    "needToBeReviewed": false
+  },
+  {
+    "id": "7fcd26af-a613-4aae-bb73-fab2b96d3c70",
+    "applicationName": null,
+    "packageName": "com.framesynthesis.VRSashimiTanpopo",
+    "headsetModel": "meta-quest-2",
+    "type": 1,
+    "textureWidth": 1440,
+    "textureHeight": 1584,
+    "refreshRate": 68,
+    "cpuLevel": 0,
+    "gpuLevel": 0,
+    "frLevel": 4,
     "email": null,
     "needToBeReviewed": false
   },
