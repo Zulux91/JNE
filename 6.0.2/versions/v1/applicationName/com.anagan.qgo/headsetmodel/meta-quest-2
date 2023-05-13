@@ -1,0 +1,140 @@
+[
+    {
+      "id": "1eafc19d-37f7-4bfd-933e-5abb72196e71",
+      "name": "5.3.0",
+      "changelog": "<p><strong>App</strong>\r\n</p>\r\n<ul><li>Welcome message</li><li>FIX infinite loop with Explore app for some users<br>\r\n</li><li>FIX for opening OVR Metrics Tool in Meta Quest v51</li></ul>\r\n<p><strong>Main screen :</strong></p>\r\n<ul><li>New tiles UI with 4 columns</li><li>Official Quest games thumbnails. AppLab and SideQuest will come later</li></ul>\r\n<p><strong>General settings screen :</strong></p>\r\n<ul><li>You can now install OVR Metrics Tool from QGO</li><li>You also can enable or disable OVR Metrics Tool pre made settings and positions</li></ul>",
+      "creationDateUtc": "2023-04-04T19:31:07.2798611+00:00"
+    },
+    {
+      "id": "237889be-04f7-4dcb-b65b-17544dc9cbd3",
+      "name": "5.2.3",
+      "changelog": "<strong>App</strong></p><ul><li>FIX for upcoming v51 running on Android 12</li></ul>",
+      "creationDateUtc": "2023-03-28T17:46:15.4176216+00:00"
+    },
+    {
+      "id": "cf2374fc-34d3-4109-b93c-2147f7b0adfb",
+      "name": "5.2.2",
+      "changelog": "<p><strong>App</strong>\r\n</p>\r\n<ul><li>Whooops... Fix shortcut loop issue</li></ul>",
+      "creationDateUtc": "2023-03-17T15:25:19.221617+00:00"
+    },
+    {
+      "id": "c9927a8d-c01b-4273-ab58-440cdf4fb58e",
+      "name": "5.2.1",
+      "changelog": "<p><strong>App</strong>\r\n</p>\r\n<ul><li>Fix visual notifications. They are now back :-)</li><li>Removing voice notifications</li></ul>\r\n<p><strong>General settings screen :</strong>\r\n</p>\r\n<ul><li>Card interface</li><li>You can now define the shortuct you want to launch QGO</li></ul>\r\n<p><strong>Main screen :</strong>\r\n</p>\r\n<ul><li>Revert General Settings icon to top app bar instead of menu</li><li>Making video cpature settings and general settings icon blinking util you click on it</li><li>Fix search bar height</li><li>Adding red ADB message explanation in case of ADB disabled</li></ul>\r\n<p><strong>Profile configuration page :</strong>\r\n</p>\r\n<ul><li>Fix for resolution edit field</li></ul>\r\n<p><strong>Other :</strong></p><ul><li>Fixs and improvements",
+      "creationDateUtc": "2023-03-17T15:25:19.2059973+00:00"
+    },
+    {
+      "id": "c08e245c-ab7c-4d19-8143-ee64099dccd1",
+      "name": "5.2.0",
+      "changelog": "\r\n<p><strong>App</strong></p>\r\n<ul><li>Add Chinese Hong Kong and Taiwan languages (Thanks to Kristen Ho)</li><li>Increase app loading time</li><li>If an update is available, the update app page open at start</li><li>Play sound when QGO start</li><li>As visual notification don&#x27;t show anymore since the Meta Quest v50, I introduced a voice sound notification (for example : &quot;HD+ profile applied&quot;). Only work for the moment on the Quest Pro because of its multitasking possibilities. Don&#x27;t worry. If the ADB icon is green, QGO is working</li><li>Improving auto detection algorithm. You can launch new installed games with their best existing profile, from headset home for example, without going into QGO to enable their profiles</li><li>Fix some QGO crashs (due to Meta Quest v49)</li></ul>\r\n<p><strong>General settings screen :</strong></p>\r\n<ul><li>Modifiying how auto detect feature is enabled (to be done manually now)</li><li>The Store shortcut is replaced by the Notifications icon.&nbsp;&nbsp;You can start QGO from the homepage of the headset by hovering on the Notifications icon</li><li>You can now change splash screen icon with the new QGO logo</li></ul>\r\n<p><strong>Main screen :</strong></p>\r\n<ul><li>Move information icon to the top bar.&nbsp; The icon is blinking&nbsp;until you open the information page</li><li>Move general settings into the top bar menu</li><li>When a new game is installed, if you open QGO, its best profile is enabled by default</li><li>Add button to disable profiles for all games</li><li>Add button to enable best profile for all games</li><li>In the game menu, you now have an explicite button to disable profile</li><li>Truncate game names if too longer</li></ul>\r\n<p><strong>Profile configuration page :</strong>\r\n</p>\r\n<ul><li>Add application version</li><li>The information icon is blinking&nbsp;until you open the information page</li><li>Fix copy feature for profile with&nbsp;square resolution</li></ul>\r\n<p><strong>Video capture settings screen :</strong></p>\r\n<ul><li>Capture bitrate slider</li><li>Fix reset action</li></ul>\r\n<p><strong>Other :</strong>\r\n</p>\r\n<ul><li>UI small adjustments\r\n</li><li>Fixs and improvements\r\n</li></ul>",
+      "creationDateUtc": "2023-03-12T15:48:19.7465736+00:00"
+    },
+    {
+      "id": "9338fd14-064c-4869-af7d-e1b0325b6c65",
+      "name": "5.1.3",
+      "changelog": "<p><strong>Profile configuration page :</strong>\r\n</p>\r\n<ul><li>Remove 60 and 68Hz entries from refresh rate presets for the Quest Pro</li></ul>",
+      "creationDateUtc": "2022-12-12T21:16:58.5990984+00:00"
+    },
+    {
+      "id": "f0260a19-2795-4b82-91f8-b13924538b4d",
+      "name": "5.1.2",
+      "changelog": "<p><strong>App :</strong>\r\n</p>\r\n<ul><li>FIX : installation now request only one time the Allow USB debugging durinng setup</li></ul>\r\n<p><strong>Main screen :</strong>\r\n</p>\r\n<ul><li>Notification pill is now brighter</li></ul><p><strong>Video capture settings screen :</strong></p><ul><li>Fix :&nbsp; full rate capture settings was not enabled properly. You needed to mannually turn your screen OFF and ON. It is now automatic</li></ul>\r\n",
+      "creationDateUtc": "2022-12-06T19:06:28.2221119+00:00"
+    },
+    {
+      "id": "d11f0b04-9af5-43c7-92ca-5973b06a2c52",
+      "name": "5.1.1",
+      "changelog": "<p><strong>App :</strong></p><ul><li>FIX : some oculus app where hidden (First Contact)</li></ul><p><strong>Main screen :</strong></p><ul><li>Add applications counter</li></ul>",
+      "creationDateUtc": "2022-11-24T15:24:18.0706594+00:00"
+    },
+    {
+      "id": "1e80ae9a-4667-40db-86c7-f5b9cede8d85",
+      "name": "5.1.0",
+      "changelog": "<p><strong>App :</strong>\r\n</p>\r\n<ul><li>Full Meta Quest Pro support</li><li>Color theme</li><li>General settings page</li><li>Video capture setting page</li></ul>\r\n<p><strong>Installation :</strong></p>\r\n<ul><li>Indications about the Do Not Disturb mode</li><li>Indication about the general settings screen</li></ul>\r\n<p><strong>Main screen :</strong>\r\n</p>\r\n<ul><li>ADB indicator (RED = disabled, Green = enabled)</li><li>Shortcut to General settings screen</li><li>Shortcut to Video capture settings page</li><li>Move switch buttons to General settings</li><li>Menu add Contact slider panel</li></ul>\r\n<p><strong>General settings :</strong></p>\r\n<ul><li>Enabling or not Optimization mode</li><li>Enabling or not Auto detect mode</li><li>Enabling or not Shortcut mode</li><li>Choose the QuestGamesOptimizer UI color themes</li></ul>\r\n<p><span style=\"color: inherit; font-size: inherit\"><strong>Video capture settings :</strong></span>\r\n</p>\r\n<ul><li>Complete new page</li><li>Eye selection (Left, Right, Left + Right)</li><li>Capture definition</li><li>Capture format (Landscape, portrait, square)</li><li>Compression quality</li><li>Frame rate</li></ul>\r\n<p><strong>Profile configuration page :</strong></p>\r\n<ul><li>FFR (Fixed Foveated Rendering) is now renamed to FR (Foveated Rendering)</li><li>FR constraint for Quest Pro. ETFR max value is High when FFR max value is Very High (check information icon for more explanation)</li></ul>\r\n<p><strong>Other :</strong></p>\r\n<ul><li>UI small adjustments</li><li>Fixs and improvements</li></ul>",
+      "creationDateUtc": "2022-11-20T13:11:36.0787067+00:00"
+    },
+    {
+      "id": "5e7ffe96-58a1-44c9-b6f6-a7aadf65a88c",
+      "name": "5.0.4",
+      "changelog": "<p><strong>App :</strong></p><ul><li>FIX : v5.0.3 revealed&nbsp;that some people coming from v4.0.1 had misconfiguration because they didn&#x27;t uninstall v4 before installing v5, but not everyone is affected. 5.0.4 fixes that</li></ul><p><strong>Main screen :</strong></p><ul><li>&quot;Auto&quot; toggle button is now named &quot;Auto Detect&quot;</li></ul><p><span style=\"color: inherit; font-size: inherit\"><strong>Video capture settings :</strong></span></p><ul><li>New video profile&nbsp;9:16 / TikTok</li><li>New explanations</li><li>New UI</li></ul>",
+      "creationDateUtc": "2022-11-01T16:23:30.2464458+00:00"
+    },
+    {
+      "id": "dd0a28f7-e279-4bbd-9457-d40b7494be71",
+      "name": "5.0.3",
+      "changelog": "<p><strong>App :</strong></p><ul><li>FIX : Some people even with auto detect feature enabled couldn&#x27;t apply profiles from outside QGO</li></ul>",
+      "creationDateUtc": "2022-10-31T22:22:59.7765947+00:00"
+    },
+    {
+      "id": "e487e703-f22c-4ea4-ab83-263c5c08154d",
+      "name": "5.0.2",
+      "changelog": "<p><strong>App :</strong>\r\n</p>\r\n<ul><li>Add notification counter</li><li>For shortcut experimental feature, add text precision :&nbsp;Only works if the headset language is French, US English, German, Spanish, Portuguese and Simplified Chinese only</li><li>Presets buttons name in the configuration page are now &quot;Presets&quot; for every language&nbsp;&nbsp;(if&nbsp;automatic detection&nbsp;mode enabled)</li><li>FIX : games that don&#x27;t have a profile kept the profile enabled for home</li></ul>",
+      "creationDateUtc": "2022-10-30T18:25:29.6464322+00:00"
+    },
+    {
+      "id": "e20cca0a-742b-4802-bd62-bfff3dc7007f",
+      "name": "5.0.0",
+      "changelog": "<p><strong>App :</strong>\r\n</p>\r\n<ul><li>New cloud architecture</li><li>Free Trial version mode.&nbsp;Before purschasing, people want to try the app ;-)</li><li>New splash screen</li><li>Auto update feature !! No need to download the new QGO versions from Itch.io.&nbsp;QGO now has an update button ;-)</li><li>Auto backup personal profiles on cloud feature. So if you uninstall QGO and re install it, you will find your personal profiles backed up in the cloud</li><li>Manually backup personal feature</li><li>Battery saving profiles</li><li>UHD profiles renamed to HD+ profiles</li><li>More accessible user interface</li><li>Toast for indications</li><li>New color indications</li><li>New information icons</li><li>Exclusion list for application like QuestCraft which is a combination of 2D and 3D app.&nbsp;QGO can&#x27;t optimize graphically 2D apps</li><li>Increase VR app detection</li><li>Notifications to be alerted of some information and of the new profiles !!</li><li>Screen and pages of explanations</li><li>Linux scripts to install QGO</li><li><strong>SECURITY measures to avoid piracy : when you install the v5.0.0, you have to enter your QGO purchase email</strong></li></ul>\r\n<p><strong>Home Page :</strong>\r\n</p>\r\n<ul><li>New user interface! You can now choose between list or tile view</li><li>Scroll is now possible !!</li><li>New top bar design with menu</li><li>/!\\ Experimental /!\\ Possibility to start QuestGamesOptimizer from the Oculus Home&nbsp;by clicking on the Store app shortcut. The counterpart is that the Store application will be deactivated to make way for QuestGamesOptimizer. It only work if you enabled the accessibility service (automatic mode). Sooo,&nbsp;no need to go in unknown sources anymore;-)</li></ul>\r\n<p><strong>Configuration page :</strong>\r\n</p>\r\n<p>\r\n</p>\r\n<ul><li>New interface</li><li>New cloud battery saver profile</li><li>Presets for texture resolution</li><li>Texture resolution&nbsp;can now be seen as percent of the default resolution</li><li>Presets + slider for custom Refresh Rate</li><li>Customize Texture size with slider and input text</li><li>FIX : you can now send your personal profiles to me !</li></ul>\r\n<p><strong>Video recording profiles :</strong></p>\r\n<ul><li>New interface</li></ul>\r\n<p><strong>Misc :</strong>\r\n</p>\r\n<ul><li>Wordings</li><li>Localizations</li><li>Bug fixes</li><li>And more...</li></ul>",
+      "creationDateUtc": "2022-10-26T20:00:00+02:00"
+    },
+    {
+      "id": "c6ad08ca-5037-4fa7-bd2d-81b4d05fdb38",
+      "name": "4.0.1",
+      "changelog": "<p><strong>App :</strong></p><ul><li>Add Portuguese translation from VRZano (<a href=\"https://www.youtube.com/c/VRZano\" rel=\"nofollow noopener\" referrerpolicy=\"origin\">https://www.youtube.com/c/VRZano</a>) !! :-) QGO is now translated to French, Portuguese, English, Chinese, Spanish and German. It&#x27;s AMAZING !!</li></ul><p><strong>Home Page :</strong></p><ul><li>New button and its slider information page&nbsp;for the dev log to see what I did on each version on the home screen menu bar.</li><li>The toggle button for accessibility permission is now green when turned to ON. This is more clear.</li><li>New video capture profiles in 1:1 aspect ratio in addition to the existing 16:9 aspect ratio</li><li>Increased video capture bitrate to 20Mb/s</li><li>You can now use QGO without any network access. But remember to launch the app with network access the&nbsp;first time ;-).&nbsp;The counterpart is you will not receive any update notification, new profiles and list of optimized games.</li></ul><p><strong>Configuration page :</strong></p><ul><li>To send me your personals profiles, you now&nbsp;need to contact me at&nbsp;<strong>questgamesoptimizer@gmail.com</strong>. I removed the action button.</li></ul><p><strong>Misc :</strong><br></p><ul><li>Fix for some people having fun with negative texture size.&nbsp;QGO crashed :-D</li><li>Fix when searching an app&nbsp;through the search bar, QGO was looking for applications names and packages names. It now only search for applications names.</li><li>&nbsp;Fix when the success apply profile notification showed twice when launching games from QGO itself with the accessibility permission turned to ON&nbsp;or when during a game, you toggled off and on the screen.</li><li>When launching games within their configuration page, the personal profile will be used even if another profile is enabled for the game. Remember, you can launch your games from every launcher is accessibility is enabled else, you can launch them from the main screen by clicking on games names or pictures or launch icon on right or from the configuration page by clicking on the picture.</li><li>Fix for the bug encountered the last week due to malformed profile.&nbsp;It will not happen again :-)</li><li>Small adjustments...</li></ul>",
+      "creationDateUtc": "2022-07-31T00:00:00+00:00"
+    },
+    {
+      "id": "df69cdb7-960d-4cf7-bc2d-53bc37d1dff6",
+      "name": "4.0.0",
+      "changelog": "<p><strong>App&nbsp;:</strong></p><ul><li>Simplified installation</li><li>Icons displaying page information</li><li>Information in the form of a sliding page. No more popups that had trouble working since v39</li><li>Green color to highlight some important elements</li><li>Chinese translation</li><li>Removal of basic user mode</li><li>Improved detection algorithm for launching and closing applications</li><li>New cloud profiles :<ul><li><strong>Performance :&nbsp;</strong>Higher FPS + Unchanged Visual Quality</li><li><strong>Quality&nbsp;(what we currently have)&nbsp;:&nbsp;</strong>Superior visual quality + No compromise on FPS stability + No compromise on refresh rate</li><li><strong>High Quality :&nbsp;</strong>Even higher visual quality + No compromise on FPS stability but potentially lower refresh rate (to save available resources)</li></ul></li><li>New INSANE performance level</li></ul><p><strong>Home page:</strong></p><ul><li>The accessibility button is now&nbsp;represented as a switch. No more laborious manipulations to activate the permission in the Oculus menus (which are no longer accessible since v40)</li><li>Possibility therefore to simply activate or deactivate the automatic mode of QGO, mean disabling QGO</li><li>Buttons to scroll the applications list (yes I did, it doesn&#x27;t replace the joysticks, but it&#x27;s already much more comfortable)</li><li>New video capture profiles (1440p and 2160p at 30fps and full rate)</li><li>New icons for the three profile types</li><li>Possibility to launch the games from QGO by clicking on the image of the game, its name or as before via the launch icon</li><li>Information icons</li></ul><p><strong>Configuration&nbsp;page:</strong></p><ul><li>Application name + package name&nbsp;in navigation bar</li><li>Information icon</li><li>Sections detailing the three cloud profiles types</li><li>Copy buttons for each profile</li><li>Long press possible on the +/- buttons, used to increase or reduce the resolution of the textures. Cursor now rises much faster</li><li>+/- buttons have been enlarged</li></ul><p><strong>Misc :</strong></p><ul><li>Optimization and rewriting of almost 40% of the code</li><li>Lighten the QGO from 21Mb to 5Mb</li><li>Bug fixes</li><li>etc...</li></ul>",
+      "creationDateUtc": "2022-05-30T00:00:00+00:00"
+    },
+    {
+      "id": "f10e33bb-181a-4b8a-b539-b76d6f9c49a8",
+      "name": "3.0.1",
+      "changelog": "<p><strong>App&nbsp;</strong>:</p><ul><li>Fix and incompatibility issue with 2D apps (<a href=\"https://anagan79.itch.io/quest-games-optimizer/devlog/365586/the-v301-is-now-out-to-fix-an-incompatibility-bug-with-2d-apps\">please read this post</a>)</li></ul>",
+      "creationDateUtc": "2022-04-04T00:00:00+00:00"
+    },
+    {
+      "id": "fbdc9cc0-67ef-4b74-aa1a-82abdcf36862",
+      "name": "3.0.0",
+      "changelog": "<p><strong>App&nbsp;</strong>:</p><ul><li>QGO is now darker</li><li>I implemented the red color</li><li>QGO now loads much faster</li><li>During the installation you have the choice between two application usage level<ul><li><strong>Basic&nbsp;</strong>mode lets QGO apply all cloud profiles if they exist.&nbsp;<strong>So you have nothing to do&nbsp;apart from launching your applications</strong></li><li><strong>Advanced&nbsp;</strong>mode allows you to&nbsp;<strong>configure everything</strong></li></ul></li></ul><p><strong>Splash screen :</strong></p><ul><li>Redesign of the splash screen</li></ul><p><strong>Home page :</strong></p><ul><li>The accessibility button is now red when accessibility permission is disabled and green when it&#x27;s enabled</li><li>You can choose between Basic and Advanced mode</li><li>For the app list, the alphabetical order is now&nbsp;case-insensitive</li><li>The refresh button will no longer be over the last application icons if you scroll to bottom</li><li><strong>You can now modify your Oculus Home such as the other apps !</strong></li><li>I removed&nbsp;<a href=\"https://fr.tipeee.com/questgamesoptimizer\" rel=\"nofollow noopener\" referrerpolicy=\"origin\">my Tipeee page</a>&nbsp;(if you want to support me) icon from the app</li></ul><p><strong>Configuration page :</strong></p><ul><li>The page has been redesigned</li><li>The share profile button will now tell you this : <em>Please ensure that the game or application remains smooth and lag-free in all scenes. The number of frames per second must be constant and be at least equal to the refresh rate (Fps &gt;= Hz). If this is the case, we will study the profile to propose it to the community. You can also contact us to include your name/nickname in the list of contributors. questgamesoptimizer@gmail.com</em> <a href=\"https://gamergen.com/tutoriels/tuto-quest-games-optimizer-optimiser-jeux-soi-meme-et-aider-communaute-325875-1\" rel=\"nofollow noopener\" referrerpolicy=\"origin\"><em>Tuto (FR)</em></a></li><li>You can now create exotics texture resolution profiles by configuring textures width&nbsp;independently of textures height</li><li>You can now create exotics performance profiles&nbsp;by configuring CPU level independently of GPU level <strong>So you can deal with the battery consumption more&nbsp;efficiently. In lots of games, the CPU utilization is under the GPU utilization.</strong></li></ul><p><strong>Misc :</strong></p><ul><li>Some code optimization</li></ul>",
+      "creationDateUtc": "2022-04-03T00:00:00+00:00"
+    },
+    {
+      "id": "8d517539-35a2-4e93-8300-94c7a910706c",
+      "name": "2.1.0",
+      "changelog": "<p><strong>Home page</strong></p><ul><li>Button for video capture settings (Warning, you may experience lag depending on your game profiles due to the additional power already requested for the profiles).</li><li>Button to list all the&nbsp;optimized games and apps</li></ul><p><strong>Configuration page</strong></p><ul><li>Button to send me your custom profiles</li><li>Display refresh rate for the cloud profiles</li></ul><p><strong>Misc :</strong> </p><ul><li>Some code optimization</li><li>Change some wordings</li><li>Remove popups icons</li></ul>",
+      "creationDateUtc": "2022-03-19T00:00:00+00:00"
+    },
+    {
+      "id": "c2e11e8c-5c5d-4eda-8f86-5931d70e1226",
+      "name": "5.0.1",
+      "changelog": "<p><strong>App :</strong>\r\n</p>\r\n<ul><li>Red color on QGO button is now brighter and text is white\r\n</li><li>Add message when you want to update QGO :&nbsp;If you have trouble installing the update, try again OR use a VPN (this is the case for Chinese users), OR download the update from Itch.io (you will find the download link in the email you received after purchasing QuestGamesOptimizer)\r\n</li><li>FIX : Chinese users encountered crash when launching the v5.0.0 due to Chinese government network limitation\r\n</li><li>FIX : Horizons, Workrooms and Venue were hidden on v5.0.0<span></span></li></ul>",
+      "creationDateUtc": "2022-02-28T18:45:00+01:00"
+    },
+    {
+      "id": "17e30af9-314c-4612-8923-a5ee3bd4e23c",
+      "name": "1.0.2",
+      "changelog": "<ul><li>Automatic detection of the headset model when setting up QGO</li><li>Ability to define apps as favorite by enabling/disabling the star icon on the apps' configuration screen. They will be now on top of the list in the main screen</li><li>German language support (thanks to&nbsp;hwchaos)</li></ul>",
+      "creationDateUtc": "2022-02-07T00:00:00+00:00"
+    },
+    {
+      "id": "eff231ba-66c7-4518-8b7d-dcb81ed1c133",
+      "name": "2.0.0",
+      "changelog": "<p><strong>App&nbsp;</strong>:</p><ul><li>QGO is now in landscape mode</li><li>Increase font size</li><li>The installation now occurs on the splash screen</li></ul><p><strong>Home page</strong>&nbsp;:</p><ul><li>Home page has been reworked</li><li>The update notification is now displayed as an icon and text instead of a popup</li><li>My Itch.io and&nbsp;<a href=\"https://fr.tipeee.com/questgamesoptimizer/\" rel=\"nofollow noopener\" referrerpolicy=\"origin\">Tipeee.com</a>&nbsp;(if you want to support me) web shortcuts</li><li>Favorite icon on each application line</li><li>Search applications filters (All, Favorites, Profiles)</li><li>Icon to list the contributors</li><li>Icon to enable or disabled the accessibility permission when you want</li></ul><p><strong>Configuration page</strong>&nbsp;:</p><ul><li>Configuration page has been reworked</li><li>Refresh Rate parameter has been added (for custom profiles only)</li><li>Button to copy the cloud profile to the custom profile</li><li>Ability to launch the app directly from the new app thumbnail</li></ul><p><strong>Bug fix&nbsp;</strong>:&nbsp;</p><ul><li>Launching apps from QGO didn&#x27;t always apply the profile the first time</li></ul><p><strong>Misc</strong>&nbsp;:</p><ul><li>An Ester Egg has been hidden in the app. Can you find it ? :)</li></ul>",
+      "creationDateUtc": "2022-02-07T00:00:00+00:00"
+    },
+    {
+      "id": "f062f065-bb4d-4a61-9144-316aec5aeee5",
+      "name": "1.0.1",
+      "changelog": "<ul><li>To avoid confusing, you now have the ability to choose if you want to enable the accessibility service or not</li><li>If you refuse, you should need to launch your games from the app because the tool will no longer detect by itself when apps are launched or closed</li></ul>",
+      "creationDateUtc": "2022-01-30T00:00:00+00:00"
+    },
+    {
+      "id": "51a8f7e8-e744-4df5-8a4d-d41f47190a88",
+      "name": "1.0.0",
+      "changelog": "<ul><li>The app is born :)</li></ul>",
+      "creationDateUtc": "2022-01-29T00:00:00+00:00"
+    }
+  ]
