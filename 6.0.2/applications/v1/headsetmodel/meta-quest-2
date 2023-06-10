@@ -432,6 +432,14 @@
     "isOptimized": false
   },
   {
+    "id": "7ca812e1-8745-4fc0-aca2-2590cc80c328",
+    "name": "AkiBonbon",
+    "packageName": "com.gcBronze.AkiBonbon",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "cda54ea3-485a-4213-aabd-a97b2be75aa5",
     "name": "Alcove",
     "packageName": "com.aarpinnovation.alcoveonquest",
@@ -1120,6 +1128,22 @@
     "isOptimized": false
   },
   {
+    "id": "0f162a08-c05c-4950-a791-c596e6667b33",
+    "name": "BattleTalent",
+    "packageName": "com.CyDream.BattleTalent",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "85c5b4c8-d028-4339-9a53-74fed3ceeb27",
+    "name": "BBBBVR",
+    "packageName": "com.BBBBVR",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "d8c38b51-33f1-4daf-9397-9a924bc7e9c4",
     "name": "Be Your Best",
     "packageName": "com.beyourbest.visionxr",
@@ -1158,6 +1182,14 @@
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": true
+  },
+  {
+    "id": "ab1f0908-24b7-4c16-8938-e4c4100d94e7",
+    "name": "Beaver Tag",
+    "packageName": "com.Gtagguy08.BeaverTag",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
   },
   {
     "id": "dbb5e215-4196-4f3c-a033-88dd2cad01f3",
@@ -1227,6 +1259,14 @@
     "id": "4fe9e1e8-52ae-439e-aec1-b6b75a312842",
     "name": "Bigscreen",
     "packageName": "com.bigscreenvr.bigscreen",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "dcbb60bf-03da-4c3a-af28-6edb834d151e",
+    "name": "BioDigital VR ✪ 您下载的游戏→ 全部来自VR魔趣网独家技术破解源头网站 (VRmoo",
+    "packageName": "com.BioDigitalInc.HumanVR",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -1313,11 +1353,11 @@
   },
   {
     "id": "1d8b9f71-1e1d-4e88-8986-ff4ff943f4da",
-    "name": "BlockBuster",
+    "name": "Block Buster ",
     "packageName": "HappyKamperPictures.Blockbuster",
     "isExcluded": false,
     "isHidden": false,
-    "isOptimized": false
+    "isOptimized": true
   },
   {
     "id": "bc5f9147-2999-4c22-9263-5ca07b852afc",
@@ -1496,6 +1536,14 @@
     "isOptimized": true
   },
   {
+    "id": "5e6c7ae1-3070-4b59-8203-29404da690db",
+    "name": "Breathe",
+    "packageName": "ai.rever.breath",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "60ea5b6f-acee-4bea-8fac-6199de4878e1",
     "name": "BricksVR",
     "packageName": "com.BricksVR.BricksVR",
@@ -1558,6 +1606,14 @@
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": true
+  },
+  {
+    "id": "c004670d-329d-4a7c-8821-2670eb3a5066",
+    "name": "Budget Cuts Ultimate",
+    "packageName": "com.NeatCorporation.BudgetCutsUltimate",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
   },
   {
     "id": "05cafdb1-a58e-4cb3-8847-533df5f0f1ff",
@@ -1638,6 +1694,14 @@
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": true
+  },
+  {
+    "id": "ca522c0c-e51e-40c1-b495-5c3db72637d4",
+    "name": "CalfVR ✪ 您下载的游戏→ 全部来自VR魔趣网独家技术破解源头网站 (VRmoo.net)",
+    "packageName": "com.calf.vr",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
   },
   {
     "id": "c82b9d2e-12a5-45d2-a96e-67563d87e264",
@@ -1734,6 +1798,14 @@
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": true
+  },
+  {
+    "id": "22d0aa43-6610-4e4a-ba99-32c08c165353",
+    "name": "Catos VR: Multiplayer Horror",
+    "packageName": "com.edward039.CatosVRMultiplayerHorror",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
   },
   {
     "id": "11c45def-b9e0-42bf-a516-bcc656c51844",
@@ -2160,6 +2232,14 @@
     "isOptimized": false
   },
   {
+    "id": "9b806bab-416e-4880-899b-24c4df41389a",
+    "name": "Conscious Existence - A Journey Within",
+    "packageName": "com.EpicScapes.ConsciousExistenceVR",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "282689e3-7d21-4f4d-af05-9c37890d4a24",
     "name": "Contractors",
     "packageName": "com.CaveManStudio.ContractorsVR",
@@ -2280,6 +2360,14 @@
     "isOptimized": false
   },
   {
+    "id": "0b5baa36-d773-4ea1-b1d7-2a5e26a3a35f",
+    "name": "Court Time Tennis",
+    "packageName": "com.proshotvr.courttimetennis",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "9e7b3b3b-8b67-415f-9f73-1d760ef96792",
     "name": "Crashland",
     "packageName": "com.LACGames.Crashland",
@@ -2304,6 +2392,14 @@
     "isOptimized": true
   },
   {
+    "id": "e8f294a2-ad09-4c92-b80d-05df736da5df",
+    "name": "Crazy Kung Fu",
+    "packageName": "com.fieldofvision.crazykungfudemo",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "fd644a3d-d016-4807-91d9-e9773597774a",
     "name": "Crazy Kung Fu",
     "packageName": "com.fieldofvision.crazykungfu",
@@ -2326,6 +2422,14 @@
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": true
+  },
+  {
+    "id": "656ce86c-a9ff-425d-8559-756baab6c833",
+    "name": "Crimen",
+    "packageName": "com.epicgames.Crimen",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
   },
   {
     "id": "e65b1572-7d8c-4f39-a323-0c32fc2880e7",
@@ -2920,6 +3024,14 @@
     "isOptimized": false
   },
   {
+    "id": "2d40d603-8a41-4f3c-bffb-fe03d5c7187d",
+    "name": "Draconite ✪ 您下载的游戏→ 全部来自VR魔趣网独家技术破解源头网站 (VRmoo.net",
+    "packageName": "com.scale1.draconite",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "9a252e9b-1e93-4b3d-b960-40ff126d664a",
     "name": "Dragon Fist: VR Kung Fu",
     "packageName": "com.BenOldingGames.DragonFistVRKungFu",
@@ -3168,6 +3280,14 @@
     "isOptimized": true
   },
   {
+    "id": "a62def76-f369-4fce-acbe-bbe915f612c8",
+    "name": "End of Night ✪ 您下载的游戏→ 全部来自VR魔趣网独家技术破解源头网站 (VRmoo.",
+    "packageName": "com.Makropol.EndOfNight",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "c634d732-46b4-4925-8270-4b45d6a1940c",
     "name": "End Space",
     "packageName": "com.endspace.quest",
@@ -3198,6 +3318,14 @@
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": true
+  },
+  {
+    "id": "e7ecbc3c-8bac-4f52-8a98-1c3510cdefca",
+    "name": "Epic Roller Coasters",
+    "packageName": "games.b4t.epicrollercoasters",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
   },
   {
     "id": "dec06950-fbd0-41c5-a9c3-4148ec353426",
@@ -3312,6 +3440,30 @@
     "isOptimized": true
   },
   {
+    "id": "0a4fbd1a-26f9-44bb-8567-e24648f5a6a7",
+    "name": "Eternelle Notre-Dame",
+    "packageName": "com.Emissive.NDP",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "baa76800-1f99-428b-9bb6-b99035ffeacf",
+    "name": "EVA VR",
+    "packageName": "com.AscentXR.EvaVR",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "56a1ef66-41d1-4484-8004-4a03bf7cd515",
+    "name": "EVERSLAUGHT Invasion",
+    "packageName": "com.MobXGames.EVERSLAUGHT.Invasion",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "adc4a054-0597-43cb-9bd8-4b7dffbbd186",
     "name": "Evryway Visualiser",
     "packageName": "com.evryway.visualiser.oal",
@@ -3353,7 +3505,7 @@
   },
   {
     "id": "7ee45deb-2c06-4620-b13e-70cfabb10c5e",
-    "name": "Eye of the Temple ✪ 您下载的游戏全部来自→ VR魔趣网独家技术破解源头网站 (V",
+    "name": "Eye of the Temple",
     "packageName": "com.RuneSkovboJohansen.EyeOfTheTemple",
     "isExcluded": false,
     "isHidden": false,
@@ -3472,6 +3624,14 @@
     "isOptimized": false
   },
   {
+    "id": "e7af4ed5-5e3c-4dc3-98c7-04fd833b3e14",
+    "name": "FFFFVR",
+    "packageName": "com.FFFFVR",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "bc4c69e1-2d9d-45d3-94a2-4172de208343",
     "name": "FightBack_Release",
     "packageName": "com.Albyon.FightBack_Release",
@@ -3579,6 +3739,14 @@
     "id": "eab64a74-ef8f-4d57-8950-6b22f656e304",
     "name": "First Steps",
     "packageName": "com.oculus.FirstStepsHands",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "ce29a6c9-8431-49c3-bdf2-980c2f12d36d",
+    "name": "FirstProject",
+    "packageName": "com.UnityTechnologies.com.unity.template.urpblank",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -3728,6 +3896,14 @@
     "isOptimized": true
   },
   {
+    "id": "9caba153-efd6-4cca-91bb-2ba615d2fb42",
+    "name": "FORKLIFT DRIVING SIMULATOR VR",
+    "packageName": "com.TwinSoftwareStudio.FORKLIFTDRIVINGSIMULATORVR",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "a4563156-754f-4d35-b2b7-1cd8aa1d73b6",
     "name": "Forklift Simulator",
     "packageName": "com.Chalkbites.ForkliftSimulatorQuest",
@@ -3763,6 +3939,14 @@
     "id": "e0b144a5-7bea-4189-b22e-cb3798529f44",
     "name": "Frenzy VR",
     "packageName": "com.InnoverseLtd.FrenzyVRAlpha",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "2470ce74-3d2a-4fbe-91b1-bed5bea941d5",
+    "name": "FrenzySurvival",
+    "packageName": "com.InnoverseLtd.FrenzyVRAlpha2",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -4096,9 +4280,25 @@
     "isOptimized": false
   },
   {
+    "id": "f62c2ef5-5700-4d9f-9df5-e4dcbd4b5082",
+    "name": "Gone Man",
+    "packageName": "com.vr.escape.puzzle.mystery.exploration",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "8cf56ce0-d508-46d4-974c-8cac500cc1aa",
     "name": "Gorilla Football",
     "packageName": "com.fengu.gorillasoccer",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "9dca4365-aab0-45ec-a628-599324254160",
+    "name": "Gorilla Games",
+    "packageName": "com.Cornamny.MiniGames",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -4136,6 +4336,14 @@
     "isOptimized": false
   },
   {
+    "id": "8ec4fecd-7b58-4d0f-97e4-2f251de148f6",
+    "name": "Grabble",
+    "packageName": "com.epicgames.Grabble",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "1b623dfc-5906-4b24-923f-a2240a25b63b",
     "name": "Granny Vr",
     "packageName": "com.SparrowedAnvils.GrannyVr",
@@ -4155,6 +4363,14 @@
     "id": "61850165-f256-4e3c-8d20-ed048f8e694f",
     "name": "Grapple_VR",
     "packageName": "com.tomorrowgames.gtvr",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "7eabf9ea-4166-4441-8501-31d18e0edf84",
+    "name": "GrappleMonke",
+    "packageName": "com.ThunderPixelGames.GrappleMonke",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -4318,6 +4534,14 @@
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": true
+  },
+  {
+    "id": "48057c7f-fe83-4a51-96c0-842c38adf90a",
+    "name": "Hammer2VR",
+    "packageName": "com.lvonasek.hammer2",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
   },
   {
     "id": "2e007bb3-f0c2-4e01-8c26-3866fc1ed5ec",
@@ -4528,6 +4752,14 @@
     "isOptimized": false
   },
   {
+    "id": "90cdfd91-e3a5-4599-a4e0-8cb5d832b3dd",
+    "name": "HNVR",
+    "packageName": "com.TinyBuildGames.hnvr",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "ce1c4663-330f-4136-b206-8aa08018aed8",
     "name": "HOAME",
     "packageName": "com.ovrhoame.hoame",
@@ -4696,6 +4928,14 @@
     "isOptimized": false
   },
   {
+    "id": "de228150-5b01-4f2b-8b2b-8f7b3a3d26ae",
+    "name": "Hyper Clinic ✪ 您下载的游戏全部来自→ VR魔趣网独家技术破解源头网站 (VRmoo.",
+    "packageName": "studio.NewFolderGames.TitansClinic",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "4eaeee15-90b1-4bc8-bff6-069c118b54b0",
     "name": "Hyperbolica",
     "packageName": "com.CodeParade.Hyperbolica",
@@ -4827,6 +5067,14 @@
     "id": "1df79558-a216-4669-b2fd-fd3d28592dba",
     "name": "InnerVR",
     "packageName": "com.innervr.innervr",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "0d32e3ad-867a-4dec-afda-dc7b8f2151ed",
+    "name": "Innkeeper VR",
+    "packageName": "com.moonhaven.innkeepervr",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -5096,6 +5344,14 @@
     "isOptimized": true
   },
   {
+    "id": "98f7cd52-e6ae-4711-a6da-79d451dd3c49",
+    "name": "Killer Frequency",
+    "packageName": "com.team17.killerfrequency",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "c61fee93-5889-46e4-86c2-2836a5491c4e",
     "name": "Kingspray Graffiti VR",
     "packageName": "com.infectiousape.kingspray",
@@ -5142,6 +5398,14 @@
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": true
+  },
+  {
+    "id": "8e87eaa1-e61c-43f1-ab73-927fffde4155",
+    "name": "Kong",
+    "packageName": "com.Kynematic.Kong",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
   },
   {
     "id": "be90a661-93b5-4d94-bcd5-737e49f1d9cf",
@@ -5608,6 +5872,14 @@
     "isOptimized": false
   },
   {
+    "id": "98f35462-8eef-4202-b7d1-a42b0a03e469",
+    "name": "MechaForce",
+    "packageName": "com.mk.sfx",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "490dd295-c416-4a5e-93d3-572dfaa81090",
     "name": "MedianaVR",
     "packageName": "com.Mediana.MedianaVR",
@@ -5752,6 +6024,14 @@
     "isOptimized": false
   },
   {
+    "id": "908fe957-ebd2-461b-839b-b5fed5d3d887",
+    "name": "Mint Tag",
+    "packageName": "com.MintStudios.MintTag",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "bd5d6c88-99f5-4d03-9529-917c78e66dc9",
     "name": "Mirewood Manor",
     "packageName": "com.ZTInteractive.MirewoodManor",
@@ -5872,9 +6152,25 @@
     "isOptimized": false
   },
   {
+    "id": "880cbf71-c4ed-4378-9633-ebe78132921f",
+    "name": "MoonSoldier.CHARGE-XR",
+    "packageName": "com.chargexr.moonsoldier",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "e39d8778-cd4f-42f6-abf6-d48356b17d36",
     "name": "Morels_Homestead_V1",
     "packageName": "com.AbramsStudios.Morels.Homestead",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "cb644561-f6b0-4cd1-b343-1f6461426179",
+    "name": "MortalAndMonster",
+    "packageName": "com.Geeift.MXM",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -6000,6 +6296,14 @@
     "isOptimized": true
   },
   {
+    "id": "308a8a11-bc2b-47f7-9725-236fc2c7a605",
+    "name": "Mystery Box VR",
+    "packageName": "com.xsgames.mysteryboxvr",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "c182c975-728d-44dc-add4-c73886a75ad9",
     "name": "MyTestProject1",
     "packageName": "com.RincewindsCompany.MyTestProject1",
@@ -6038,6 +6342,14 @@
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": true
+  },
+  {
+    "id": "eef3d19f-ca10-44ac-b530-16d01b74120d",
+    "name": "nauticrawlVR",
+    "packageName": "com.armorgames.nauticrawlVR",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
   },
   {
     "id": "f694ab2b-3645-4c1d-af59-3de3b52631ae",
@@ -6120,6 +6432,14 @@
     "isOptimized": true
   },
   {
+    "id": "d81bc4b2-cfc5-4502-95da-d2f6acb0e8ac",
+    "name": "No More Rainbows",
+    "packageName": "com.squido.nmr",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "bd7bc626-d189-4abb-8447-95c5b2807916",
     "name": "No More Rainbows Beta",
     "packageName": "com.Squido.Kanguru",
@@ -6168,6 +6488,14 @@
     "isOptimized": false
   },
   {
+    "id": "1ffbfb66-ae1c-4f9f-8cf5-ed2dd2a9f557",
+    "name": "NotMe",
+    "packageName": "com.stormx.NotMe",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "05de79ca-932c-4840-a238-06b547359a8d",
     "name": "NounTown 你下载的全部来自VR魔趣网独家技术破解源头 VRmoo.cn",
     "packageName": "com.realiaXR.NounTownQuest",
@@ -6179,6 +6507,14 @@
     "id": "e52998bf-1bb5-4c2a-a6ab-ba4a0ca50b4e",
     "name": "NS__3780",
     "packageName": "com.GtoG.NS3780",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "6035e7eb-dc28-418d-a46b-937f72dfa0d8",
+    "name": "Oasis Browser ✪ 您下载的游戏→ 全部来自VR魔趣网独家技术破解源头网站 (VRmoo",
+    "packageName": "com.OasisBrowser.OasisBrowser",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -6280,6 +6616,14 @@
     "isOptimized": false
   },
   {
+    "id": "f13737a7-425d-4347-81ae-ad17a45b54cc",
+    "name": "OmnyTagger",
+    "packageName": "com.ProjectOmny.OmnyTagger",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "0ab85626-4d4b-41f5-9fd7-f6a728810b23",
     "name": "On Target VR Darts",
     "packageName": "com.ColugoProductionsInc.OnTargetVRDarts",
@@ -6291,6 +6635,14 @@
     "id": "513d6cbf-d96b-436d-898f-12fad18be2a5",
     "name": "On The Morning You Wake",
     "packageName": "net.novelab.OnTheMorningYouWake",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "b5063299-697c-42c2-ac1a-b97389bbbab0",
+    "name": "One Night Stand Ep1",
+    "packageName": "com.bhg.ONS1",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -6352,6 +6704,14 @@
     "isOptimized": false
   },
   {
+    "id": "4e4a8102-9d6e-4509-982c-60e7734eb655",
+    "name": "Organ Quarter ✪ 您下载的游戏→ 全部来自VR魔趣网独家技术破解源头网站 (VRmoo",
+    "packageName": "jp.co.amata.organquarter",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "2ce1417d-97a3-45e1-b7d8-1ee80d6c90e5",
     "name": "ORKANA CONFLICT VR魔趣网技术破解发布 VRmoo.cn",
     "packageName": "com.ROCKAKGAMES.ORKANACONFLICT",
@@ -6371,6 +6731,14 @@
     "id": "951a90a1-d1d7-40a8-88d9-644865582646",
     "name": "OtherSight",
     "packageName": "com.raizmedia.othersight",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "8d8e4c52-5e5d-4e44-b30b-62da251684ef",
+    "name": "Out of the Shadows ✪ 您下载的游戏→ 全部来自VR魔趣网独家技术破解源头网站 (",
+    "packageName": "com.samorme.shadow",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -6539,6 +6907,14 @@
     "id": "1af4b5b5-2ce4-4ff1-9507-91b36e55f604",
     "name": "Pavlov VR",
     "packageName": "com.vankrupt.pavlov",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "4c586e38-eedd-4203-8aeb-0da57db93ce3",
+    "name": "Peacock",
+    "packageName": "com.peacocktv.peacock.meta",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -6992,6 +7368,14 @@
     "isOptimized": false
   },
   {
+    "id": "18816500-fec2-492b-8a45-1a4363cd1b6c",
+    "name": "PressureWasher",
+    "packageName": "com.fantawildgames.pressurewasher",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "3a9ebe5f-7128-4b87-8388-318c5c23d17e",
     "name": "PreyVR",
     "packageName": "com.lvonasek.preyvr",
@@ -7230,6 +7614,14 @@
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": true
+  },
+  {
+    "id": "c8fba18e-956e-4089-b312-84c0661e8093",
+    "name": "Quantaar",
+    "packageName": "com.Pumpkin.Quantaar",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
   },
   {
     "id": "15f26bb9-3102-432e-b9af-edde9e8be2c2",
@@ -7576,14 +7968,6 @@
     "isOptimized": false
   },
   {
-    "id": "bb663cd3-704e-4084-8d59-eadfcff145db",
-    "name": "Retropolis",
-    "packageName": "com.PeanutButton.Retropolis",
-    "isExcluded": false,
-    "isHidden": false,
-    "isOptimized": false
-  },
-  {
     "id": "d4476454-002d-4bc2-9160-9e2a511b717f",
     "name": "Return to Castle Wolfenstein",
     "packageName": "com.drbeef.rtcwquest",
@@ -7635,6 +8019,14 @@
     "id": "f42c3a9e-6260-4bc9-a032-a228b5422f49",
     "name": "Rezzil Player 22",
     "packageName": "com.Rezzil.Quest",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "b1ce5d67-6576-48ec-8ec8-90b7746d0c0b",
+    "name": "RGS+RCC+Logi",
+    "packageName": "com.RaptorsGames.TheTurn",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -7704,6 +8096,14 @@
     "isOptimized": false
   },
   {
+    "id": "45d3948a-187e-4f68-b4aa-67fb77408c38",
+    "name": "Rooms of Realities",
+    "packageName": "bluekey.roomsofrealities",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "78277988-6315-4364-a306-bc4be70d9ffb",
     "name": "Rooms of Realities",
     "packageName": "games.bluekey.gamedust.roomsofrealities",
@@ -7734,6 +8134,14 @@
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": true
+  },
+  {
+    "id": "6848ae29-9bb3-4166-b1b9-c7953c76fcb6",
+    "name": "runningchill",
+    "packageName": "com.DefaultCompany.runningchill",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
   },
   {
     "id": "cb2658e9-d960-4ae7-89a7-50bfae67b883",
@@ -7800,6 +8208,14 @@
     "isOptimized": false
   },
   {
+    "id": "07da9739-fb58-4b09-a698-de23036bf8b5",
+    "name": "SavannaXR ✪ 您下载的游戏→ 全部来自VR魔趣网独家技术破解源头网站 (VRmoo.net",
+    "packageName": "com.MNNH.SavannaXR",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "6c181bb6-521e-40f6-bb43-8a9377f49516",
     "name": "SBR_OC ♡ 你下载的所有破解全部来自→VR魔趣网独家技术破解源头网站 (VRmoo.cn)",
     "packageName": "com.ArtZero.SBR",
@@ -7851,6 +8267,14 @@
     "id": "161ea535-5efe-4c22-a116-f255461e3480",
     "name": "Seeker VR",
     "packageName": "com.TeamEldritch.SeekerVR",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "a43f336b-7972-4407-81ec-5bdb5a5488f8",
+    "name": "SeeSignal",
+    "packageName": "com.badvr.seesignal.oculus",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -8128,6 +8552,14 @@
     "isOptimized": false
   },
   {
+    "id": "1bf1f6e3-36ee-4406-be4a-ca97707f7231",
+    "name": "SkydiveSim",
+    "packageName": "com.VAxisStudios",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "bf3dbc41-00c0-447c-86cc-561d5636cf0b",
     "name": "SKYGAZE",
     "packageName": "com.SkygazeXR.SKYGAZE",
@@ -8222,6 +8654,14 @@
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": true
+  },
+  {
+    "id": "9027d7f9-e149-400e-8f1f-49472d5a8706",
+    "name": "SnowboardFunpark",
+    "packageName": "com.YueWorks.SnowboardFunpark",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
   },
   {
     "id": "003364d8-f519-4468-b123-81e15931bd48",
@@ -8656,6 +9096,14 @@
     "isOptimized": false
   },
   {
+    "id": "4dbb8f6f-3137-4c49-81fa-8e60586c6c37",
+    "name": "SUMS",
+    "packageName": "com.MercerVR.SUMS",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "99e7d407-0dd7-4d04-8a30-c13a3f61af33",
     "name": "SundSim VR",
     "packageName": "com.AATEVR.SundSim.CPR",
@@ -8670,6 +9118,14 @@
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": true
+  },
+  {
+    "id": "ac24ecbd-a180-4878-9332-56b2a76acefd",
+    "name": "Super Gun Arena @ dollarvr.com",
+    "packageName": "com.LanogaGameStudio.SuperGunArena",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
   },
   {
     "id": "ac0b1bcb-f51c-4a64-8e07-81abcee30b8a",
@@ -8760,6 +9216,14 @@
     "isOptimized": true
   },
   {
+    "id": "b31a8be2-0646-407a-8901-7cec62b62538",
+    "name": "Swarm 2",
+    "packageName": "com.greensky.swarm2",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "d10e7b28-746d-40e2-bec7-f74f1b393e28",
     "name": "Sweet Surrender",
     "packageName": "com.SalmiGmbH.SweetSurrenderVRTests",
@@ -8832,6 +9296,14 @@
     "isOptimized": false
   },
   {
+    "id": "3fc364d8-38fc-46ee-aea1-f93128223427",
+    "name": "T65 Combat",
+    "packageName": "com.FinnieBob.T65Combat",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "c95807b9-78c3-44f5-a22e-079088f4e74a",
     "name": "Table of Tales : The Crooked Crown",
     "packageName": "com.zeroonestudio.tinmangames.ttcc",
@@ -8856,6 +9328,14 @@
     "isOptimized": false
   },
   {
+    "id": "a47ae769-c5cf-4e16-8110-740a706ef27b",
+    "name": "Taiko Frenzy ✪ 您下载的游戏→ 全部来自VR魔趣网独家技术破解源头网站 (VRmoo.",
+    "packageName": "com.GlitchrStudio.TaikoFrenzy",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "44a314a8-6722-44ee-a22e-cd05a52c2cd7",
     "name": "TakagisanVR VR魔趣网站 VRmoo.cn",
     "packageName": "com.Kayac.TakagisanVR",
@@ -8875,6 +9355,14 @@
     "id": "5e74aebd-7f72-4368-a0fe-1d1d110556da",
     "name": "Target React Force",
     "packageName": "com.InsideUniverse.TargetReactForce",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "8b3264ae-6b12-4316-96b4-612ffd856eb6",
+    "name": "Tarot Life ✪ 您下载的游戏全部来自→ VR魔趣网独家技术破解源头网站 (VRmoo.ne",
+    "packageName": "com.epicgames.Divine_tarot_ue4_01",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -9093,7 +9581,7 @@
     "packageName": "com.wolfandwood.lastworker",
     "isExcluded": false,
     "isHidden": false,
-    "isOptimized": false
+    "isOptimized": true
   },
   {
     "id": "4e6a306b-a09f-47a6-a6ae-bd4ffc9b1c8f",
@@ -9166,6 +9654,14 @@
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
+  },
+  {
+    "id": "bb663cd3-704e-4084-8d59-eadfcff145db",
+    "name": "The Secret of Retropolis",
+    "packageName": "com.PeanutButton.Retropolis",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": true
   },
   {
     "id": "70d75ca6-9a4d-4773-8b23-316566e30bec",
@@ -9640,6 +10136,14 @@
     "isOptimized": true
   },
   {
+    "id": "e131e846-038d-4ba6-9436-78c2d28b0293",
+    "name": "ultraboxing",
+    "packageName": "com.ultralab.ultraboxing",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "f5f464da-96b6-4b16-96f4-c688fcc0d37b",
     "name": "UltrasclashV",
     "packageName": "com.IOX.UltrasclashV",
@@ -9736,6 +10240,46 @@
     "isOptimized": true
   },
   {
+    "id": "f9791ee0-613a-4386-b952-00a6cd239627",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230521_1100",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "79570c4b-966a-4a26-a01d-045d0432ce7b",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230520_2045",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "57a5d5fd-6f41-4409-b03c-05e8e33be096",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF20.OI.F202305311800",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "15ec9c98-c099-46b2-82f5-07b3e9cc32d7",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230516_2000",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "61c66038-b702-4eb0-9e79-0e6b403af8ae",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230522_2015",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "b60d637c-fd25-49c4-9663-12414fbf36f3",
     "name": "V3G-STV-AI",
     "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230413_1315",
@@ -9760,9 +10304,25 @@
     "isOptimized": false
   },
   {
+    "id": "2a5cd030-24ce-477f-b041-2237a6dd00d1",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F202305222100",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "8fd64b76-d652-4974-b79b-36627f74ecd4",
     "name": "V3G-STV-AI",
     "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230407_2100",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "a3420e88-170b-4e28-bf1f-38824f45431d",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230517_1345",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -9800,6 +10360,22 @@
     "isOptimized": false
   },
   {
+    "id": "43893e0e-e8b9-4c2c-b43e-3e3c84cf004c",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230514_1445",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "f3f36ce5-b711-4c11-aab1-46a0a16ddc13",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230517_1300",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "148728de-65cf-457b-9f27-47c6e6519233",
     "name": "V3G-STV-AI",
     "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230512_2100",
@@ -9811,6 +10387,22 @@
     "id": "30caed15-3463-410d-9e11-4bf470d679ab",
     "name": "V3G-STV-AI",
     "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230423_1400",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "ab1568d1-7982-4bcc-9637-51099d3d6af1",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230514_1345",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "3d398c1c-2fea-489f-a6ab-558b90de6011",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F202305252100",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -9832,9 +10424,33 @@
     "isOptimized": false
   },
   {
+    "id": "c2c670c1-3dcb-46f5-9cb2-659b2fb435e8",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F202305241400",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "3d4e0b6a-1e38-47b6-8521-663b88982239",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230517_1045",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "878ff5cc-9117-4373-8750-6fc7f5acbd14",
     "name": "V3G-STV-AI",
     "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230418_2100",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "f006eaba-cb25-4739-80a0-771432b2c07b",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F202305302115",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -9880,6 +10496,22 @@
     "isOptimized": false
   },
   {
+    "id": "c8bf8a6d-a8b1-46fa-a5ef-9719bde4eb43",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230514_1145",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "e503671c-2839-4707-8d8d-985e96fc57af",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230514_1915",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "58494900-c4ab-4043-8735-a64cabee00dc",
     "name": "V3G-STV-AI",
     "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230316_2100",
@@ -9896,9 +10528,41 @@
     "isOptimized": false
   },
   {
+    "id": "f53332d7-8e35-4265-9b2b-b904347aba3c",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F202305232100",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "fbd4f3bb-4e95-4abd-8265-bc1bf02fcdb7",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230517_1215",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "d659b878-7c48-4eae-b8b7-be117f178872",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230516_2200",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "dfb88721-b39d-4c3c-8804-cb0f39d3abeb",
     "name": "V3G-STV-AI",
     "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230504_1400",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "f30f81b0-f207-4fd8-adf6-cc030e25e947",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230514_1515",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -9944,6 +10608,30 @@
     "isOptimized": false
   },
   {
+    "id": "7fd42913-1a36-44c7-ab4f-d5a372521e83",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230517_2015",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "2da14ca0-fdf6-4967-a650-d69798673132",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F202305272030",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "6a8d29e2-7a2e-42d1-832b-d7ee3b515dc2",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230513_2030",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "23a35253-2270-471c-a6a6-dd34b22de625",
     "name": "V3G-STV-AI",
     "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230505_2100",
@@ -9952,9 +10640,41 @@
     "isOptimized": false
   },
   {
+    "id": "3ed5034d-36b7-4341-8702-e00cab9ca939",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230516_2115",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "a4d31560-77dc-4c99-b1d7-ea7fe268215a",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230514_1245",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "be65780e-c343-45fc-9238-f0128523dacf",
     "name": "V3G-STV-AI",
     "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230421_2100",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "7ed17516-8c95-44ab-b66e-f04ab1bdd7d0",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F202305311800",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "61f70995-c16d-47b9-bc3e-fbba11c5e3a4",
+    "name": "V3G-STV-AI",
+    "packageName": "com.Virtual3dGun.V3G2021316f1.VR.URP.VRIF18.OI.F20230517_1130",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -10006,6 +10726,14 @@
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": true
+  },
+  {
+    "id": "96f16add-6c36-4950-91e9-e161264b5305",
+    "name": "Vault of Stars",
+    "packageName": "com.threelbGames.VaultofStarsBeta",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
   },
   {
     "id": "dc396779-b09a-4746-9695-717d21bc3d10",
@@ -10115,6 +10843,14 @@
     "id": "9cb7d300-ac2c-442f-81c2-977d20470e74",
     "name": "Virtual Desktop",
     "packageName": "VirtualDesktop.Android",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "89d213a2-6f91-4bea-9a80-39315b1c9cdd",
+    "name": "Virtual Speech",
+    "packageName": "com.virtualSpeech.quest",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -10339,6 +11075,14 @@
     "id": "2b1056ad-215e-462d-bc93-fcc5800c9f24",
     "name": "VR_HABITACION_TEST_2",
     "packageName": "com.epicgames.VR_HABITACION_TEST_2",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "1fede6e5-310d-46aa-bf6d-27f86b3513ee",
+    "name": "VR4ll",
+    "packageName": "com.VR4LL.VR4ll",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -10656,6 +11400,14 @@
     "isOptimized": true
   },
   {
+    "id": "8384dda5-e916-4a42-847f-66a9b5445c8c",
+    "name": "We Are One ✪ 您下载的游戏→ 全部来自VR魔趣网独家技术破解源头网站 (VRmoo.ne",
+    "packageName": "com.FlatHeadStudio.WeAreOne",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "936405f5-9552-41ab-b710-9af5b7bab21a",
     "name": "WednesdayVR",
     "packageName": "com.AFredenucci.WednesdayVR",
@@ -10904,6 +11656,22 @@
     "isOptimized": false
   },
   {
+    "id": "d0af1f92-5519-493c-8930-27df026f4b41",
+    "name": "Xtrapol8",
+    "packageName": "com.thirdverse.xtrapol8",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "59eb45e6-de5f-45ab-be51-48d53341c901",
+    "name": "Yoga VR",
+    "packageName": "com.XRSweat.YogaVR",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
     "id": "ce49f118-0f90-4a64-9743-a982b00c4b12",
     "name": "You Calligrapher",
     "packageName": "com.nuodengren.YouCalligrapher",
@@ -10966,6 +11734,14 @@
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": true
+  },
+  {
+    "id": "17208a86-55b5-419e-947c-a96ab33570f2",
+    "name": "ZenVR",
+    "packageName": "com.SatoriStudios.ZenVR",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
   },
   {
     "id": "bf8e9e2a-cecc-443d-8e2c-5f1b686a1fad",
@@ -11043,6 +11819,14 @@
     "id": "b7aa53c4-4c17-42cf-a79f-38e3770f351d",
     "name": "ZOSULand20ZZ",
     "packageName": "com.ZOSUStudiosLLC.ZOSULand20ZZ",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "04f64f13-4dde-4c41-a075-34d7b7170acd",
+    "name": "ZOSUZOO",
+    "packageName": "com.ZOSUStudiosLLC.ZOSUZOO",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
@@ -11139,6 +11923,22 @@
     "id": "8dbf7773-0123-4245-9804-8234b8ace523",
     "name": "真实钓鱼商店解锁版 VR魔趣破解 VRmoo.cn",
     "packageName": "www.vrmoo.cn.RealVrFishing",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "ff33e924-8ad0-4db5-83ac-9c9ce3ac483a",
+    "name": "虚境猎人",
+    "packageName": "com.XuKing.SubspaceHunter",
+    "isExcluded": false,
+    "isHidden": false,
+    "isOptimized": false
+  },
+  {
+    "id": "16842fa5-492a-4b11-8397-0f481838aa65",
+    "name": "超絃樂隊",
+    "packageName": "com.Smartmelon.BandSpace.Oculus",
     "isExcluded": false,
     "isHidden": false,
     "isOptimized": false
