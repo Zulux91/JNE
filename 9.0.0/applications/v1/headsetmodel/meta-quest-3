@@ -10445,7 +10445,7 @@
         "packageName": "com.VerticalRobot.RedMatter2",
         "isExcluded": false,
         "isHidden": false,
-        "isOptimized": true
+        "isOptimized": false
     },
     {
         "id": "9104524b-1fdb-41f2-bd2b-e7bd2c28a67c",
@@ -15773,7 +15773,7 @@
         "packageName": "com.google.android.apps.youtube.vr.oculus",
         "isExcluded": true,
         "isHidden": true,
-        "isOptimized": true
+        "isOptimized": false
     },
     {
         "id": "7f4b96ac-3d27-4399-8e8a-3d783208c7ea",
