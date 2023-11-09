@@ -64,6 +64,22 @@
         "updateDateUtc": "2023-10-20T11:59:49.3249273+00:00"
     },
     {
+        "id": "8b25a14e-10f6-4e49-bbdf-0f2c11159c8b",
+        "applicationName": null,
+        "packageName": "com.CortopiaStudios.DTRH",
+        "headsetModel": "meta-quest-1",
+        "type": 4,
+        "textureWidth": 2304,
+        "textureHeight": 2534,
+        "refreshRate": 60,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": -1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-03T12:00:17.0334175+00:00"
+    },
+    {
         "id": "10a067e1-9439-4ae1-b260-14414a113c7d",
         "applicationName": null,
         "packageName": "com.freelives.gorn",
@@ -472,7 +488,7 @@
         "textureWidth": 1536,
         "textureHeight": 1690,
         "refreshRate": -1,
-        "cpuLevel": 4,
+        "cpuLevel": -1,
         "gpuLevel": 4,
         "frLevel": 1,
         "email": null,

@@ -968,7 +968,7 @@
         "textureWidth": 2560,
         "textureHeight": 2816,
         "refreshRate": -1,
-        "cpuLevel": 4,
+        "cpuLevel": -1,
         "gpuLevel": 5,
         "frLevel": 1,
         "email": null,
@@ -1584,6 +1584,22 @@
         "updateDateUtc": "2022-10-15T21:04:16.5890735+00:00"
     },
     {
+        "id": "3995e727-4763-4182-802e-173883d95c5d",
+        "applicationName": null,
+        "packageName": "com.EntroPiGames.VinylRealityLite",
+        "headsetModel": "meta-quest-2",
+        "type": 3,
+        "textureWidth": 2048,
+        "textureHeight": 2253,
+        "refreshRate": -1,
+        "cpuLevel": -1,
+        "gpuLevel": 3,
+        "frLevel": 1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-05T17:16:38.5979927+00:00"
+    },
+    {
         "id": "ae1cc85c-97b7-49eb-b530-173aefe925d8",
         "applicationName": null,
         "packageName": "com.idreams.potteryvrq",
@@ -2008,12 +2024,12 @@
         "textureWidth": 2048,
         "textureHeight": 2253,
         "refreshRate": 72,
-        "cpuLevel": 5,
+        "cpuLevel": -1,
         "gpuLevel": 5,
-        "frLevel": 0,
+        "frLevel": 1,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2022-10-15T21:04:16.3390803+00:00"
+        "updateDateUtc": "2023-11-08T20:43:13.1597667+00:00"
     },
     {
         "id": "30b9ad6d-c3b9-4a48-b036-1a5ec75e399f",
@@ -2424,7 +2440,7 @@
         "textureWidth": 2200,
         "textureHeight": 2420,
         "refreshRate": -1,
-        "cpuLevel": 4,
+        "cpuLevel": -1,
         "gpuLevel": 4,
         "frLevel": 1,
         "email": null,
@@ -5840,6 +5856,22 @@
         "updateDateUtc": "2022-12-07T20:23:59.7613802+00:00"
     },
     {
+        "id": "148b08a5-a51d-4f50-a46e-4e3c89bdf526",
+        "applicationName": null,
+        "packageName": "com.EntroPiGames.VinylRealityLite",
+        "headsetModel": "meta-quest-2",
+        "type": 1,
+        "textureWidth": 1440,
+        "textureHeight": 1584,
+        "refreshRate": 68,
+        "cpuLevel": 0,
+        "gpuLevel": 0,
+        "frLevel": 1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-05T17:17:50.6102888+00:00"
+    },
+    {
         "id": "4c3bb895-7cc9-4e0f-a91b-4e68542f3578",
         "applicationName": null,
         "packageName": "com.Oculus.FirstContact",
@@ -6270,6 +6302,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-04-06T14:10:36.4537716+00:00"
+    },
+    {
+        "id": "5bb53554-c191-4496-9728-550d7064fe53",
+        "applicationName": null,
+        "packageName": "com.Novelab.TheDawnOfArtMobile",
+        "headsetModel": "meta-quest-2",
+        "type": 3,
+        "textureWidth": 1850,
+        "textureHeight": 2035,
+        "refreshRate": 60,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 4,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-05T17:20:26.5341212+00:00"
     },
     {
         "id": "fd3dc463-4a41-4d25-9d72-552607e1ecf7",
@@ -9520,6 +9568,22 @@
         "updateDateUtc": "2022-10-15T21:06:32.9626453+00:00"
     },
     {
+        "id": "1b435001-8f5e-4163-9a1a-852fd60a2840",
+        "applicationName": null,
+        "packageName": "io.pxlworks.miraclepoolquest",
+        "headsetModel": "meta-quest-2",
+        "type": 4,
+        "textureWidth": 2048,
+        "textureHeight": 2253,
+        "refreshRate": -1,
+        "cpuLevel": -1,
+        "gpuLevel": 4,
+        "frLevel": 4,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-01T17:34:37.0310647+00:00"
+    },
+    {
         "id": "d9e94e49-6a90-40ea-a9ba-8577e4630563",
         "applicationName": null,
         "packageName": "com.VisionTrick.Mare",
@@ -11390,22 +11454,6 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-08-23T15:13:21.0939308+00:00"
-    },
-    {
-        "id": "4582ab7f-f25f-4642-b4f9-9ef925fc73ee",
-        "applicationName": null,
-        "packageName": "com.drbeef.doom3quest",
-        "headsetModel": "meta-quest-2",
-        "type": 1,
-        "textureWidth": 1440,
-        "textureHeight": 1584,
-        "refreshRate": 68,
-        "cpuLevel": -1,
-        "gpuLevel": -1,
-        "frLevel": 4,
-        "email": null,
-        "needToBeReviewed": false,
-        "updateDateUtc": "2022-10-16T21:06:45.69126+00:00"
     },
     {
         "id": "a35810a8-51e2-4dc0-96d2-9f14d9e665ef",
@@ -16448,22 +16496,6 @@
         "updateDateUtc": "2022-10-16T21:06:46.45687+00:00"
     },
     {
-        "id": "083e112b-96a7-4edc-8c69-e6dc48d5afc1",
-        "applicationName": null,
-        "packageName": "com.drbeef.doom3quest",
-        "headsetModel": "meta-quest-2",
-        "type": 2,
-        "textureWidth": 1440,
-        "textureHeight": 1584,
-        "refreshRate": -1,
-        "cpuLevel": 5,
-        "gpuLevel": 5,
-        "frLevel": 4,
-        "email": null,
-        "needToBeReviewed": false,
-        "updateDateUtc": "2022-10-15T21:06:32.7907716+00:00"
-    },
-    {
         "id": "c97d1713-465e-49de-9dc3-e6f798ea98a3",
         "applicationName": null,
         "packageName": "com.jp.co.superappli.SquashVR",
@@ -16830,6 +16862,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-03-24T00:29:32.3389196+00:00"
+    },
+    {
+        "id": "452c9b2a-1ff8-479c-b601-ec4c4ccd4a45",
+        "applicationName": null,
+        "packageName": "com.EntroPiGames.VinylRealityLite",
+        "headsetModel": "meta-quest-2",
+        "type": 4,
+        "textureWidth": 2600,
+        "textureHeight": 2860,
+        "refreshRate": -1,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-05T17:15:17.0284988+00:00"
     },
     {
         "id": "4301d949-99d3-4890-9191-ec5ae5a227df",

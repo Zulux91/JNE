@@ -128,6 +128,14 @@
         "isOptimized": false
     },
     {
+        "id": "47cc4714-2900-494a-886e-c51cb80d129c",
+        "name": "[VR] ICU",
+        "packageName": "com.VirtualLab.ICU",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "42538bf3-e3fc-4a83-8fff-b4927e7a7d99",
         "name": "♡ Survival Shot ♡ 你下载的所有破解全部来自→VR魔趣网独家技术破解源头网站 (VR",
         "packageName": "com.FogTechnologies.SurvivalShot1",
@@ -235,6 +243,14 @@
         "id": "18593bb6-2eb6-4b8c-9b06-bce8cfc50c76",
         "name": "5hanayome_vr_itsuki ✪ 你下载的所有破解全部来自→ VR魔趣网独家技术破解源头网",
         "packageName": "jp.co.nextninja.vr_5hanayome_itsuki",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "ead3685e-def2-4163-a138-433bd38dd172",
+        "name": "87VR串流",
+        "packageName": "yhvr.client.quest",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -408,6 +424,14 @@
         "isOptimized": true
     },
     {
+        "id": "2cffbee2-90eb-4995-b4ea-8e3950b91765",
+        "name": "AfreecaTV",
+        "packageName": "com.AfreecaTV.AfreecaTV_Quest",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "e8f55231-fd1c-4fa5-8712-e9211d7aea9f",
         "name": "After The Fall",
         "packageName": "com.vertigogames.atf",
@@ -510,6 +534,14 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "688e8044-743e-4ad2-a879-9d7f130c9d51",
+        "name": "Air Hockey VR",
+        "packageName": "com.Polygames.AirHockeyVr",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "a2e91f96-eda8-4195-8cd1-a00bba71b376",
@@ -872,6 +904,14 @@
         "isOptimized": true
     },
     {
+        "id": "e8676d09-75d2-401c-b9ff-ce7a7cf920be",
+        "name": "ArcaxerDemo",
+        "packageName": "com.Overrungames.ArcaxerDemo",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "b709228a-af1b-499a-9ef5-357c34aa4939",
         "name": "ArcheryLand 2",
         "packageName": "com.Looksten.ArcheryLand",
@@ -902,6 +942,14 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "c215773f-d5c6-4b11-a484-25b7f09b2b98",
+        "name": "ARealm",
+        "packageName": "com.foundrysix.arealm.metaquest",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "4ccd4f7f-1ac9-41d9-8fab-dc2941183bdd",
@@ -958,6 +1006,14 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "ba9bb437-d7fe-4b4c-830b-b4fa387312b9",
+        "name": "Arrows",
+        "packageName": "com.aura.Arrows",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "4f385317-574b-4ab2-8727-d2526bd540f0",
@@ -1027,6 +1083,14 @@
         "id": "7ebeea07-40bb-4814-a3a8-b5d36e15a074",
         "name": "AstralBodies",
         "packageName": "com.RGS.AstralBodies",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "c215fa1a-f0f2-4bf4-9080-3ed0b8846922",
+        "name": "ATIS",
+        "packageName": "com.crankysomething.ATISVR",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -1248,6 +1312,30 @@
         "isOptimized": true
     },
     {
+        "id": "1469c394-bff6-46df-b0cf-5f47b0f818d8",
+        "name": "BAD DREAMS",
+        "packageName": "com.creativevr3d.baddreams",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "dda35f62-0e63-4af4-a821-e5750f16f7ce",
+        "name": "Badminton",
+        "packageName": "com.ironstonegames.badmintonvr",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "ee6b4c01-29e5-4c45-924b-d1d3b3b03223",
+        "name": "Badminton Battle",
+        "packageName": "com.bjtu.badmintonSim",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "05d52c80-e3a9-4f1f-b6fc-72583e82366e",
         "name": "Bait!",
         "packageName": "com.resolutiongames.baitsantacruz",
@@ -1291,6 +1379,14 @@
         "id": "80184f5b-267e-4a57-9936-d348bda1c610",
         "name": "Bang Bang Slice",
         "packageName": "com.ZAxisTech.BangBangSlice",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "0d01fd6a-4000-48a0-b752-0901c18cf614",
+        "name": "BangSquashPRO (拍球) → 下载来自VR魔趣独家技术源头官网 (vrmoo.net)(",
+        "packageName": "com.lebersoftware.bangsquashpro",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -1640,6 +1736,14 @@
         "isOptimized": false
     },
     {
+        "id": "0e52463f-a597-4db3-849e-1daf74c1aa4d",
+        "name": "BlackForge VR",
+        "packageName": "com.ManaBrigade.BlackForgeVR",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "d6da3e6a-513a-4d84-a5fe-181d0f5d554c",
         "name": "blackjackvr",
         "packageName": "com.IntisabInc.blackjackvr",
@@ -1694,6 +1798,14 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "e44b4132-be1f-4ecd-a0ee-52640bf9f902",
+        "name": "BlinkVR",
+        "packageName": "com.monochrome.headcount",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "1d8b9f71-1e1d-4e88-8986-ff4ff943f4da",
@@ -1763,6 +1875,14 @@
         "id": "dd51cc1a-be82-4c23-be25-2b44691ebacb",
         "name": "BlueVortex",
         "packageName": "com.AlexisClay.BlueVortex",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "594b4849-ccf3-4ca0-94ad-4a39e10b5f30",
+        "name": "Bobble Wobble",
+        "packageName": "com.MoonShineGames.BobbleWobble",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -2056,6 +2176,14 @@
         "isOptimized": true
     },
     {
+        "id": "887e9471-c3e3-40ea-9d65-15825ada44d3",
+        "name": "BubbleBoogie",
+        "packageName": "com.VStars.BubbleBoogie",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "c004670d-329d-4a7c-8821-2670eb3a5066",
         "name": "Budget Cuts Ultimate",
         "packageName": "com.NeatCorporation.BudgetCutsUltimate",
@@ -2096,6 +2224,14 @@
         "isOptimized": false
     },
     {
+        "id": "1bd0433d-cbaf-430a-983c-4aaf7938abb1",
+        "name": "BumpyR",
+        "packageName": "com.KAPEHORN.BumpyR",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "e2a3bb33-cd86-4759-9ba7-4d9f3b5433ab",
         "name": "Burial Stone",
         "packageName": "com.OferRubinstein.BurialStoneDemo",
@@ -2115,6 +2251,14 @@
         "id": "f0f8aed1-1fc5-44be-9ed0-baa400d4ac29",
         "name": "bvr",
         "packageName": "jp.konami.bvr",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "36689b8d-5736-4c46-a89d-efe187df0890",
+        "name": "Cactus Cowboy - Desert Warfare",
+        "packageName": "com.CactusVRStudios.CactusCowboyDesertWarfare",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -2174,6 +2318,14 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "1e9ade53-cdb1-4466-b792-c1949911ecf7",
+        "name": "CampfireDA",
+        "packageName": "com.campfire3d.campfirequest",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "5bd44d1c-be2c-4830-9c50-b57372cc42fd",
@@ -2632,6 +2784,14 @@
         "isOptimized": false
     },
     {
+        "id": "b0629dee-86ff-4206-98d1-d136aa2e076c",
+        "name": "Coast Monsters Benidorm Edition",
+        "packageName": "com.amaceris.coastmonsterbeVR",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "5ebf7820-d3e6-4663-8640-d7dbc71255b9",
         "name": "Coaster Combat",
         "packageName": "com.forcefieldxr.coastercombatquest",
@@ -2760,9 +2920,25 @@
         "isOptimized": false
     },
     {
+        "id": "0d20df52-123a-4b9a-8dc8-d0e6def9f295",
+        "name": "com.houseofsecrets.kin",
+        "packageName": "com.houseofsecrets.kin",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "cd74d935-dc16-44bc-ab86-934af05c94e0",
         "name": "com.InvidiousStudios.RangedayVR",
         "packageName": "com.InvidiousStudios.RangedayVR",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "6cd39f41-a722-4a56-86bb-4189b6961ff3",
+        "name": "com.lakento.houseofterrorgo",
+        "packageName": "com.lakento.houseofterrorgo",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -2779,6 +2955,14 @@
         "id": "e1caeed8-a3d2-4a04-890e-c85426de4d90",
         "name": "com.luckyhammers.zombieinvasion.vr",
         "packageName": "com.luckyhammers.zombieinvasion.vr",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "84963e99-3d75-4fb4-9470-496a6cf234f0",
+        "name": "com.nolodesign.Beach_Games",
+        "packageName": "com.nolodesign.Beach_Games",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -2880,12 +3064,28 @@
         "isOptimized": true
     },
     {
+        "id": "ef613f82-1254-43c7-b8a3-7f14b2671ff4",
+        "name": "Contour",
+        "packageName": "com.DDXR.Contour",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "282689e3-7d21-4f4d-af05-9c37890d4a24",
         "name": "Contractors",
         "packageName": "com.CaveManStudio.ContractorsVR",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "aca6a2b5-8593-457c-8f7e-1d454e942c98",
+        "name": "Control Tower VR",
+        "packageName": "com.DigitalEmergence.ControlTower_Alpha",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "7bc172a3-5143-4246-ad7c-996046bdab3c",
@@ -3024,6 +3224,30 @@
         "isOptimized": false
     },
     {
+        "id": "39c997f5-ee19-4ef7-924c-21d8720439c3",
+        "name": "Cover Drive Cricket",
+        "packageName": "io.mphillips.CoverDriveCricket21",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "d2438280-3e57-4d53-828d-ed9a77050c8a",
+        "name": "Cover Drive Cricket",
+        "packageName": "io.mphillips.CoverDriveCricket22",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "05fdcc0c-a62e-414e-9f1e-1c14be68e92f",
+        "name": "Cowgirl with Chloe",
+        "packageName": "com.rrrjpn.CowgirlwithAqua",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "c46d8752-3a2f-482c-9024-217175fd997b",
         "name": "Crack the code",
         "packageName": "com.artisoft.crackthecode",
@@ -3147,6 +3371,14 @@
         "id": "3ab7ddbb-5e92-45c5-8759-8a7d563ef48a",
         "name": "Crunchyroll [Meta Only]",
         "packageName": "oculuspwa.beta.crunchyroll.com",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "fbab7d94-fcca-47bc-b664-540cb4542171",
+        "name": "Crystal Bond",
+        "packageName": "com.StudioCristal.CrystalBond",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -3472,6 +3704,14 @@
         "isOptimized": false
     },
     {
+        "id": "6e34ea8e-9cc6-48f7-bec5-7991e312e701",
+        "name": "DearFriend",
+        "packageName": "com.TranscenderStudiosDearFriend.DearFriend",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "1bdb79d3-abe6-4c6d-ba64-ae5dc2a11b33",
         "name": "Death Horizon",
         "packageName": "com.dreamdev.deathhorizon",
@@ -3560,6 +3800,22 @@
         "isOptimized": true
     },
     {
+        "id": "55bd4e57-b04a-42b8-bd3a-9333e014b6a2",
+        "name": "Demeo PVP",
+        "packageName": "com.resolutiongames.demeopvp",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "4d97dde9-fbc4-4050-89c8-9833de215d94",
+        "name": "Demo_8",
+        "packageName": "Bio.project",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "b326c0ef-023c-4c2f-a7a4-59b55c1e8c5b",
         "name": "DeoVR",
         "packageName": "com.deovr",
@@ -3576,6 +3832,14 @@
         "isOptimized": false
     },
     {
+        "id": "dbd31ec8-c0e3-4cad-9027-e3643c331316",
+        "name": "DepthAPI-URP",
+        "packageName": "com.samples.depthapiurp",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "d32677d1-4b99-4e96-b8c1-d10eaa6e9a2c",
         "name": "Descending",
         "packageName": "com.DungeonGames.Descending",
@@ -3587,6 +3851,14 @@
         "id": "c6789a7a-fabe-4c7c-9d35-b7c63a4c59ed",
         "name": "DescentAlps",
         "packageName": "com.Sutur.DescentAlps",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "b7f72792-5de6-4d8a-9286-f1913ff15dfa",
+        "name": "DescentAlpsPreRelease",
+        "packageName": "com.Sutur.DescentAlpsPreRelease",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -3696,6 +3968,14 @@
         "isOptimized": false
     },
     {
+        "id": "d146c670-1f3b-4980-9ab6-ca79ff18be1c",
+        "name": "Dish It Out",
+        "packageName": "com.LostErrorStudios.DishItOut",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "bd2024b9-95c2-44c7-b24b-82216c5cb685",
         "name": "Dissection Simulator: Frog Edition",
         "packageName": "com.VictoryXR.FrogDissectionQuest",
@@ -3789,7 +4069,7 @@
         "packageName": "com.drbeef.doom3quest",
         "isExcluded": false,
         "isHidden": false,
-        "isOptimized": true
+        "isOptimized": false
     },
     {
         "id": "96d1fa4e-fe0e-4906-b5c8-f305474a9bf5",
@@ -3864,6 +4144,14 @@
         "isOptimized": false
     },
     {
+        "id": "ed005f2b-d2a5-4c62-a0a4-93c5059ab9f9",
+        "name": "Drakheir (魔法女王) → 下载来自VR魔趣独家技术源头官网 (vrmoo.net)(177",
+        "packageName": "com.hxdf.drakheirea",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "d6f55abe-7317-4870-8a33-961ef90908ab",
         "name": "Draw IT!",
         "packageName": "com.DrimEnt.DrawIT",
@@ -3878,6 +4166,14 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "703dad54-c9f1-4542-8e4f-1d9b7e0983df",
+        "name": "DreamJourney",
+        "packageName": "com.polyraw.dreamjourney",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "f6f39951-db89-4f0d-b407-896150d55c99",
@@ -3902,6 +4198,14 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "d000cb4f-5227-4446-a3a6-49befe335495",
+        "name": "Drop Dead The Cabin(JonasVersão=)",
+        "packageName": "com.pixe.cabin",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "55cc2a28-6db6-4004-bd76-1fb5a387588d",
@@ -4040,6 +4344,14 @@
         "isOptimized": true
     },
     {
+        "id": "0d82243a-467e-4400-86ca-e1b6737ff8ff",
+        "name": "Dyson Demo VR",
+        "packageName": "com.dyson.demovr",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "87b5568b-9e9c-461e-9b36-d6335e539dd5",
         "name": "EarthQuest",
         "packageName": "com.bowie.earthquest",
@@ -4080,6 +4392,14 @@
         "isOptimized": false
     },
     {
+        "id": "08176103-944c-4745-9027-07b3f6666528",
+        "name": "EdmundPuzzle",
+        "packageName": "com.TranscenderStudios.EdmundPuzzle",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "488f8d97-91fa-42cb-892b-0130f64ca5aa",
         "name": "eDrumsVR",
         "packageName": "com.Manda_Audio.eDrumsVR",
@@ -4099,6 +4419,14 @@
         "id": "9a8f6b7a-1193-47cf-b6c3-64dbe70fa532",
         "name": "EIR Training",
         "packageName": "com.ValkyrieIndustries.EIRTraining",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "df2ac81e-65bd-4fbe-9cd3-6238c9af82f6",
+        "name": "EjaculationSupporter",
+        "packageName": "com.kuryu92.EjaculationSupporter",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -4376,6 +4704,14 @@
         "isOptimized": true
     },
     {
+        "id": "189a7db0-9a1b-489f-9050-1ab8f99135d6",
+        "name": "Espire 2: Stealth Operatives (JonasVersion=)",
+        "packageName": "com.Digital.Espire2",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "3bafbb92-c4dd-47c3-9b27-29667f85b94d",
         "name": "Eternal Starlight",
         "packageName": "com.wnas.eternalstarlight",
@@ -4419,6 +4755,14 @@
         "id": "56a1ef66-41d1-4484-8004-4a03bf7cd515",
         "name": "EVERSLAUGHT Invasion",
         "packageName": "com.MobXGames.EVERSLAUGHT.Invasion",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "0f276c4a-5805-4b16-9107-6ed40fcdfa7f",
+        "name": "Everyday Inclusion",
+        "packageName": "com.equalreality.everydayinclusion",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -4656,6 +5000,14 @@
         "isOptimized": false
     },
     {
+        "id": "5521ed1c-129e-4c89-bd66-cdba37926463",
+        "name": "Fiesta",
+        "packageName": "com.NerdNinjas.fiesta",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "bc4c69e1-2d9d-45d3-94a2-4172de208343",
         "name": "FightBack_Release",
         "packageName": "com.Albyon.FightBack_Release",
@@ -4691,6 +5043,14 @@
         "id": "8ffef1b6-1c60-4066-8c83-863950e68d8b",
         "name": "Final Soccer",
         "packageName": "com.ivanovichgames.finalkickVR",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "bab73412-c958-431d-a22a-1155397b75a8",
+        "name": "FinalFury",
+        "packageName": "com.KlugeInteractive.FinalFury",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -4755,6 +5115,14 @@
         "id": "7c7b9f00-c8a7-4718-a92e-f7e203186d3d",
         "name": "First Encounters",
         "packageName": "com.meta.curio.toybox",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "6a72551f-32e0-4fe1-b6f0-01d576302b07",
+        "name": "First Hand",
+        "packageName": "com.oculus.samples.firsthand",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -4902,6 +5270,14 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "32ea87a4-80b4-4578-9643-aab4e62a0dc9",
+        "name": "Floor Plan Remastered",
+        "packageName": "com.turbobutton.floorplanremaster",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "f10f0981-7fb1-48c3-a142-b40e6eca73f7",
@@ -5083,6 +5459,14 @@
         "id": "74403168-ce98-44a8-913f-c3025dfcd5e3",
         "name": "Friday Night Funkin' VR",
         "packageName": "org.thisisbennyk.fnfvr",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "79f38ebc-b4d6-40ca-aa9b-e3e3f50f3f33",
+        "name": "FriendsVRWorldOnline",
+        "packageName": "com.kakaoVX.FriendsVRWorldOnline_Beta",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -5592,6 +5976,14 @@
         "isOptimized": false
     },
     {
+        "id": "55b6d132-e999-42ca-964f-c59eb63e957f",
+        "name": "GorillaRoyale",
+        "packageName": "com.VoxounGames.GorillaRoyale",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "c5eb603e-5d32-4b47-9f44-b02de7b1c33e",
         "name": "Gorn",
         "packageName": "com.freelives.gorn",
@@ -5619,6 +6011,14 @@
         "id": "a422e1cc-9e86-4bdd-a457-84444bf332e3",
         "name": "GOXR",
         "packageName": "com.xrspace.xrexpo.ovr",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "3028a5c8-68a5-46b3-bdc4-72cc9751fa15",
+        "name": "GRAB",
+        "packageName": "com.slindev.grab",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -5742,6 +6142,14 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "6971077c-d741-4b8b-b9ae-e244748b6985",
+        "name": "GrillOnWheels",
+        "packageName": "com.garagevr.grillonwheels",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "81ebd1da-9334-4b20-bcc8-187cac42b16c",
@@ -6136,6 +6544,14 @@
         "isOptimized": false
     },
     {
+        "id": "01283bfe-dcaa-4052-a3d3-45e61aab8d78",
+        "name": "Hexaverse Adventures",
+        "packageName": "com.playfunvr.hexadv",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "5bd9a1b3-5a6a-49e6-9a3e-7efd7093a8d3",
         "name": "HexVR",
         "packageName": "com.HexVR.HexVR",
@@ -6240,6 +6656,14 @@
         "isOptimized": false
     },
     {
+        "id": "223d4c91-c835-4ff1-9ac7-d7d78ea6cb5b",
+        "name": "Hockey VR",
+        "packageName": "ca.melcher.hockeyvr",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "48c8a0e7-54fe-4a50-a503-98aaed64f0ce",
         "name": "Holofit",
         "packageName": "com.holodia.holofit",
@@ -6248,9 +6672,25 @@
         "isOptimized": false
     },
     {
+        "id": "14a7013d-7675-4990-a0cf-c3d29657a62a",
+        "name": "HolomiaVRZ",
+        "packageName": "com.holomia.HolomiaVRZ_MR",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "ca3a1b79-5482-453a-9271-a069335de99e",
         "name": "HoloModels β",
         "packageName": "com.Gugenka.HoloModelsMR",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "e8ceec83-d037-4e73-ace5-1aefe1844358",
+        "name": "HolomodelsMR",
+        "packageName": "com.gugenka.HoloModels_MR",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -6384,6 +6824,14 @@
         "isOptimized": false
     },
     {
+        "id": "16b1a1d7-9124-48b5-be67-79830d3a128d",
+        "name": "HotWireVR",
+        "packageName": "com.LeFx.HotWireVR",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "c6800181-e9fa-4235-8777-7809effd30a9",
         "name": "House Flipper VR",
         "packageName": "com.oculus.HouseFlipperVR",
@@ -6472,6 +6920,14 @@
         "isOptimized": false
     },
     {
+        "id": "3fdfb882-dc25-4b53-9d34-67c12bc6f6c6",
+        "name": "Hyper Clinic",
+        "packageName": "studio.NewFolderGames.TitansClinicFreeDemo",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "de228150-5b01-4f2b-8b2b-8f7b3a3d26ae",
         "name": "Hyper Clinic",
         "packageName": "studio.NewFolderGames.TitansClinic",
@@ -6528,6 +6984,14 @@
         "isOptimized": true
     },
     {
+        "id": "a1297f4b-3cd4-4cd4-bc17-5bf5d3345b27",
+        "name": "Hypnotize Your Friends",
+        "packageName": "hypnotize.your.friends",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "430dd5b1-2d4c-4dd4-84ce-ed397df087b5",
         "name": "HypnotizingBeautifulSistersWhoPissMeOff",
         "packageName": "com.FussaGames.HypnotizingBeautifulSistersWhoPissMeOff",
@@ -6550,6 +7014,14 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "b2f8f2b3-f8f7-4164-b039-721b7e4f33c2",
+        "name": "I Expect You To Die 2",
+        "packageName": "com.schellgamesbis.ieytd2bis",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "8ba82f22-7816-40ee-9150-7b7525d7e54d",
@@ -6712,14 +7184,6 @@
         "isOptimized": false
     },
     {
-        "id": "6a72551f-32e0-4fe1-b6f0-01d576302b07",
-        "name": "Interaction SDK Demo",
-        "packageName": "com.oculus.samples.firsthand",
-        "isExcluded": false,
-        "isHidden": false,
-        "isOptimized": false
-    },
-    {
         "id": "ed9a942e-c004-4bfd-b6cf-5c40215f922c",
         "name": "Interkosmos 2000",
         "packageName": "com.ovidworks.fallingstar",
@@ -6734,6 +7198,14 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "5b8366da-b656-4ec2-b447-7b9f085fed58",
+        "name": "Introduction to Virtual Reality 2",
+        "packageName": "com.felixandpaul.itvr2",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "855829ca-0628-4481-a4f4-a48dc05f0a49",
@@ -6920,6 +7392,14 @@
         "isOptimized": false
     },
     {
+        "id": "c5ce1b5c-43bc-4443-9e6f-74f7cd96bd02",
+        "name": "jp.tricol.counterfight_for_quest",
+        "packageName": "jp.tricol.counterfight_for_quest",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "059ce090-a48b-4259-9f14-e4aa537cad33",
         "name": "Jump Up ♡ 你下载的所有破解全部来自→VR魔趣网独家技术破解源头网站 (VRmoo.cn)",
         "packageName": "com.esrober.JumpUp",
@@ -6968,6 +7448,14 @@
         "isOptimized": false
     },
     {
+        "id": "a142e1e4-3e0f-4ac2-bec8-b0f14063ee2f",
+        "name": "JustAnotherCookingGame",
+        "packageName": "com.TooMuchPolys.JustAnotherCookingGame",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "6c6579fd-c06e-49f1-9e35-f4a79bfa2ca1",
         "name": "JustDrive",
         "packageName": "com.JustDrive.JustDrive",
@@ -6987,6 +7475,14 @@
         "id": "178f33d2-329d-4eea-aac4-0a955b167958",
         "name": "Kaiju Monster VR",
         "packageName": "com.VRAAR.KaijuMonsterVR",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "2e11bae5-d641-43d7-8ae6-e3a896740296",
+        "name": "KanojoGaAsobiNiKita",
+        "packageName": "com.AhrpuXR.KanojoGaAsobiNiKita",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -7144,6 +7640,14 @@
         "isOptimized": false
     },
     {
+        "id": "c98d1ace-f003-4435-9bf0-3a75cb8a99f2",
+        "name": "Laid-Back Camp - Virtual - Lake Motosu",
+        "packageName": "jp.co.gemdrops.lbca_q",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "78c20f5e-fee9-4cd7-b632-3a25924a19a7",
         "name": "Lambda1VR",
         "packageName": "com.drbeef.lambda1vr",
@@ -7155,6 +7659,22 @@
         "id": "13411140-400e-45ae-88b9-9f4e4be6280d",
         "name": "Lambda1VR_Launcher",
         "packageName": "com.Bernd.Lambda1VRLauncher",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "0c2bcc1f-4fb0-40f0-8bd0-a77ca55ab9b4",
+        "name": "Lambda1VR_Launcher",
+        "packageName": "com.CactusStudios.Lambda1VR_Launcher",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "2b0fc961-eabe-4712-adb5-8970b3cb0772",
+        "name": "Land's End",
+        "packageName": "com.ustwo.landsend",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -7336,6 +7856,22 @@
         "isOptimized": false
     },
     {
+        "id": "747c605f-5eb5-47b1-9b12-0e70e2a00e40",
+        "name": "LIMINAL PHASE",
+        "packageName": "com.anananasstudio.liminalphase",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "693a7535-84fd-403a-b7eb-3880f9dcbc3b",
+        "name": "LimitlessArcadeRacingVR",
+        "packageName": "com.SerhatGoksel.LimitlessArcadeRacing",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "4ebf785e-c34a-4c5a-80eb-f279ad234c10",
         "name": "Linelight VR",
         "packageName": "com.mydogzorro.linelightvr",
@@ -7376,6 +7912,14 @@
         "isOptimized": false
     },
     {
+        "id": "7c0ca015-13d8-448d-aa94-afda6b83fb7a",
+        "name": "Little Planet",
+        "packageName": "com.vrw.littleplanet",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "c1be6082-3480-41ff-9900-1f25b133006e",
         "name": "LittleCities",
         "packageName": "com.purpleyonder.littlecities",
@@ -7406,14 +7950,6 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
-    },
-    {
-        "id": "26abd8a4-fd00-443b-80da-68fbc4fff37e",
-        "name": "Lollipop",
-        "packageName": "com.fasttravelgames.lollipop",
-        "isExcluded": false,
-        "isHidden": false,
-        "isOptimized": false
     },
     {
         "id": "93c3a7c8-0b47-4128-9864-61e8c9bf2c74",
@@ -7547,6 +8083,14 @@
         "id": "6e86f5bc-a070-4156-a615-651dfb1edcd5",
         "name": "Maloka",
         "packageName": "co.hookooekoo.maloka.beta",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "a5a02635-462b-4736-9529-d3b85c37fc9a",
+        "name": "MansionMystery",
+        "packageName": "com.garagevr.mansionmystery",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -7784,6 +8328,14 @@
         "isOptimized": false
     },
     {
+        "id": "9e2663eb-3f24-479c-a8f5-c8e90814430b",
+        "name": "Meta Brush",
+        "packageName": "com.XRArt.MetaBrush.apk",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "3af082af-362b-48f8-95e4-d31a7581bde1",
         "name": "Meta_Deep_S",
         "packageName": "com.BrittanyFactory.Meta_Deep_S",
@@ -7848,6 +8400,14 @@
         "isOptimized": true
     },
     {
+        "id": "b6793a44-2cee-4676-b03a-9693934ac764",
+        "name": "Migite",
+        "packageName": "com.pixy.Migite",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "9785e1d7-757c-432e-a211-1bae94a0de68",
         "name": "Migite2",
         "packageName": "com.pixy.Migite2",
@@ -7859,6 +8419,14 @@
         "id": "0616908a-aa2d-4a13-a158-3553c7590a15",
         "name": "Miku on Quest",
         "packageName": "com.DefaultCompany.MikuonQuest",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "b26ba39d-288f-418f-9bf8-40fee922d70f",
+        "name": "Mimic",
+        "packageName": "com.welltold.mimic",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -7941,12 +8509,44 @@
         "packageName": "io.pxlworks.miraclepoolquest",
         "isExcluded": false,
         "isHidden": false,
-        "isOptimized": false
+        "isOptimized": true
     },
     {
         "id": "bd5d6c88-99f5-4d03-9529-917c78e66dc9",
         "name": "Mirewood Manor",
         "packageName": "com.ZTInteractive.MirewoodManor",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "260ad4e8-bf5d-48a4-a131-c765df34445a",
+        "name": "Missing Pictures Ep3",
+        "packageName": "com.MissingPicturesEp3.MissingPicturesEp3",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "a8cd8ef0-5bc0-4d40-8709-758fc260fb93",
+        "name": "missingpictures",
+        "packageName": "com.albyon.missingpictures",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "0fa7d93d-33af-4c48-a033-f995f48d0223",
+        "name": "MissingPicturesEp4",
+        "packageName": "com.Newmatic.MissingPicturesEP4",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "70212d00-9b7f-43a1-a730-f2b2b9e263b1",
+        "name": "MissingPicturesEP5",
+        "packageName": "com.GiiOii.MissingPicturesEp05",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -7968,6 +8568,14 @@
         "isOptimized": true
     },
     {
+        "id": "c71de77e-4ce3-49e1-a5cb-15b62dea1189",
+        "name": "Missionary position with chloe",
+        "packageName": "com.rrrjpn.Missionarypositionwithchloe",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "69cb3e03-84f8-4d8f-b41c-001eff070f2e",
         "name": "MissionX",
         "packageName": "com.holomia.missionx",
@@ -7979,6 +8587,22 @@
         "id": "71176183-8ac0-4c9a-af0f-45cfa385e13a",
         "name": "mistikaVRConnect",
         "packageName": "com.SGO.mistikaVRConnect",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "be9deff0-8315-4c9f-b186-5351778a8ca5",
+        "name": "MixealApartment",
+        "packageName": "com.Mixeal.Apartment",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "8ca920f0-643f-42c3-a054-c72f38e0818c",
+        "name": "Mixed Realiy",
+        "packageName": "com.DefaultCompany.MixedRealiy",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -8040,6 +8664,14 @@
         "isOptimized": true
     },
     {
+        "id": "424f5774-2e8e-4259-ba63-fe87dd8a74ef",
+        "name": "Monkey lab",
+        "packageName": "com.Crispyo.Monkeylab",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "8d45f75a-8904-4550-a4e3-1a8997ab20b0",
         "name": "MonkeyDooDoo",
         "packageName": "com.CliqueGames.MonkeyDooDoo",
@@ -8083,6 +8715,14 @@
         "id": "050157c7-9f74-4307-99d4-1602c3824cd0",
         "name": "mood",
         "packageName": "com.Moonshot.mood",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "890f634e-c76e-4c7e-8477-c3ff9514844a",
+        "name": "Moon Adventure",
+        "packageName": "com.pyromobile.moon",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -8304,6 +8944,14 @@
         "isOptimized": false
     },
     {
+        "id": "5b70dccf-4a54-4d08-8e1a-664c4dcf246f",
+        "name": "Museum_V2",
+        "packageName": "com.Rendersim.Museum",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "4cf5a3a9-cb1a-402f-94d4-453760d27913",
         "name": "MusicalRange",
         "packageName": "Rockhopper.MusicalRange.Alpha",
@@ -8424,6 +9072,14 @@
         "isOptimized": false
     },
     {
+        "id": "39c69ce4-479b-4886-aa17-5bb3dd66d0e8",
+        "name": "Nanome",
+        "packageName": "com.Nanome.NanomeCurie",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "d1e83fcd-231f-46fd-8341-7d2ee3201efb",
         "name": "National Geographic Explore VR",
         "packageName": "com.forcefieldxr.explorevr",
@@ -8443,6 +9099,14 @@
         "id": "2af08a10-7e0b-49bb-8fe3-0813265a7df8",
         "name": "Nature Experience in Germany",
         "packageName": "com.SpiceVR.DZT",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "fff66fca-e86c-497e-99ed-1db62bdb2340",
+        "name": "NeedForSpeed",
+        "packageName": "com.VOIDCUBESTUDIO.NEEDFORSPEED",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -8630,6 +9294,14 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "f951d38e-37be-49f1-ba1d-37e4c26568b8",
+        "name": "NoHopeTheEscape",
+        "packageName": "com.Sebastronix.NoHopeTheEscape",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "25da25ed-327a-40f9-a7ea-6163bac8a1c6",
@@ -8952,6 +9624,14 @@
         "isOptimized": false
     },
     {
+        "id": "f66cd0a4-2877-4a94-80c0-7dfb21a242a2",
+        "name": "Open Saber 0.4.0",
+        "packageName": "org.godotengine.open_saber",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "7fef27ae-f725-49a0-bc8f-db66e7800b9a",
         "name": "OpenXR Co-location assistant2",
         "packageName": "com.cafoc.OpenXRColocationassistant2",
@@ -9107,6 +9787,14 @@
         "id": "30652d0d-5083-4460-8859-b285453ab284",
         "name": "PaintingVrNUX",
         "packageName": "com.Oisoi.PaintingVrNUX",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "99b3b719-86a4-45a9-8ee6-f5be4777f8d5",
+        "name": "Pandemy (让我们传播VR) → 下载来自VR魔趣独家技术源头官网 (vrmoo.net)(1",
+        "packageName": "com.GP.RealZombie",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -9392,6 +10080,14 @@
         "isOptimized": false
     },
     {
+        "id": "dc167c58-c09a-49ba-b48a-9c58fec2fbce",
+        "name": "Physics Demo",
+        "packageName": "com.BrainDeadGames.PhysicsDemo",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "8e108894-bf0b-42cd-9b00-b70428ccca37",
         "name": "Physics Playground",
         "packageName": "com.PBVR.Playground",
@@ -9475,6 +10171,14 @@
         "id": "17af65db-098a-4d91-ae09-15c3c4290d45",
         "name": "Pistol Whip",
         "packageName": "com.cloudheadgames1.pistolwhip",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "88566461-9e01-40ef-9d86-2f30f7b62013",
+        "name": "Pistol Whip",
+        "packageName": "com.pistolwhip.app",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -9712,6 +10416,14 @@
         "isOptimized": false
     },
     {
+        "id": "3591c6d4-b03a-4d0d-ae7a-b8e5133459da",
+        "name": "Pop Quest Adventure",
+        "packageName": "com.JakeDonaldsonVR.PopQuestAdventure",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "472ab860-c513-4799-8028-cff285039784",
         "name": "Pop Shot",
         "packageName": "com.PixelBoogie.PopShotQuest",
@@ -9763,6 +10475,14 @@
         "id": "592a11ab-c606-4dc5-b648-08e3b5be7c69",
         "name": "Powers of 10",
         "packageName": "com.imc.powersof10",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "91366cb5-533a-4767-95d6-ef708ea6ec2a",
+        "name": "PowerWash Simulator",
+        "packageName": "com.FuturLab.PowerWashSimulator",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -10296,6 +11016,14 @@
         "isOptimized": false
     },
     {
+        "id": "cb508d04-0906-4eac-96a0-f39b26343f10",
+        "name": "RampageAgents",
+        "packageName": "com.PlutoVRStudio.RampageAgents",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "b96621cf-d0b5-4688-8fef-4e7e1b2a86ff",
         "name": "Range Day VR",
         "packageName": "com.InvidiousStudios.RangedayVRQ",
@@ -10776,6 +11504,14 @@
         "isOptimized": false
     },
     {
+        "id": "bfe1ac16-b423-423e-96cd-053c458d6b80",
+        "name": "ROTU_Ionia_QBuild",
+        "packageName": "com.ROTU.Ionia",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "b81be3e0-84e4-4253-8c95-c639fd01688f",
         "name": "RRealEmpty",
         "packageName": "com.Voltage.RRealEmpty",
@@ -10947,6 +11683,14 @@
         "id": "9bb19158-d7c1-49e3-b0fb-19f023cf158b",
         "name": "Secret of Harrow Manor",
         "packageName": "com.OnlyHuman.HauntedManorvr",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "acae9fd7-adfd-47de-93d2-3c75e0c3b099",
+        "name": "Secret of Harrow Manor 2",
+        "packageName": "com.OnlyHuman.SoHM2vr",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -11392,6 +12136,14 @@
         "isOptimized": false
     },
     {
+        "id": "77601ae3-f10d-47c4-a3fe-e024646a5276",
+        "name": "Slowp",
+        "packageName": "com.CruelByte.Slowp",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "e0dec659-52f2-4317-a350-c5528de65ada",
         "name": "SLR App",
         "packageName": "com.slr.oculus.go",
@@ -11624,6 +12376,14 @@
         "isOptimized": false
     },
     {
+        "id": "83e8794f-7b8e-419e-99f9-9e0cfb3f7bcc",
+        "name": "Space Salvage",
+        "packageName": "com.FruitySystems.App2023A",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "d4047903-c3b8-491a-bd6d-8b138288374a",
         "name": "Space Simulator 3D",
         "packageName": "com.rts.android.spacesim2",
@@ -11640,9 +12400,25 @@
         "isOptimized": false
     },
     {
+        "id": "2f89fd62-59ce-4e1f-859b-f4ec8b6d5eea",
+        "name": "Space tour",
+        "packageName": "com.VRStories.SpaceTour",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "4e5fa466-c189-4613-b330-d2c6a653938d",
         "name": "Spaceball",
         "packageName": "com.spadev.spaceball",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "c58fd581-21c3-41e5-a102-17131943faa0",
+        "name": "SpaceDodge2",
+        "packageName": "com.Chesstar.SpaceDodge2",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -11750,6 +12526,14 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "295c6d21-3ea0-4c82-9d50-01ca1dddcb13",
+        "name": "SplitSecond",
+        "packageName": "com.RGS.SplitSecond",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "196dd269-7037-4ce6-9f67-9f6747d8e823",
@@ -11912,6 +12696,14 @@
         "isOptimized": true
     },
     {
+        "id": "84912ed5-0b0e-4abc-9457-f5e7115eca96",
+        "name": "Starter Kit 3D Platformer",
+        "packageName": "org.godotengine.kenney",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "aa9e453f-1911-45a9-a243-c72245077cec",
         "name": "STARZ",
         "packageName": "com.starz.android.vr",
@@ -11923,6 +12715,14 @@
         "id": "d2515815-e790-43c4-a09a-aa5e51b311bc",
         "name": "Steamliner ✪ 你下载的所有破解全部来自→ VR魔趣网独家技术破解源头网站 (VRmoo.",
         "packageName": "com.Diamond.Steamliner",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "929474b4-a0eb-4616-875c-8d113c5d976c",
+        "name": "StellarXVR",
+        "packageName": "com.ova.StellarXV1",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -11958,6 +12758,14 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "07858499-6c3c-4ded-93f1-e42c1e5f2157",
+        "name": "STRIDE",
+        "packageName": "com.JoyWay.StrideStory",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "41f88544-f92b-46a6-8f96-0d55fddddcfc",
@@ -12424,6 +13232,14 @@
         "isOptimized": false
     },
     {
+        "id": "30f96120-d822-46e5-8f12-3ee394ac823a",
+        "name": "Tank Turret VR",
+        "packageName": "org.swordmaster2k.vr.tank_turret_vr",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "5e74aebd-7f72-4368-a0fe-1d1d110556da",
         "name": "Target React Force",
         "packageName": "com.InsideUniverse.TargetReactForce",
@@ -12648,6 +13464,22 @@
         "isOptimized": false
     },
     {
+        "id": "149cc1b4-2cef-447f-a7b8-5b32f1231bd0",
+        "name": "The Chosen Vr",
+        "packageName": "com.TheChosenVR.TheChosenVr",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "273d2cae-89ea-4e29-8278-170c846c16a0",
+        "name": "The Chosen Vr MAPS",
+        "packageName": "com.TheChosenVR.TheChosenVrMAPS",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "cb159ec4-117a-458a-9308-989e7e892b7a",
         "name": "The Climb",
         "packageName": "com.crytek.climb",
@@ -12667,6 +13499,14 @@
         "id": "ef6b113e-cf93-4575-9e00-8852f29251fc",
         "name": "The Curious Tale of the Stolen Pets",
         "packageName": "com.fasttravelgames.diorama",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": true
+    },
+    {
+        "id": "7819767c-cdb2-4349-9a19-2bfb0b0ab9bd",
+        "name": "The Dawn Of Art",
+        "packageName": "com.Novelab.TheDawnOfArtMobile",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
@@ -12774,6 +13614,14 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "fbf7a657-6d4f-43b1-bc60-ed8910288bcd",
+        "name": "The Obsessive Shadow",
+        "packageName": "com.ExpoDev.ObsessiveShadow",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "f88ab854-11e4-48ac-b0d3-12dd7619c23c",
@@ -13048,6 +13896,14 @@
         "isOptimized": false
     },
     {
+        "id": "66ede649-8d3e-4950-a922-b3b983c9f159",
+        "name": "Tiesta Prototype",
+        "packageName": "com.NerdNinjas.tiesta",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "d39acc98-45fd-4ec2-b87b-702de65ec5ee",
         "name": "Tilt Brush",
         "packageName": "com.google.tiltbrush",
@@ -13176,6 +14032,14 @@
         "isOptimized": false
     },
     {
+        "id": "23edcbe3-9db4-4b5e-bcd9-588d33e2e4d7",
+        "name": "Tower Defense",
+        "packageName": "com.foristudio.towerdefense",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "a101710d-2616-4f85-9d95-3eb5c9e2765e",
         "name": "Tower Tag Quest",
         "packageName": "com.vrnerds.towertag",
@@ -13203,6 +14067,14 @@
         "id": "755a5c00-bd8c-4ece-a104-19995888af6b",
         "name": "Townscaper",
         "packageName": "com.OskarStalberg.Townscaper",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "decd3db0-2e67-40a7-99f7-7fc9e7a28a83",
+        "name": "Toy Clash",
+        "packageName": "com.fiveminlab.toyclash",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -13267,6 +14139,14 @@
         "id": "60e66611-ae19-4e8e-b970-5deae9068fb7",
         "name": "traVRsal",
         "packageName": "com.wetzold.travrsal",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "e26066df-80fa-411b-ac08-53635e0510d0",
+        "name": "TrespasserQ2",
+        "packageName": "com.s13n1.TrespasserVR",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -13480,6 +14360,14 @@
         "isOptimized": false
     },
     {
+        "id": "2eea622c-4737-49ff-9916-7c11a198767b",
+        "name": "Undead Quest",
+        "packageName": "com.theia.UndeadQueastF",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "09f961db-769a-4f40-a103-02306440e497",
         "name": "Under Pressure",
         "packageName": "com.Antibore.UnderPressure",
@@ -13491,6 +14379,22 @@
         "id": "cfca8b0d-d2bc-4f56-9cc6-81b839f04bbb",
         "name": "Under The Jolly Roger",
         "packageName": "com.herocraft.game.tempest",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "8304fee7-14f8-481f-bcc8-667adf87de7e",
+        "name": "Underdogs",
+        "packageName": "com.onehamsa.underdogs",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "2f7922c4-7568-4f1e-871e-ea008a889046",
+        "name": "Uni Live Viewer",
+        "packageName": "com.NanaCiel.UniLiveViewer",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -14528,12 +15432,28 @@
         "isOptimized": false
     },
     {
+        "id": "26abd8a4-fd00-443b-80da-68fbc4fff37e",
+        "name": "Vampire: The Masquerade - Justice",
+        "packageName": "com.fasttravelgames.lollipop",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "bef5c3cb-4290-45b6-9ef5-b99e92d37fe2",
         "name": "Vanishing Grace",
         "packageName": "com.MontePerdido.VanishingGrace",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "594aa012-8434-4d65-b862-71e16637b7e1",
+        "name": "VARK",
+        "packageName": "jp.actevolve.vrpf_liveedit",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "96f16add-6c36-4950-91e9-e161264b5305",
@@ -14637,7 +15557,7 @@
         "packageName": "com.EntroPiGames.VinylRealityLite",
         "isExcluded": false,
         "isHidden": false,
-        "isOptimized": false
+        "isOptimized": true
     },
     {
         "id": "9f893fa4-34f8-4e40-9d56-608427ccfb36",
@@ -14832,6 +15752,14 @@
         "isOptimized": true
     },
     {
+        "id": "52e1c4fc-865a-41a5-bdd1-e32d985d09d8",
+        "name": "Volleggball",
+        "packageName": "com.pinkmarmot.VirtualVolley",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "a5c8a44c-f9a4-4310-8730-786c49081e0f",
         "name": "Volleyball Fever",
         "packageName": "io.neuston.volleyballfever",
@@ -14843,6 +15771,14 @@
         "id": "1333d186-8c35-4767-94b3-aca63145531b",
         "name": "VortexVR",
         "packageName": "com.ChipoyJuan.VortexVR",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "b43452f7-a1c7-40d4-9735-852df550226c",
+        "name": "VOSCE",
+        "packageName": "sm.md.MedValley",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -15000,9 +15936,33 @@
         "isOptimized": false
     },
     {
+        "id": "f1216109-6626-4af4-945f-fdd36c2e14da",
+        "name": "VR Travel",
+        "packageName": "space.vrtravel.VRTravel",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "2b1056ad-215e-462d-bc93-fcc5800c9f24",
         "name": "VR_HABITACION_TEST_2",
         "packageName": "com.epicgames.VR_HABITACION_TEST_2",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "5bcc36b8-8ef1-422a-a353-4e1eff8313a7",
+        "name": "VR_Test",
+        "packageName": "com.Rendersim.VR",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "589921e1-ec65-414e-b46d-626120a9ef9f",
+        "name": "VR-Reckoning-Master-Shooter",
+        "packageName": "com.AHK.VRReckoningMasterShooter",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -15104,6 +16064,14 @@
         "isOptimized": false
     },
     {
+        "id": "f1858428-04ce-4b95-aaa6-17817e895ca0",
+        "name": "VRGK",
+        "packageName": "com.divivor.VRGK",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "ccdad80e-a9c6-4a80-9d8b-be0f66a3f823",
         "name": "VRGyakuNTR",
         "packageName": "com.rabbit.VRGyakuNTR",
@@ -15168,6 +16136,14 @@
         "isOptimized": false
     },
     {
+        "id": "96fbf6d7-d661-43f6-a946-1d8ca6d89e4d",
+        "name": "VRPlaygroundURP",
+        "packageName": "me.leonrobi.VRPlaygroundURP",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "f3e8b875-5b46-4eee-9d0c-c5aae864a54a",
         "name": "VRPS",
         "packageName": "com.blobworks.VRPracticalShooting",
@@ -15179,6 +16155,14 @@
         "id": "456ef3f8-dea3-4fe6-a009-8f003c0ae70f",
         "name": "VRteachLAB",
         "packageName": "com.epicgames.VRteachLAB",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "03dada1f-40c1-4852-89f1-df78505d7a91",
+        "name": "vrtest",
+        "packageName": "com.stardog.vrtest",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -15296,6 +16280,14 @@
         "isOptimized": true
     },
     {
+        "id": "f24647fb-a497-4411-9af9-dce5101aeea7",
+        "name": "Wallace & Gromit in The Grand Getaway",
+        "packageName": "com.noghost.thegrandgetaway",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "09ccae56-434d-4c13-b642-961d170a280b",
         "name": "Waltz of the Wizard Extended Edition",
         "packageName": "com.Aldin.WotW",
@@ -15339,6 +16331,14 @@
         "id": "580ea6d2-52c2-44cf-969c-3497b69b1bd1",
         "name": "War Yards",
         "packageName": "com.pixelframers.waryards",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "47d6002b-a75e-4658-a1d5-d8df1fe27580",
+        "name": "Wardwell House",
+        "packageName": "com.Moolion.WardwellHouse",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -15406,6 +16406,14 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": true
+    },
+    {
+        "id": "2a17256b-8079-438c-a613-0d2d05cf44d7",
+        "name": "We Live Here",
+        "packageName": "com.Flightschool.welivehere",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
     },
     {
         "id": "b8bc2166-277d-46e2-9dfe-64d69b5787cc",
@@ -15523,6 +16531,14 @@
         "id": "080b0193-3e74-4f56-8656-9b931b2e87cf",
         "name": "Within",
         "packageName": "in.with.within.quest",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "7c3652e6-e8f7-4f3f-b8ca-8f26d845678d",
+        "name": "WiVRn",
+        "packageName": "org.meumeu.wivrn",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -15680,6 +16696,14 @@
         "isOptimized": false
     },
     {
+        "id": "9d6ad511-a63d-4635-83a2-53c3094b32a5",
+        "name": "Xponential+",
+        "packageName": "com.liteboxer.XponentialVR",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "06086fa4-8f5a-4994-9ae6-d66fd551e2a1",
         "name": "XR Training",
         "packageName": "com.ChargeXR.XRTraining",
@@ -15824,6 +16848,22 @@
         "isOptimized": false
     },
     {
+        "id": "9e847122-e2fb-4c60-96bc-e7af0e56f37f",
+        "name": "YURworld",
+        "packageName": "com.yur.worldprod",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "eac001e6-c385-4b11-94c9-d31ee2ccb122",
+        "name": "Z Show (Z僵尸世界赛车大战) → 下载来自VR魔趣独家技术源头官网 (vrmoo.net)(",
+        "packageName": "com.CendaGames.ZShow",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "be8330ea-6268-4f2c-8a56-990d044d47b4",
         "name": "ZAP",
         "packageName": "com.Fonster.ZAP",
@@ -15880,6 +16920,14 @@
         "isOptimized": true
     },
     {
+        "id": "5b36fd09-ab35-4fa4-a582-f900d5d8c1f9",
+        "name": "Ziggy",
+        "packageName": "com.StardustCollective.Ziggy",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
         "id": "2f81c8bc-bd32-467e-a922-da4e40d193d2",
         "name": "Zoe",
         "packageName": "com.zoe.app",
@@ -15891,6 +16939,14 @@
         "id": "4b1e3d65-a08c-4c1f-aa74-67866530eb4a",
         "name": "zombie escape VR",
         "packageName": "com.zombieVR",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "4906f921-ef76-47fd-982e-5e63f92be1d7",
+        "name": "Zombie Gunner",
+        "packageName": "net.mobilemischief.zombiegunnerquest",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false
@@ -15915,6 +16971,14 @@
         "id": "8ce53ac6-abd4-4e05-b75d-6ad5ab867353",
         "name": "Zombies Noir",
         "packageName": "com.SynodicArc.ZombiesNoir",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false
+    },
+    {
+        "id": "3b4ed68d-a62b-48a2-9220-3d668e9bdb41",
+        "name": "Zooma",
+        "packageName": "com.GizmoVRLTD.Zooma.Demo",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false

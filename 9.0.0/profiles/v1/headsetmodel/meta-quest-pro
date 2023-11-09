@@ -2168,7 +2168,7 @@
         "textureWidth": 2200,
         "textureHeight": 2420,
         "refreshRate": -1,
-        "cpuLevel": 4,
+        "cpuLevel": -1,
         "gpuLevel": 4,
         "frLevel": 1,
         "email": null,
@@ -3608,7 +3608,7 @@
         "textureWidth": 2560,
         "textureHeight": 2816,
         "refreshRate": -1,
-        "cpuLevel": 4,
+        "cpuLevel": -1,
         "gpuLevel": 5,
         "frLevel": 1,
         "email": null,
@@ -9232,6 +9232,22 @@
         "updateDateUtc": "2022-10-15T20:58:26.5771765+00:00"
     },
     {
+        "id": "21141f65-f533-4deb-9acb-7e9477fdd8f4",
+        "applicationName": null,
+        "packageName": "com.fasttravelgames.lollipop",
+        "headsetModel": "meta-quest-pro",
+        "type": 4,
+        "textureWidth": 2048,
+        "textureHeight": 2253,
+        "refreshRate": -1,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-03T10:33:26.633837+00:00"
+    },
+    {
         "id": "81fe7b60-3a5d-4494-b19e-7ebc78bc0a5f",
         "applicationName": null,
         "packageName": "xyz.skybox.player.ovr",
@@ -11584,22 +11600,6 @@
         "updateDateUtc": "2022-10-15T20:58:24.8115699+00:00"
     },
     {
-        "id": "6bb84b3a-534b-4ed0-b7fe-a172a2d28917",
-        "applicationName": null,
-        "packageName": "com.drbeef.doom3quest",
-        "headsetModel": "meta-quest-pro",
-        "type": 1,
-        "textureWidth": 1440,
-        "textureHeight": 1584,
-        "refreshRate": 72,
-        "cpuLevel": -1,
-        "gpuLevel": -1,
-        "frLevel": 4,
-        "email": null,
-        "needToBeReviewed": false,
-        "updateDateUtc": "2022-10-16T21:06:45.69126+00:00"
-    },
-    {
         "id": "a779eecd-639a-4b88-8b9d-a19b729c150b",
         "applicationName": null,
         "packageName": "de.selfox.crazycroquet",
@@ -12446,6 +12446,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-06-14T13:31:08.3766667+00:00"
+    },
+    {
+        "id": "fa4bfc8c-896c-4fb3-ae66-ae84fb255bf1",
+        "applicationName": null,
+        "packageName": "com.EntroPiGames.VinylRealityLite",
+        "headsetModel": "meta-quest-pro",
+        "type": 3,
+        "textureWidth": 2048,
+        "textureHeight": 2253,
+        "refreshRate": -1,
+        "cpuLevel": -1,
+        "gpuLevel": 3,
+        "frLevel": 1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-05T17:16:38.6266667+00:00"
     },
     {
         "id": "34c34b83-3be7-4896-8121-ae8d53789620",
@@ -13648,22 +13664,6 @@
         "updateDateUtc": "2022-10-15T20:58:26.405304+00:00"
     },
     {
-        "id": "143c80ff-3c81-4f4a-bd83-be7d3f3a875b",
-        "applicationName": null,
-        "packageName": "com.drbeef.doom3quest",
-        "headsetModel": "meta-quest-pro",
-        "type": 2,
-        "textureWidth": 1440,
-        "textureHeight": 1584,
-        "refreshRate": -1,
-        "cpuLevel": 5,
-        "gpuLevel": 5,
-        "frLevel": 4,
-        "email": null,
-        "needToBeReviewed": false,
-        "updateDateUtc": "2022-10-15T21:06:32.7907716+00:00"
-    },
-    {
         "id": "702ba2af-6b8e-4348-8a98-beba588716e9",
         "applicationName": null,
         "packageName": "com.ovidworks.fallingstar",
@@ -13806,6 +13806,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-01-30T20:54:35.05+00:00"
+    },
+    {
+        "id": "b0e52def-c077-435b-bc6b-c12efa1fa7d3",
+        "applicationName": null,
+        "packageName": "com.EntroPiGames.VinylRealityLite",
+        "headsetModel": "meta-quest-pro",
+        "type": 1,
+        "textureWidth": 1440,
+        "textureHeight": 1584,
+        "refreshRate": 72,
+        "cpuLevel": 0,
+        "gpuLevel": 0,
+        "frLevel": 1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-05T17:17:50.6366667+00:00"
     },
     {
         "id": "77e3588d-ea00-48b9-9c79-c18c081ea73c",
@@ -15888,6 +15904,22 @@
         "updateDateUtc": "2023-07-17T16:56:57.2666667+00:00"
     },
     {
+        "id": "76d76bc5-75ee-4874-9004-dcf52c7462f4",
+        "applicationName": null,
+        "packageName": "com.fasttravelgames.lollipop",
+        "headsetModel": "meta-quest-pro",
+        "type": 3,
+        "textureWidth": 1750,
+        "textureHeight": 1925,
+        "refreshRate": -1,
+        "cpuLevel": -1,
+        "gpuLevel": 4,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-03T10:37:14.6518481+00:00"
+    },
+    {
         "id": "02b1d826-ba78-4367-b2a9-dd05ae83fb2a",
         "applicationName": null,
         "packageName": "com.crowscrowscrows.AccountingPlus",
@@ -17664,6 +17696,22 @@
         "updateDateUtc": "2022-10-15T20:58:25.5459384+00:00"
     },
     {
+        "id": "caa0a49d-9166-4fea-937d-f4f54ca46a04",
+        "applicationName": null,
+        "packageName": "io.pxlworks.miraclepoolquest",
+        "headsetModel": "meta-quest-pro",
+        "type": 4,
+        "textureWidth": 2048,
+        "textureHeight": 2253,
+        "refreshRate": -1,
+        "cpuLevel": -1,
+        "gpuLevel": 4,
+        "frLevel": 4,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-01T17:34:37.04+00:00"
+    },
+    {
         "id": "9986db8e-c784-4d20-ac42-f56fbb8cb5b2",
         "applicationName": null,
         "packageName": "com.artisoft.crackthecode",
@@ -18014,6 +18062,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-01-28T18:39:59.5206586+00:00"
+    },
+    {
+        "id": "495c2f5d-2462-4eeb-91ee-fb92a30d67d4",
+        "applicationName": null,
+        "packageName": "com.EntroPiGames.VinylRealityLite",
+        "headsetModel": "meta-quest-pro",
+        "type": 4,
+        "textureWidth": 2600,
+        "textureHeight": 2860,
+        "refreshRate": -1,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-05T17:15:17.0366667+00:00"
     },
     {
         "id": "22a38cf3-fbfa-44ac-b652-fbd013880a11",
