@@ -3040,22 +3040,6 @@
         "updateDateUtc": "2022-10-15T20:58:26.1240576+00:00"
     },
     {
-        "id": "f8b6abc5-27e6-4a83-a9fb-28b943c01730",
-        "applicationName": null,
-        "packageName": "com.vankrupt.pavlovbeta",
-        "headsetModel": "meta-quest-pro",
-        "type": 3,
-        "textureWidth": 1536,
-        "textureHeight": 1690,
-        "refreshRate": -1,
-        "cpuLevel": 4,
-        "gpuLevel": 4,
-        "frLevel": 3,
-        "email": null,
-        "needToBeReviewed": false,
-        "updateDateUtc": "2022-10-15T20:58:25.7959359+00:00"
-    },
-    {
         "id": "31c3547c-e6b5-45ae-91da-28bed76eb049",
         "applicationName": null,
         "packageName": "com.ATiStudios.LearnLanguagesVRbyMondly",
@@ -4462,22 +4446,6 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2022-11-24T17:56:49.1234323+00:00"
-    },
-    {
-        "id": "f300b4ce-3394-4bd5-b527-3a906bfd0d48",
-        "applicationName": null,
-        "packageName": "com.Albyon.FightBack_Release",
-        "headsetModel": "meta-quest-pro",
-        "type": 3,
-        "textureWidth": 1598,
-        "textureHeight": 1758,
-        "refreshRate": 72,
-        "cpuLevel": 5,
-        "gpuLevel": 5,
-        "frLevel": 2,
-        "email": null,
-        "needToBeReviewed": false,
-        "updateDateUtc": "2023-03-23T19:55:12.1+00:00"
     },
     {
         "id": "212dc52e-702c-4acb-a1bb-3aa7e094b597",
@@ -7498,7 +7466,7 @@
         "refreshRate": 72,
         "cpuLevel": -1,
         "gpuLevel": -1,
-        "frLevel": 4,
+        "frLevel": 0,
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2022-10-24T08:12:09.4784408+00:00"
@@ -12629,12 +12597,12 @@
         "packageName": "com.LuckyVR.PokerStarsVR",
         "headsetModel": "meta-quest-pro",
         "type": 3,
-        "textureWidth": 2200,
-        "textureHeight": 2420,
+        "textureWidth": 2048,
+        "textureHeight": 2252,
         "refreshRate": -1,
         "cpuLevel": 4,
         "gpuLevel": 4,
-        "frLevel": 4,
+        "frLevel": 3,
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2022-10-15T20:58:25.8429538+00:00"
@@ -13024,22 +12992,6 @@
         "updateDateUtc": "2023-08-17T15:49:22.5733333+00:00"
     },
     {
-        "id": "99f2cecf-b766-4b90-8a60-b6c9ce20a4d7",
-        "applicationName": null,
-        "packageName": "com.resolutiongames.codenamelazarus",
-        "headsetModel": "meta-quest-pro",
-        "type": 1,
-        "textureWidth": 1440,
-        "textureHeight": 1584,
-        "refreshRate": 72,
-        "cpuLevel": -1,
-        "gpuLevel": -1,
-        "frLevel": 1,
-        "email": null,
-        "needToBeReviewed": false,
-        "updateDateUtc": "2022-10-16T21:06:46.98824+00:00"
-    },
-    {
         "id": "0538808d-e8d9-4219-99ac-b6f78a488fe4",
         "applicationName": null,
         "packageName": "com.TeamPanoptes.SilhouetteVR",
@@ -13054,22 +13006,6 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-02-20T22:28:44.9633333+00:00"
-    },
-    {
-        "id": "dcd9b8fe-1fac-421c-8621-b7208ca428c4",
-        "applicationName": null,
-        "packageName": "HappyKamperPictures.Blockbuster",
-        "headsetModel": "meta-quest-pro",
-        "type": 4,
-        "textureWidth": 2160,
-        "textureHeight": 2376,
-        "refreshRate": 72,
-        "cpuLevel": 5,
-        "gpuLevel": 5,
-        "frLevel": 4,
-        "email": null,
-        "needToBeReviewed": false,
-        "updateDateUtc": "2023-05-28T21:04:01.8666667+00:00"
     },
     {
         "id": "b1e55f28-0cc5-4878-920d-b7de086426b8",
@@ -13125,8 +13061,8 @@
         "packageName": "com.LuckyVR.PokerStarsVR",
         "headsetModel": "meta-quest-pro",
         "type": 4,
-        "textureWidth": 2900,
-        "textureHeight": 3190,
+        "textureWidth": 2700,
+        "textureHeight": 2970,
         "refreshRate": 72,
         "cpuLevel": 5,
         "gpuLevel": 5,
@@ -14848,22 +14784,6 @@
         "updateDateUtc": "2022-10-15T20:58:25.9365583+00:00"
     },
     {
-        "id": "9470a3cc-a009-4792-8035-cf6e8947d417",
-        "applicationName": null,
-        "packageName": "com.fitxr.boxvr",
-        "headsetModel": "meta-quest-pro",
-        "type": 3,
-        "textureWidth": 2048,
-        "textureHeight": 2253,
-        "refreshRate": -1,
-        "cpuLevel": 4,
-        "gpuLevel": 4,
-        "frLevel": -1,
-        "email": null,
-        "needToBeReviewed": false,
-        "updateDateUtc": "2022-10-15T20:58:25.1709421+00:00"
-    },
-    {
         "id": "44e9dc1a-bb6e-4568-be0e-cfc5f2c3a7b2",
         "applicationName": null,
         "packageName": "games.b4t.epicrollercoasters.oculus",
@@ -15578,7 +15498,7 @@
         "refreshRate": 72,
         "cpuLevel": -1,
         "gpuLevel": 5,
-        "frLevel": 4,
+        "frLevel": 0,
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "0001-01-01T00:00:00+00:00"
@@ -16542,22 +16462,6 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2022-11-27T21:09:10.1952614+00:00"
-    },
-    {
-        "id": "6603f372-5846-4e17-9ab6-e61a76a3f7cf",
-        "applicationName": null,
-        "packageName": "com.facebook.workrooms",
-        "headsetModel": "meta-quest-pro",
-        "type": 3,
-        "textureWidth": 2048,
-        "textureHeight": 2253,
-        "refreshRate": -1,
-        "cpuLevel": -1,
-        "gpuLevel": 3,
-        "frLevel": 4,
-        "email": null,
-        "needToBeReviewed": false,
-        "updateDateUtc": "2022-11-21T19:10:32.7154716+00:00"
     },
     {
         "id": "0397a268-a0a4-4c32-9954-e652d9c9f999",

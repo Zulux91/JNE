@@ -186,7 +186,7 @@
         "refreshRate": 60,
         "cpuLevel": -1,
         "gpuLevel": 5,
-        "frLevel": 4,
+        "frLevel": 0,
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-03-04T21:43:57.8923258+00:00"
@@ -480,22 +480,6 @@
         "updateDateUtc": "2022-10-15T21:08:26.3989108+00:00"
     },
     {
-        "id": "ead26f86-c63d-4ca4-9772-bdc8eedd3f14",
-        "applicationName": null,
-        "packageName": "com.RealitiesIO.puzzlingPlaces",
-        "headsetModel": "meta-quest-1",
-        "type": 3,
-        "textureWidth": 1536,
-        "textureHeight": 1690,
-        "refreshRate": -1,
-        "cpuLevel": -1,
-        "gpuLevel": 4,
-        "frLevel": 1,
-        "email": null,
-        "needToBeReviewed": false,
-        "updateDateUtc": "2022-10-15T21:08:26.414536+00:00"
-    },
-    {
         "id": "c03062c9-b0b4-4cf5-aab0-c95436119d53",
         "applicationName": null,
         "packageName": "com.Tunermaxx.RiseoftheRainbowReactor",
@@ -560,22 +544,6 @@
         "updateDateUtc": "2023-03-04T21:44:21.4873415+00:00"
     },
     {
-        "id": "eed44afb-582b-46ae-a64d-e0b2c039ff64",
-        "applicationName": null,
-        "packageName": "com.purpleyonder.littlecities",
-        "headsetModel": "meta-quest-1",
-        "type": 3,
-        "textureWidth": 1536,
-        "textureHeight": 1690,
-        "refreshRate": -1,
-        "cpuLevel": 4,
-        "gpuLevel": 4,
-        "frLevel": 1,
-        "email": null,
-        "needToBeReviewed": false,
-        "updateDateUtc": "2022-10-15T21:08:26.414536+00:00"
-    },
-    {
         "id": "6f19b75b-2d64-4155-bb6a-e1bbb0e360a3",
         "applicationName": null,
         "packageName": "com.picselica.OceanRiftFullQuest",
@@ -606,22 +574,6 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-03-04T21:45:57.6078647+00:00"
-    },
-    {
-        "id": "d9f66022-456e-46e5-a0e6-e977244d043d",
-        "applicationName": null,
-        "packageName": "com.vertigogames.azsq",
-        "headsetModel": "meta-quest-1",
-        "type": 3,
-        "textureWidth": 1536,
-        "textureHeight": 1690,
-        "refreshRate": -1,
-        "cpuLevel": 4,
-        "gpuLevel": 4,
-        "frLevel": 0,
-        "email": null,
-        "needToBeReviewed": false,
-        "updateDateUtc": "2022-10-15T21:08:26.3676618+00:00"
     },
     {
         "id": "e2a17e45-91df-4260-aa7d-ec85a522fb77",
