@@ -1257,7 +1257,7 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false,
-        "informations": ""
+        "informations": "On Quest 3, by default, even without QGO, the game have stutters, frame drops and feel jitter. This is due to reprojection mechanisms (Application Space Warp (AppSW))"
     },
     {
         "id": "7ebeea07-40bb-4814-a3a8-b5d36e15a074",
@@ -1950,7 +1950,7 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false,
-        "informations": ""
+        "informations": "This game have built-in resolution parameters, so be careful if you use both in-game settings and QGO profile, this could cause stutter"
     },
     {
         "id": "dcbb60bf-03da-4c3a-af28-6edb834d151e",
@@ -3876,7 +3876,7 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false,
-        "informations": ""
+        "informations": "On Quest 2/Pro and 3, setting up the rendering resolution over 1800px have the bad effet to remove your hands in game"
     },
     {
         "id": "1e12f06e-8fb2-46c4-9313-36a1fe90eaa0",
@@ -4231,7 +4231,7 @@
     },
     {
         "id": "5a85bbd5-7645-4db2-a0bd-ecf34aa97feb",
-        "name": "DashDash World",
+        "name": "Dash Dash World",
         "packageName": "com.motionx.quest.xkart",
         "isExcluded": false,
         "isHidden": false,
@@ -6080,7 +6080,7 @@
         "packageName": "com.oculus.MontereySetup",
         "isExcluded": false,
         "isHidden": false,
-        "isOptimized": false,
+        "isOptimized": true,
         "informations": ""
     },
     {
@@ -9765,6 +9765,15 @@
         "informations": ""
     },
     {
+        "id": "0660edaf-48b9-4aae-aa41-35a8d3f5f2bd",
+        "name": "Medal of Honor: Above and Beyond",
+        "packageName": "com.Virtuos.R6DLM",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false,
+        "informations": ""
+    },
+    {
         "id": "490dd295-c416-4a5e-93d3-572dfaa81090",
         "name": "MedianaVR",
         "packageName": "com.Mediana.MedianaVR",
@@ -10236,15 +10245,6 @@
         "id": "ee4cbcca-5fc9-41b5-a200-d064f442ed8c",
         "name": "Mobile VR Station Unified",
         "packageName": "com.mgatelabs.mobilevrstationthree",
-        "isExcluded": false,
-        "isHidden": false,
-        "isOptimized": false,
-        "informations": ""
-    },
-    {
-        "id": "0660edaf-48b9-4aae-aa41-35a8d3f5f2bd",
-        "name": "Mohab",
-        "packageName": "com.Virtuos.R6DLM",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false,
@@ -10761,6 +10761,15 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false,
+        "informations": ""
+    },
+    {
+        "id": "40e035e2-30fc-482c-86af-0e91ee21f24b",
+        "name": "Nature Treks",
+        "packageName": "com.GreenerGames.QuestTreks",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": true,
         "informations": ""
     },
     {
@@ -12033,6 +12042,15 @@
         "informations": ""
     },
     {
+        "id": "15895499-045e-43b3-9828-45c9f4693c2d",
+        "name": "Pillow",
+        "packageName": "com.pillowinc.pt",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false,
+        "informations": ""
+    },
+    {
         "id": "d4372935-4ad7-405b-ae69-7211a9f1e6ac",
         "name": "Pillow",
         "packageName": "mr.com.pillowinc.pt",
@@ -12452,7 +12470,7 @@
         "packageName": "com.sadetta.premiumbowling",
         "isExcluded": false,
         "isHidden": false,
-        "isOptimized": false,
+        "isOptimized": true,
         "informations": ""
     },
     {
@@ -12648,15 +12666,6 @@
         "id": "18e86c07-8db3-414d-b8ab-3fc011ad976c",
         "name": "Propagation: Paradise Hotel",
         "packageName": "com.wanadev.propagation_ph",
-        "isExcluded": false,
-        "isHidden": false,
-        "isOptimized": false,
-        "informations": ""
-    },
-    {
-        "id": "15895499-045e-43b3-9828-45c9f4693c2d",
-        "name": "pt",
-        "packageName": "com.pillowinc.pt",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false,
@@ -12879,15 +12888,6 @@
         "informations": ""
     },
     {
-        "id": "40e035e2-30fc-482c-86af-0e91ee21f24b",
-        "name": "Quest Treks",
-        "packageName": "com.GreenerGames.QuestTreks",
-        "isExcluded": false,
-        "isHidden": false,
-        "isOptimized": true,
-        "informations": ""
-    },
-    {
         "id": "1bef8e66-e537-4463-a2aa-44d0b7d8fd69",
         "name": "QuestCraft",
         "packageName": "net.kdt.pojavlaunch",
@@ -12975,7 +12975,7 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false,
-        "informations": ""
+        "informations": "On Quest 2/Pro and 3, tweaking the game can sometime make it freeze and need an headset reboot to unfreeze. The game is still in early-access"
     },
     {
         "id": "4b32e991-59e1-4bfa-977d-fcdc2773eb68",
@@ -14982,7 +14982,7 @@
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false,
-        "informations": ""
+        "informations": "On Quest 2/Pro and 3, setting up the rendering resolution over 2200px have the bad effet put a black bar at the top on the screen"
     },
     {
         "id": "cebfff16-133c-45a9-87d4-790b172f4745",
@@ -18210,6 +18210,15 @@
         "id": "f7967b8a-4d7b-48f0-8c17-bb6be7020465",
         "name": "VekWars",
         "packageName": "com.washingup.VekWars",
+        "isExcluded": false,
+        "isHidden": false,
+        "isOptimized": false,
+        "informations": ""
+    },
+    {
+        "id": "fe4f0d74-b438-42ee-955d-fb9da0748ab6",
+        "name": "Velocity Rush",
+        "packageName": "com.Immerscope.Jumper",
         "isExcluded": false,
         "isHidden": false,
         "isOptimized": false,

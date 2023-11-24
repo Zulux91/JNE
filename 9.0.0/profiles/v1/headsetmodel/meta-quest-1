@@ -352,6 +352,22 @@
         "updateDateUtc": "2023-10-18T13:48:33.4423148+00:00"
     },
     {
+        "id": "7bdd4e3e-7c68-47bf-89bc-75cc146af181",
+        "applicationName": null,
+        "packageName": "com.oculus.MontereySetup",
+        "headsetModel": "meta-quest-1",
+        "type": 3,
+        "textureWidth": 1620,
+        "textureHeight": 1782,
+        "refreshRate": 60,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": -1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-19T13:41:20.3372908+00:00"
+    },
+    {
         "id": "db745c85-e648-441b-9f81-7ea956d9adf1",
         "applicationName": null,
         "packageName": "com.SchellGames.LostRecipes",
@@ -574,6 +590,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-03-04T21:45:57.6078647+00:00"
+    },
+    {
+        "id": "4e72304a-03ac-4c13-b426-ec2b0a40b458",
+        "applicationName": null,
+        "packageName": "com.sadetta.premiumbowling",
+        "headsetModel": "meta-quest-1",
+        "type": 3,
+        "textureWidth": 1625,
+        "textureHeight": 1788,
+        "refreshRate": 60,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": -1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-16T13:21:38.9400375+00:00"
     },
     {
         "id": "e2a17e45-91df-4260-aa7d-ec85a522fb77",

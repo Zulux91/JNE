@@ -2736,6 +2736,22 @@
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
     },
     {
+        "id": "3ae5f172-91af-4f3b-b55b-259196c564be",
+        "applicationName": null,
+        "packageName": "com.pillowinc.pt",
+        "headsetModel": "meta-quest-3",
+        "type": 4,
+        "textureWidth": 3072,
+        "textureHeight": 3195,
+        "refreshRate": 72,
+        "cpuLevel": -1,
+        "gpuLevel": -1,
+        "frLevel": 4,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-20T20:27:39.3351458+00:00"
+    },
+    {
         "id": "26be3376-2b72-44d7-86ab-25e89dd4c16f",
         "applicationName": null,
         "packageName": "com.BitPlanetGamesLLC.Ultrawings2",
@@ -4480,6 +4496,22 @@
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
     },
     {
+        "id": "c912c965-6da5-4754-acea-3e0dced100ab",
+        "applicationName": null,
+        "packageName": "com.pillowinc.pt",
+        "headsetModel": "meta-quest-3",
+        "type": 1,
+        "textureWidth": 1680,
+        "textureHeight": 1760,
+        "refreshRate": 72,
+        "cpuLevel": 0,
+        "gpuLevel": 1,
+        "frLevel": -1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-20T20:30:34.8299246+00:00"
+    },
+    {
         "id": "f277ce2a-48d8-4200-862a-3e5de7c9de1a",
         "applicationName": null,
         "packageName": "games.jamhack.PercussiveVR.Oculus",
@@ -4722,7 +4754,7 @@
     {
         "id": "cda2aac0-e68e-4ed1-b759-414c7722a861",
         "applicationName": null,
-        "packageName": "com.motionx.quest.xhart",
+        "packageName": "com.motionx.quest.xkart",
         "headsetModel": "meta-quest-3",
         "type": 3,
         "textureWidth": 1996,
@@ -5287,7 +5319,7 @@
         "type": 3,
         "textureWidth": 2470,
         "textureHeight": 2568,
-        "refreshRate": -1,
+        "refreshRate": 72,
         "cpuLevel": -1,
         "gpuLevel": 5,
         "frLevel": 4,
@@ -5700,12 +5732,12 @@
         "applicationName": null,
         "packageName": "com.ramenvr.zenith",
         "headsetModel": "meta-quest-3",
-        "type": 3,
+        "type": 4,
         "textureWidth": 2662,
         "textureHeight": 2768,
-        "refreshRate": -1,
-        "cpuLevel": 3,
-        "gpuLevel": 3,
+        "refreshRate": 72,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
         "frLevel": 3,
         "email": null,
         "needToBeReviewed": false,
@@ -7006,6 +7038,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-11-12T13:21:50.3240982+00:00"
+    },
+    {
+        "id": "be4d9e4e-806b-4834-81b3-631a79b8653e",
+        "applicationName": null,
+        "packageName": "com.jjbsega.sambadeamigo",
+        "headsetModel": "meta-quest-3",
+        "type": 4,
+        "textureWidth": 2500,
+        "textureHeight": 2600,
+        "refreshRate": 72,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 3,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-23T18:47:09.8390865+00:00"
     },
     {
         "id": "2df41120-bd8a-4598-a249-639a90e9ed93",
@@ -12726,14 +12774,14 @@
         "headsetModel": "meta-quest-3",
         "type": 4,
         "textureWidth": 3770,
-        "textureHeight": 3920,
+        "textureHeight": 3921,
         "refreshRate": -1,
         "cpuLevel": -1,
         "gpuLevel": 5,
         "frLevel": 2,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2023-10-16T20:47:05.6872429+00:00"
+        "updateDateUtc": "2023-11-20T21:57:22.0383789+00:00"
     },
     {
         "id": "10b1d53e-1d62-43dc-a396-b2d893ec0272",
@@ -15136,6 +15184,22 @@
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
     },
     {
+        "id": "e3d6bb30-5e2f-419d-ab9a-d21cf17806c9",
+        "applicationName": null,
+        "packageName": "com.Immerscope.Jumper",
+        "headsetModel": "meta-quest-3",
+        "type": 3,
+        "textureWidth": 2300,
+        "textureHeight": 2392,
+        "refreshRate": 72,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 4,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-20T22:00:00+01:00"
+    },
+    {
         "id": "f941f2fc-cb84-4314-ae73-d2cb1f78948f",
         "applicationName": null,
         "packageName": "com.Armature.SportsScramble",
@@ -15853,7 +15917,7 @@
         "frLevel": 1,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2023-11-18T15:02:41.6165883+00:00"
+        "updateDateUtc": "2023-11-23T07:07:44.901262+00:00"
     },
     {
         "id": "ded485a6-faac-48be-a313-dce97a58c0df",
@@ -16274,7 +16338,7 @@
     {
         "id": "c9f53822-e3f2-4d29-a035-e0d73dbe69a9",
         "applicationName": null,
-        "packageName": "com.motionx.quest.xhart",
+        "packageName": "com.motionx.quest.xkart",
         "headsetModel": "meta-quest-3",
         "type": 1,
         "textureWidth": 1500,
@@ -17008,6 +17072,22 @@
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
     },
     {
+        "id": "c91d9980-0ff6-4b71-80d9-e8350fd0e110",
+        "applicationName": null,
+        "packageName": "com.motionx.quest.xkart",
+        "headsetModel": "meta-quest-3",
+        "type": 4,
+        "textureWidth": 3020,
+        "textureHeight": 3141,
+        "refreshRate": -1,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-20T16:52:52.2519634+00:00"
+    },
+    {
         "id": "b338ea91-ac03-4483-8439-e89b00258385",
         "applicationName": null,
         "packageName": "com.fasttravelgames.apexconstruct",
@@ -17550,6 +17630,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+    },
+    {
+        "id": "2138b353-bca3-455a-8c30-ef682370e7a4",
+        "applicationName": null,
+        "packageName": "com.pillowinc.pt",
+        "headsetModel": "meta-quest-3",
+        "type": 3,
+        "textureWidth": 2560,
+        "textureHeight": 2662,
+        "refreshRate": 72,
+        "cpuLevel": -1,
+        "gpuLevel": -1,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-20T20:28:35.0395588+00:00"
     },
     {
         "id": "8ec92564-0dcc-4c4a-9fdf-f011499b3529",
@@ -18622,6 +18718,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+    },
+    {
+        "id": "32992f67-21e2-4348-9692-fdd041243806",
+        "applicationName": null,
+        "packageName": "com.And7Limited.Hitstream",
+        "headsetModel": "meta-quest-3",
+        "type": 4,
+        "textureWidth": 3100,
+        "textureHeight": 3224,
+        "refreshRate": 72,
+        "cpuLevel": -1,
+        "gpuLevel": 4,
+        "frLevel": 3,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-19T17:46:29.0413964+00:00"
     },
     {
         "id": "8fe2e3e9-c879-4dc8-8df6-fdeac14f5847",
