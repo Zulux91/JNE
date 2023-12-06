@@ -80,6 +80,22 @@
         "updateDateUtc": "2023-11-03T12:00:17.0334175+00:00"
     },
     {
+        "id": "1d9c8cbc-f336-4406-b8e0-11038bd4ed0e",
+        "applicationName": null,
+        "packageName": "com.forcefieldxr.annefrankhousevr",
+        "headsetModel": "meta-quest-1",
+        "type": 3,
+        "textureWidth": 1620,
+        "textureHeight": 1782,
+        "refreshRate": 60,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": -1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-05T13:36:47.0038963+00:00"
+    },
+    {
         "id": "10a067e1-9439-4ae1-b260-14414a113c7d",
         "applicationName": null,
         "packageName": "com.freelives.gorn",
@@ -222,6 +238,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-10-16T03:32:20.550905+00:00"
+    },
+    {
+        "id": "a5e19d27-b3a4-4131-aafb-3dc4790c98e2",
+        "applicationName": null,
+        "packageName": "com.AudioGaming.nob5",
+        "headsetModel": "meta-quest-1",
+        "type": 3,
+        "textureWidth": 1620,
+        "textureHeight": 1782,
+        "refreshRate": 60,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": -1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-05T13:55:42.8167014+00:00"
     },
     {
         "id": "5237e78f-71c2-49fe-8d66-48707a897eac",
@@ -590,6 +622,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-03-04T21:45:57.6078647+00:00"
+    },
+    {
+        "id": "54c586ba-9cee-47f2-bcb2-ebe1e0afac98",
+        "applicationName": null,
+        "packageName": "com.Aldin.WotW",
+        "headsetModel": "meta-quest-1",
+        "type": 3,
+        "textureWidth": 1620,
+        "textureHeight": 1782,
+        "refreshRate": 60,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": -1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-06T13:39:50.0864371+00:00"
     },
     {
         "id": "4e72304a-03ac-4c13-b426-ec2b0a40b458",

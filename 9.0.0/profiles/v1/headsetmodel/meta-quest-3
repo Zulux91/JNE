@@ -901,15 +901,15 @@
         "packageName": "com.SquingleStudios.Squingle",
         "headsetModel": "meta-quest-3",
         "type": 1,
-        "textureWidth": 1500,
-        "textureHeight": 1560,
+        "textureWidth": 1680,
+        "textureHeight": 1760,
         "refreshRate": 72,
-        "cpuLevel": -1,
-        "gpuLevel": -1,
-        "frLevel": 4,
+        "cpuLevel": 1,
+        "gpuLevel": 0,
+        "frLevel": 1,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+        "updateDateUtc": "2023-11-29T14:56:23.9314167+00:00"
     },
     {
         "id": "fed12359-b7bd-4b39-b056-0ce06dad5399",
@@ -1296,6 +1296,22 @@
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
     },
     {
+        "id": "56563df3-ceeb-4b89-8fd9-12582638960a",
+        "applicationName": null,
+        "packageName": "com.ILMxLAB.VaderImmortal.ep1",
+        "headsetModel": "meta-quest-3",
+        "type": 4,
+        "textureWidth": 3200,
+        "textureHeight": 3328,
+        "refreshRate": -1,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-27T16:18:44.9448823+00:00"
+    },
+    {
         "id": "2416ccd1-848d-4b26-af9d-126c557e1045",
         "applicationName": null,
         "packageName": "com.ILMxLAB.VaderImmortal.ep1",
@@ -1303,13 +1319,29 @@
         "type": 2,
         "textureWidth": 1680,
         "textureHeight": 1760,
-        "refreshRate": 80,
-        "cpuLevel": 4,
-        "gpuLevel": 4,
-        "frLevel": 4,
+        "refreshRate": 90,
+        "cpuLevel": -1,
+        "gpuLevel": -1,
+        "frLevel": -1,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+        "updateDateUtc": "2023-11-27T16:19:03.9840803+00:00"
+    },
+    {
+        "id": "3adce74f-ffd2-45a0-92ec-12d4d8b382b3",
+        "applicationName": null,
+        "packageName": "com.AEXLAB.VAIL",
+        "headsetModel": "meta-quest-3",
+        "type": 4,
+        "textureWidth": 2560,
+        "textureHeight": 2662,
+        "refreshRate": 72,
+        "cpuLevel": 2,
+        "gpuLevel": 5,
+        "frLevel": 3,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-27T23:40:00.1772942+00:00"
     },
     {
         "id": "5cf84f6d-fb98-4f2c-9a3b-13bc8fb4177a",
@@ -1525,15 +1557,15 @@
         "packageName": "com.TriangleFactory.Breachers",
         "headsetModel": "meta-quest-3",
         "type": 3,
-        "textureWidth": 2210,
-        "textureHeight": 2298,
-        "refreshRate": 80,
-        "cpuLevel": 4,
-        "gpuLevel": 4,
-        "frLevel": 4,
+        "textureWidth": 2600,
+        "textureHeight": 2704,
+        "refreshRate": -1,
+        "cpuLevel": 5,
+        "gpuLevel": 5,
+        "frLevel": 2,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+        "updateDateUtc": "2023-11-30T13:56:36.0691627+00:00"
     },
     {
         "id": "d573fc29-cddf-41d4-b158-17a84a2d9313",
@@ -1630,6 +1662,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+    },
+    {
+        "id": "b03f8e35-b0c6-4ad3-863c-18a73be8d5cd",
+        "applicationName": null,
+        "packageName": "com.delightscape.funfitland_alpha",
+        "headsetModel": "meta-quest-3",
+        "type": 4,
+        "textureWidth": 2860,
+        "textureHeight": 2974,
+        "refreshRate": 72,
+        "cpuLevel": 4,
+        "gpuLevel": 5,
+        "frLevel": 3,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-05T16:37:40.6161543+00:00"
     },
     {
         "id": "a37aa6ef-4c1e-44ba-a038-18b0a0a07ee6",
@@ -1966,6 +2014,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+    },
+    {
+        "id": "1b708979-be4e-4ce9-a588-1bcc3081c505",
+        "applicationName": null,
+        "packageName": "com.SquingleStudios.Squingle",
+        "headsetModel": "meta-quest-3",
+        "type": 4,
+        "textureWidth": 3328,
+        "textureHeight": 3461,
+        "refreshRate": 72,
+        "cpuLevel": -1,
+        "gpuLevel": 4,
+        "frLevel": 1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-29T14:50:15.307125+00:00"
     },
     {
         "id": "d6b29765-c1f3-42e0-8e9c-1bf719d7a403",
@@ -3061,15 +3125,15 @@
         "packageName": "com.pirinel.chess",
         "headsetModel": "meta-quest-3",
         "type": 4,
-        "textureWidth": 2080,
-        "textureHeight": 2163,
-        "refreshRate": -1,
-        "cpuLevel": -1,
-        "gpuLevel": 5,
-        "frLevel": 4,
+        "textureWidth": 2304,
+        "textureHeight": 2396,
+        "refreshRate": 72,
+        "cpuLevel": 0,
+        "gpuLevel": 3,
+        "frLevel": 2,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+        "updateDateUtc": "2023-11-29T15:20:33.3612299+00:00"
     },
     {
         "id": "434890e1-4fa9-405e-b069-2a5f22f23095",
@@ -3785,11 +3849,11 @@
         "textureHeight": 1560,
         "refreshRate": 72,
         "cpuLevel": -1,
-        "gpuLevel": -1,
-        "frLevel": 4,
+        "gpuLevel": 0,
+        "frLevel": 2,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+        "updateDateUtc": "2023-11-29T15:13:35.6102981+00:00"
     },
     {
         "id": "b6894e70-988c-4408-977e-34053ef531ad",
@@ -4272,6 +4336,22 @@
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
     },
     {
+        "id": "0b086c8d-e7d2-42ab-ab25-3af1b364c9be",
+        "applicationName": null,
+        "packageName": "com.jjbkluge.SynthRiders",
+        "headsetModel": "meta-quest-3",
+        "type": 3,
+        "textureWidth": 2048,
+        "textureHeight": 2130,
+        "refreshRate": 90,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": -1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-01T14:48:30.7557487+00:00"
+    },
+    {
         "id": "ddaf8a6f-7063-4346-937c-3b01df0ea03a",
         "applicationName": null,
         "packageName": "com.forfunlabs.bounceshot",
@@ -4512,6 +4592,22 @@
         "updateDateUtc": "2023-11-20T20:30:34.8299246+00:00"
     },
     {
+        "id": "00a94415-b03c-4cf4-b613-3e5677b0fb6f",
+        "applicationName": null,
+        "packageName": "com.odders.livechess",
+        "headsetModel": "meta-quest-3",
+        "type": 4,
+        "textureWidth": 3200,
+        "textureHeight": 3328,
+        "refreshRate": -1,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-29T15:08:20.5820887+00:00"
+    },
+    {
         "id": "f277ce2a-48d8-4200-862a-3e5de7c9de1a",
         "applicationName": null,
         "packageName": "games.jamhack.PercussiveVR.Oculus",
@@ -4750,6 +4846,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-11-03T09:59:55.7460701+00:00"
+    },
+    {
+        "id": "f980af80-cca7-40ad-a718-412de950e7e9",
+        "applicationName": null,
+        "packageName": "com.kluge.SynthRiders",
+        "headsetModel": "meta-quest-3",
+        "type": 3,
+        "textureWidth": 2048,
+        "textureHeight": 2130,
+        "refreshRate": 90,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": -1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-04T17:07:29.2096578+00:00"
     },
     {
         "id": "cda2aac0-e68e-4ed1-b759-414c7722a861",
@@ -5127,13 +5239,13 @@
         "type": 2,
         "textureWidth": 1680,
         "textureHeight": 1760,
-        "refreshRate": 80,
-        "cpuLevel": 4,
-        "gpuLevel": 4,
-        "frLevel": 4,
+        "refreshRate": 90,
+        "cpuLevel": -1,
+        "gpuLevel": -1,
+        "frLevel": -1,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+        "updateDateUtc": "2023-11-28T18:28:56.3690277+00:00"
     },
     {
         "id": "885626fc-be2c-4903-93a3-45f73dd9e5a1",
@@ -5163,22 +5275,6 @@
         "cpuLevel": -1,
         "gpuLevel": 5,
         "frLevel": 3,
-        "email": null,
-        "needToBeReviewed": false,
-        "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
-    },
-    {
-        "id": "678e36c1-2941-4e5e-8ef1-4772bb10f553",
-        "applicationName": null,
-        "packageName": "com.kluge.SynthRiders",
-        "headsetModel": "meta-quest-3",
-        "type": 3,
-        "textureWidth": 2662,
-        "textureHeight": 2768,
-        "refreshRate": -1,
-        "cpuLevel": 4,
-        "gpuLevel": 4,
-        "frLevel": 2,
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
@@ -5589,15 +5685,15 @@
         "packageName": "com.odders.livechess",
         "headsetModel": "meta-quest-3",
         "type": 3,
-        "textureWidth": 2340,
-        "textureHeight": 2433,
+        "textureWidth": 2750,
+        "textureHeight": 2860,
         "refreshRate": -1,
-        "cpuLevel": 4,
-        "gpuLevel": 4,
-        "frLevel": 4,
+        "cpuLevel": -1,
+        "gpuLevel": 3,
+        "frLevel": 2,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+        "updateDateUtc": "2023-11-29T15:11:20.3664771+00:00"
     },
     {
         "id": "6b5b99ef-3603-4bfc-a4f5-4dc592fc03bf",
@@ -7200,6 +7296,22 @@
         "updateDateUtc": "2023-11-14T14:12:31.9568719+00:00"
     },
     {
+        "id": "aa141a4e-bddf-4842-a04e-659719d5c1de",
+        "applicationName": null,
+        "packageName": "com.camouflaj.salmon",
+        "headsetModel": "meta-quest-3",
+        "type": 3,
+        "textureWidth": 1900,
+        "textureHeight": 1976,
+        "refreshRate": 90,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-24T15:24:49.545775+00:00"
+    },
+    {
         "id": "db9311d7-4a31-4248-b071-65cfa388a1dd",
         "applicationName": null,
         "packageName": "com.Magnopus.MissionISS",
@@ -7221,15 +7333,15 @@
         "packageName": "com.ILMxLAB.VaderImmortal.ep1",
         "headsetModel": "meta-quest-3",
         "type": 3,
-        "textureWidth": 2340,
-        "textureHeight": 2433,
+        "textureWidth": 2850,
+        "textureHeight": 2964,
         "refreshRate": -1,
-        "cpuLevel": 4,
+        "cpuLevel": -1,
         "gpuLevel": 4,
-        "frLevel": 4,
+        "frLevel": 2,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+        "updateDateUtc": "2023-11-27T16:02:38.6968295+00:00"
     },
     {
         "id": "c39f639a-9481-4e4a-9339-65e2d2792b85",
@@ -7333,15 +7445,15 @@
         "packageName": "com.ILMxLAB.VaderImmortal.ep2",
         "headsetModel": "meta-quest-3",
         "type": 3,
-        "textureWidth": 1996,
-        "textureHeight": 2076,
+        "textureWidth": 2850,
+        "textureHeight": 2964,
         "refreshRate": -1,
-        "cpuLevel": 4,
+        "cpuLevel": -1,
         "gpuLevel": 4,
-        "frLevel": 4,
+        "frLevel": 2,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+        "updateDateUtc": "2023-11-28T18:27:25.4365618+00:00"
     },
     {
         "id": "b53d23b7-5562-4a98-a31e-677435bac0cd",
@@ -7824,6 +7936,22 @@
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
     },
     {
+        "id": "c7f2b5e3-1cc1-4962-9107-6e167cdb6bf8",
+        "applicationName": null,
+        "packageName": "com.google.android.apps.youtube.vr.oculus",
+        "headsetModel": "meta-quest-3",
+        "type": 4,
+        "textureWidth": 3000,
+        "textureHeight": 3120,
+        "refreshRate": 72,
+        "cpuLevel": -1,
+        "gpuLevel": -1,
+        "frLevel": 0,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-28T08:30:49.0339594+00:00"
+    },
+    {
         "id": "d9e14162-a3ed-4020-b14f-6e2c93465dcf",
         "applicationName": null,
         "packageName": "com.bhaptics.pioneer",
@@ -7854,6 +7982,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+    },
+    {
+        "id": "12dbf917-82eb-491c-9493-6e43fb60f772",
+        "applicationName": null,
+        "packageName": "com.kluge.SynthRiders",
+        "headsetModel": "meta-quest-3",
+        "type": 4,
+        "textureWidth": 2450,
+        "textureHeight": 2548,
+        "refreshRate": 72,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": -1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-04T16:58:33.8192817+00:00"
     },
     {
         "id": "48ddfbeb-c62f-4d1e-ac42-6e6102bac9c2",
@@ -9733,15 +9877,15 @@
         "packageName": "com.ILMxLAB.VaderImmortal.ep3",
         "headsetModel": "meta-quest-3",
         "type": 3,
-        "textureWidth": 2340,
-        "textureHeight": 2433,
+        "textureWidth": 2650,
+        "textureHeight": 2756,
         "refreshRate": -1,
-        "cpuLevel": 4,
-        "gpuLevel": 4,
-        "frLevel": 4,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 2,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+        "updateDateUtc": "2023-11-29T14:07:28.0056767+00:00"
     },
     {
         "id": "72423189-b82a-4d0f-a0a0-86cad5ad1588",
@@ -10760,12 +10904,12 @@
         "textureWidth": 1680,
         "textureHeight": 1760,
         "refreshRate": 90,
-        "cpuLevel": 4,
-        "gpuLevel": 4,
-        "frLevel": 4,
+        "cpuLevel": -1,
+        "gpuLevel": -1,
+        "frLevel": -1,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+        "updateDateUtc": "2023-11-29T14:07:33.859915+00:00"
     },
     {
         "id": "bba384ef-4cd8-4bcf-a949-967cc281f290",
@@ -11653,8 +11797,8 @@
         "packageName": "home",
         "headsetModel": "meta-quest-3",
         "type": 1,
-        "textureWidth": 1500,
-        "textureHeight": 1560,
+        "textureWidth": 1680,
+        "textureHeight": 1760,
         "refreshRate": 72,
         "cpuLevel": -1,
         "gpuLevel": -1,
@@ -12352,6 +12496,38 @@
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
     },
     {
+        "id": "0911b70c-cfb8-41c5-8080-ada3b6dd3ff6",
+        "applicationName": null,
+        "packageName": "com.camouflaj.salmon",
+        "headsetModel": "meta-quest-3",
+        "type": 4,
+        "textureWidth": 2250,
+        "textureHeight": 2340,
+        "refreshRate": 72,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-24T15:24:38.0629008+00:00"
+    },
+    {
+        "id": "f174dda6-1aa9-4f00-8ba6-adc9ab1a037d",
+        "applicationName": null,
+        "packageName": "com.Ubisoft.ACNexusVR",
+        "headsetModel": "meta-quest-3",
+        "type": 3,
+        "textureWidth": 2300,
+        "textureHeight": 2392,
+        "refreshRate": 72,
+        "cpuLevel": 4,
+        "gpuLevel": 5,
+        "frLevel": 3,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-26T18:24:22.9794274+00:00"
+    },
+    {
         "id": "94eb3fb3-93d8-4b0b-aafc-ae380553e498",
         "applicationName": null,
         "packageName": "com.drbeef.jkquest",
@@ -13033,11 +13209,11 @@
         "textureHeight": 1560,
         "refreshRate": 72,
         "cpuLevel": 0,
-        "gpuLevel": -1,
-        "frLevel": 4,
+        "gpuLevel": 0,
+        "frLevel": 2,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+        "updateDateUtc": "2023-11-29T15:20:45.084679+00:00"
     },
     {
         "id": "b0ce1c1f-5cfd-4f2f-b5dd-b5f2281f8f54",
@@ -13054,6 +13230,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+    },
+    {
+        "id": "67a8bac6-1cb2-4c87-b2f9-b62fe9b3270c",
+        "applicationName": null,
+        "packageName": "com.ILMxLAB.VaderImmortal.ep3",
+        "headsetModel": "meta-quest-3",
+        "type": 4,
+        "textureWidth": 3000,
+        "textureHeight": 3120,
+        "refreshRate": -1,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-29T14:07:17.9363756+00:00"
     },
     {
         "id": "1bedfc3d-6d54-48d9-9c88-b68123f3096b",
@@ -13680,6 +13872,22 @@
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
     },
     {
+        "id": "87a68504-3252-4ae1-9420-bfb60acab620",
+        "applicationName": null,
+        "packageName": "com.JustAddWater.SniperEliteVR_EN",
+        "headsetModel": "meta-quest-3",
+        "type": 4,
+        "textureWidth": 2030,
+        "textureHeight": 2111,
+        "refreshRate": -1,
+        "cpuLevel": 4,
+        "gpuLevel": 5,
+        "frLevel": 3,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-05T15:20:39.3208681+00:00"
+    },
+    {
         "id": "843a3aea-f36c-4e06-b342-bfbb3122ab25",
         "applicationName": null,
         "packageName": "com.resolutiongames.catr.ovr.quest",
@@ -14256,6 +14464,22 @@
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
     },
     {
+        "id": "7a21bec2-ed5c-431f-9cd3-c619658cc689",
+        "applicationName": null,
+        "packageName": "com.pirinel.chess",
+        "headsetModel": "meta-quest-3",
+        "type": 3,
+        "textureWidth": 1900,
+        "textureHeight": 1976,
+        "refreshRate": 72,
+        "cpuLevel": 0,
+        "gpuLevel": 1,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-29T15:19:48.2446328+00:00"
+    },
+    {
         "id": "56f478e8-a006-4ecf-a5df-c629767c45e8",
         "applicationName": null,
         "packageName": "com.FoggyBox.Startenders",
@@ -14757,15 +14981,15 @@
         "packageName": "com.TriangleFactory.Breachers",
         "headsetModel": "meta-quest-3",
         "type": 4,
-        "textureWidth": 2662,
-        "textureHeight": 2768,
+        "textureWidth": 3072,
+        "textureHeight": 3195,
         "refreshRate": 72,
         "cpuLevel": 5,
         "gpuLevel": 5,
-        "frLevel": 4,
+        "frLevel": 2,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+        "updateDateUtc": "2023-11-30T14:00:42.1849254+00:00"
     },
     {
         "id": "7884e67a-746c-4485-9774-cd4b2bd5cebb",
@@ -15013,15 +15237,15 @@
         "packageName": "com.SquingleStudios.Squingle",
         "headsetModel": "meta-quest-3",
         "type": 3,
-        "textureWidth": 2340,
-        "textureHeight": 2433,
-        "refreshRate": -1,
-        "cpuLevel": 4,
-        "gpuLevel": 4,
-        "frLevel": 4,
+        "textureWidth": 2560,
+        "textureHeight": 2662,
+        "refreshRate": 72,
+        "cpuLevel": -1,
+        "gpuLevel": 2,
+        "frLevel": 1,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+        "updateDateUtc": "2023-11-29T14:47:17.2035174+00:00"
     },
     {
         "id": "c797bba8-ac11-4912-8cc9-d0ecc80b3b50",
@@ -16708,9 +16932,9 @@
         "applicationName": null,
         "packageName": "com.CMGames.IntoTheRadius",
         "headsetModel": "meta-quest-3",
-        "type": 4,
-        "textureWidth": 2171,
-        "textureHeight": 2257,
+        "type": 3,
+        "textureWidth": 1900,
+        "textureHeight": 1976,
         "refreshRate": -1,
         "cpuLevel": -1,
         "gpuLevel": 5,
@@ -16878,6 +17102,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+    },
+    {
+        "id": "dffcc781-795e-487b-bcb2-e6a69c1c0e37",
+        "applicationName": null,
+        "packageName": "com.ILMxLAB.VaderImmortal.ep2",
+        "headsetModel": "meta-quest-3",
+        "type": 4,
+        "textureWidth": 3200,
+        "textureHeight": 3328,
+        "refreshRate": -1,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-28T18:27:13.6129475+00:00"
     },
     {
         "id": "23efbf03-7683-459e-8a5d-e6aac35aa457",
@@ -17184,6 +17424,22 @@
         "updateDateUtc": "2023-10-16T19:08:01.8122777+00:00"
     },
     {
+        "id": "dbf5483c-c7f0-4f22-b433-e9e21ded222c",
+        "applicationName": null,
+        "packageName": "com.tanirganemre.paradiddle",
+        "headsetModel": "meta-quest-3",
+        "type": 3,
+        "textureWidth": 2360,
+        "textureHeight": 2454,
+        "refreshRate": -1,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-29T15:31:01.5783491+00:00"
+    },
+    {
         "id": "1b23be7a-5c08-46d6-b32d-e9f5086068d0",
         "applicationName": null,
         "packageName": "com.SpicyTails.SaW",
@@ -17294,6 +17550,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-11-11T14:29:20.9422742+00:00"
+    },
+    {
+        "id": "49e5a2d0-32c3-4ba6-929b-ec2fecc65d2e",
+        "applicationName": null,
+        "packageName": "com.tanirganemre.paradiddle",
+        "headsetModel": "meta-quest-3",
+        "type": 4,
+        "textureWidth": 2816,
+        "textureHeight": 2929,
+        "refreshRate": 72,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-29T15:33:55.3841298+00:00"
     },
     {
         "id": "f99fa879-3fe2-43f7-a016-ecc1c376d53e",
@@ -17952,6 +18224,22 @@
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
     },
     {
+        "id": "e2183bd7-3c48-4307-b95c-f40f9130b96d",
+        "applicationName": null,
+        "packageName": "com.jjbkluge.SynthRiders",
+        "headsetModel": "meta-quest-3",
+        "type": 4,
+        "textureWidth": 2450,
+        "textureHeight": 2548,
+        "refreshRate": 72,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": -1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-04T16:58:33.8192817+00:00"
+    },
+    {
         "id": "c3a93065-1bca-4070-bd29-f4209e6e9754",
         "applicationName": null,
         "packageName": "com.hybridxreality.PianoVR",
@@ -18254,6 +18542,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-10-16T18:31:31.4350715+00:00"
+    },
+    {
+        "id": "86c3266b-a211-4107-9496-f7c8ee3e74ab",
+        "applicationName": null,
+        "packageName": "com.Ubisoft.ACNexusVR",
+        "headsetModel": "meta-quest-3",
+        "type": 2,
+        "textureWidth": 1680,
+        "textureHeight": 1760,
+        "refreshRate": 90,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-26T16:00:23.2236042+00:00"
     },
     {
         "id": "e3354750-22f3-435e-b1ee-f7d3353e92c1",
@@ -18686,6 +18990,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-11-04T17:25:59.6600087+00:00"
+    },
+    {
+        "id": "47c584c3-d5a4-4bf2-a874-fd7231bd0aec",
+        "applicationName": null,
+        "packageName": "com.VertigoGames.The7thGuestVR",
+        "headsetModel": "meta-quest-3",
+        "type": 1,
+        "textureWidth": 1680,
+        "textureHeight": 1760,
+        "refreshRate": 72,
+        "cpuLevel": 2,
+        "gpuLevel": 4,
+        "frLevel": 1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-26T22:51:09.2108167+00:00"
     },
     {
         "id": "1da51105-40e6-48c5-ad9a-fd8e50c1be35",

@@ -2144,6 +2144,22 @@
         "updateDateUtc": "2022-12-19T17:46:29.8811617+00:00"
     },
     {
+        "id": "bfdf47cb-249a-47cf-a4b4-1f69bbfec4a5",
+        "applicationName": null,
+        "packageName": "com.Ubisoft.ACNexusVR",
+        "headsetModel": "meta-quest-pro",
+        "type": 2,
+        "textureWidth": 1440,
+        "textureHeight": 1584,
+        "refreshRate": -1,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-26T16:19:00.1233333+00:00"
+    },
+    {
         "id": "8465cbd7-4172-4a06-95ed-1f6b67b896bc",
         "applicationName": null,
         "packageName": "com.idreams.potteryvrq",

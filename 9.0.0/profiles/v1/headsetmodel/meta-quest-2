@@ -7392,6 +7392,22 @@
         "updateDateUtc": "2022-11-27T21:09:10.1952614+00:00"
     },
     {
+        "id": "841e78c2-1492-454f-8439-67c4a94b738d",
+        "applicationName": null,
+        "packageName": "com.Ubisoft.ACNexusVR",
+        "headsetModel": "meta-quest-2",
+        "type": 2,
+        "textureWidth": 1440,
+        "textureHeight": 1584,
+        "refreshRate": -1,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-11-26T16:19:00.1247596+00:00"
+    },
+    {
         "id": "be901957-7324-4757-a771-67c7d259f58b",
         "applicationName": null,
         "packageName": "com.StressLevelZero.BONELAB",
