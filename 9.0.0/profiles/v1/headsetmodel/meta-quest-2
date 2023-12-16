@@ -960,22 +960,6 @@
         "updateDateUtc": "2022-10-15T20:58:26.0615567+00:00"
     },
     {
-        "id": "f7f1dcef-a245-45d1-8cf4-0bbf75f20d2e",
-        "applicationName": null,
-        "packageName": "com.RealitiesIO.puzzlingPlaces",
-        "headsetModel": "meta-quest-2",
-        "type": 4,
-        "textureWidth": 2560,
-        "textureHeight": 2816,
-        "refreshRate": -1,
-        "cpuLevel": -1,
-        "gpuLevel": 5,
-        "frLevel": 1,
-        "email": null,
-        "needToBeReviewed": false,
-        "updateDateUtc": "2022-10-15T20:58:25.9053097+00:00"
-    },
-    {
         "id": "a38a5025-dcc8-4ac4-bf66-0c3f3cbd8d54",
         "applicationName": null,
         "packageName": "com.innerspacevr.afishermanstale",
@@ -1198,22 +1182,6 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-07-17T09:08:29.9610911+00:00"
-    },
-    {
-        "id": "2f2f666d-ac6d-40b6-8164-101392775bec",
-        "applicationName": null,
-        "packageName": "com.FunktronicLabs.TheLightBrigade",
-        "headsetModel": "meta-quest-2",
-        "type": 3,
-        "textureWidth": 1728,
-        "textureHeight": 1901,
-        "refreshRate": -1,
-        "cpuLevel": 5,
-        "gpuLevel": 5,
-        "frLevel": 4,
-        "email": null,
-        "needToBeReviewed": false,
-        "updateDateUtc": "2023-03-23T13:51:29.5608562+00:00"
     },
     {
         "id": "6ba8d6bc-3a53-44c4-a244-102f45f6c0db",
@@ -2421,15 +2389,15 @@
         "packageName": "com.RealitiesIO.puzzlingPlaces",
         "headsetModel": "meta-quest-2",
         "type": 3,
-        "textureWidth": 2200,
-        "textureHeight": 2420,
-        "refreshRate": -1,
+        "textureWidth": 1850,
+        "textureHeight": 2035,
+        "refreshRate": 68,
         "cpuLevel": -1,
-        "gpuLevel": 4,
+        "gpuLevel": 5,
         "frLevel": 1,
         "email": null,
         "needToBeReviewed": false,
-        "updateDateUtc": "2022-10-15T20:58:25.9053097+00:00"
+        "updateDateUtc": "2023-12-15T11:48:53.5096865+00:00"
     },
     {
         "id": "155cdd1b-d44c-44b7-b11f-1ecc1256e5bb",
@@ -4704,6 +4672,22 @@
         "updateDateUtc": "2022-10-16T21:06:47.72249+00:00"
     },
     {
+        "id": "3dd49daf-6003-41ea-bb04-3fc3336c1363",
+        "applicationName": null,
+        "packageName": "com.WeirdEyeStudios.PuzzlingPaths",
+        "headsetModel": "meta-quest-2",
+        "type": 1,
+        "textureWidth": 1440,
+        "textureHeight": 1584,
+        "refreshRate": 68,
+        "cpuLevel": 0,
+        "gpuLevel": 1,
+        "frLevel": -1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-15T14:38:33.0101083+00:00"
+    },
+    {
         "id": "24a61347-c912-4dde-847a-3ff6808b039b",
         "applicationName": null,
         "packageName": "com.Solfar.InDeath",
@@ -5888,6 +5872,22 @@
         "updateDateUtc": "2022-10-16T21:06:47.69123+00:00"
     },
     {
+        "id": "818bcc46-893f-45f7-bd46-4ee3abe640d6",
+        "applicationName": null,
+        "packageName": "com.thunderful.legobricktales",
+        "headsetModel": "meta-quest-2",
+        "type": 3,
+        "textureWidth": 1780,
+        "textureHeight": 1958,
+        "refreshRate": -1,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-11T17:33:11.843253+00:00"
+    },
+    {
         "id": "685cc9a3-fb11-43b4-82ef-4f0a9d903f10",
         "applicationName": null,
         "packageName": "com.fasttravelgames.diorama",
@@ -6558,6 +6558,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2022-10-16T21:06:47.53499+00:00"
+    },
+    {
+        "id": "6156e127-690b-4f7a-85dc-5a3617ffee61",
+        "applicationName": null,
+        "packageName": "com.luciddreams.thekey",
+        "headsetModel": "meta-quest-2",
+        "type": 4,
+        "textureWidth": 2400,
+        "textureHeight": 2640,
+        "refreshRate": 68,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": -1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-15T14:53:26.2584767+00:00"
     },
     {
         "id": "e9e72d55-cb15-431b-9fda-5a65c5904345",
@@ -7374,6 +7390,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-06-11T14:12:28.8561951+00:00"
+    },
+    {
+        "id": "c25fb119-942c-4c20-8960-678e54f712cb",
+        "applicationName": null,
+        "packageName": "com.WeirdEyeStudios.PuzzlingPaths",
+        "headsetModel": "meta-quest-2",
+        "type": 4,
+        "textureWidth": 2450,
+        "textureHeight": 2695,
+        "refreshRate": 68,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-15T14:36:43.6857939+00:00"
     },
     {
         "id": "00a13f4c-c9ea-4268-91eb-67b3e8f6b382",
@@ -8304,6 +8336,22 @@
         "updateDateUtc": "2022-10-27T15:52:06.7262131+00:00"
     },
     {
+        "id": "9bc29735-9c12-4ede-b192-7438aafd2f12",
+        "applicationName": null,
+        "packageName": "com.WeirdEyeStudios.PuzzlingPaths",
+        "headsetModel": "meta-quest-2",
+        "type": 3,
+        "textureWidth": 2100,
+        "textureHeight": 2310,
+        "refreshRate": 68,
+        "cpuLevel": -1,
+        "gpuLevel": 3,
+        "frLevel": 2,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-15T14:37:33.1249564+00:00"
+    },
+    {
         "id": "ea8a9f3b-ab86-4cb0-a3e7-7441e84e0bc2",
         "applicationName": null,
         "packageName": "net.mobilemischief.spunkydungeonquest",
@@ -9022,6 +9070,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2022-10-16T21:06:46.14438+00:00"
+    },
+    {
+        "id": "43fde3ca-0c1a-4156-834e-7ea0d3042785",
+        "applicationName": null,
+        "packageName": "com.PunkyPixels.Cartridge81",
+        "headsetModel": "meta-quest-2",
+        "type": 1,
+        "textureWidth": 1440,
+        "textureHeight": 1584,
+        "refreshRate": 68,
+        "cpuLevel": -1,
+        "gpuLevel": 2,
+        "frLevel": 0,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-13T13:45:21.9507483+00:00"
     },
     {
         "id": "d0890f9e-0684-4c2f-9672-7eae953fdc80",
@@ -10478,22 +10542,6 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2023-09-13T16:22:24.3906297+00:00"
-    },
-    {
-        "id": "735a9d80-e021-4665-993d-9294a5c0f957",
-        "applicationName": null,
-        "packageName": "com.google.android.apps.youtube.vr.oculus",
-        "headsetModel": "meta-quest-2",
-        "type": 4,
-        "textureWidth": 2300,
-        "textureHeight": 2530,
-        "refreshRate": 72,
-        "cpuLevel": -1,
-        "gpuLevel": -1,
-        "frLevel": 0,
-        "email": null,
-        "needToBeReviewed": false,
-        "updateDateUtc": "2022-10-15T20:58:26.54592+00:00"
     },
     {
         "id": "8414a89c-cd45-41d1-827a-929afd2da404",
@@ -12014,6 +12062,22 @@
         "email": null,
         "needToBeReviewed": false,
         "updateDateUtc": "2022-10-16T21:06:46.06625+00:00"
+    },
+    {
+        "id": "b95e6689-12d2-4572-9940-a9eeffe33457",
+        "applicationName": null,
+        "packageName": "com.PunkyPixels.Cartridge81",
+        "headsetModel": "meta-quest-2",
+        "type": 3,
+        "textureWidth": 1700,
+        "textureHeight": 1870,
+        "refreshRate": 68,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": 0,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-13T13:44:03.4822367+00:00"
     },
     {
         "id": "8a705c9b-74f2-4d33-934a-aa0bd384338a",
@@ -16930,7 +16994,7 @@
     {
         "id": "e9540cb4-4307-4ecf-a868-ed7f3a2cc811",
         "applicationName": null,
-        "packageName": "com.vankrupt.pavlovbeta",
+        "packageName": "com.vankrupt.pavlov",
         "headsetModel": "meta-quest-2",
         "type": 1,
         "textureWidth": 1440,
@@ -17154,7 +17218,7 @@
     {
         "id": "ec3f209f-af64-44ff-a920-f11fbf2098d7",
         "applicationName": null,
-        "packageName": "com.vankrupt.pavlovbeta",
+        "packageName": "com.vankrupt.pavlov",
         "headsetModel": "meta-quest-2",
         "type": 3,
         "textureWidth": 1536,

@@ -528,6 +528,38 @@
         "updateDateUtc": "2022-10-15T21:08:26.3989108+00:00"
     },
     {
+        "id": "e0a0fbca-d89e-4171-a267-c0cb97fe4f1a",
+        "applicationName": null,
+        "packageName": "com.chichichap.Luna",
+        "headsetModel": "meta-quest-1",
+        "type": 3,
+        "textureWidth": 1620,
+        "textureHeight": 1782,
+        "refreshRate": 60,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": -1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-12T03:53:59.6787264+00:00"
+    },
+    {
+        "id": "1ccd3bb8-2608-4331-b538-c46fe2f56953",
+        "applicationName": null,
+        "packageName": "com.luciddreams.thekey",
+        "headsetModel": "meta-quest-1",
+        "type": 3,
+        "textureWidth": 1792,
+        "textureHeight": 1971,
+        "refreshRate": -2,
+        "cpuLevel": -1,
+        "gpuLevel": 5,
+        "frLevel": -1,
+        "email": null,
+        "needToBeReviewed": false,
+        "updateDateUtc": "2023-12-07T14:40:29.4497143+00:00"
+    },
+    {
         "id": "c03062c9-b0b4-4cf5-aab0-c95436119d53",
         "applicationName": null,
         "packageName": "com.Tunermaxx.RiseoftheRainbowReactor",
